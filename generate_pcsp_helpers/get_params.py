@@ -25,17 +25,17 @@ def get_params_helper(df, hand):
 
     # Stroke
     De_Stroke_shallow = df.query(
-        'shot_type==4 and from_which_court==1 and depth==1')
+        'shot_type==4 and from_which_court==1 and prev_shot_depth==1')
     Mid_Stroke_shallow = df.query(
-        'shot_type==4 and from_which_court==2 and depth==1')
+        'shot_type==4 and from_which_court==2 and prev_shot_depth==1')
     Ad_Stroke_shallow = df.query(
-        'shot_type==4 and from_which_court==3 and depth==1')
+        'shot_type==4 and from_which_court==3 and prev_shot_depth==1')
     De_Stroke_deep = df.query(
-        'shot_type==4 and from_which_court==1 and (depth==2 or depth==3)')
+        'shot_type==4 and from_which_court==1 and (prev_shot_depth==2 or prev_shot_depth==3)')
     Mid_Stroke_deep = df.query(
-        'shot_type==4 and from_which_court==2 and (depth==2 or depth==3)')
+        'shot_type==4 and from_which_court==2 and (prev_shot_depth==2 or prev_shot_depth==3)')
     Ad_Stroke_deep = df.query(
-        'shot_type==4 and from_which_court==3 and (depth==2 or depth==3)')
+        'shot_type==4 and from_which_court==3 and (prev_shot_depth==2 or prev_shot_depth==3)')
 
     results = []
     # Serve
