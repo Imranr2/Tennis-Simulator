@@ -5,14 +5,19 @@ from tqdm import tqdm as tqdm
 import warnings
 warnings.simplefilter("ignore")
 
+data = read_data_from_csv()
 
 # generate pcsp file
-def generate_pcsp(params, date, ply1_name, ply2_name, hand1, hand2):
+def generate_pcsp(date, ply1_name, ply2_name, ply1_hand, ply2_hand, pcsp_filename):
+    params = get_params(
+        data, date, ply1_name, ply2_name, ply1_hand, ply2_hand
+    )
     VAR = 'var.txt'
-    HAND = '%s_%s.txt' % (hand1, hand2)
-    file_name = '%s_%s_' % (hand1, hand2)
-    file_name += '%s_%s_%s.pcsp' % (date, ply1_name.replace(' ',
-                                    '-'), ply2_name.replace(' ', '-'))
+    HAND = '%s_%s.txt' % (ply1_hand, ply2_hand)
+    # Keeping it here in case its needed
+    # file_name = '%s_%s_' % (hand1, hand2)
+    # file_name += '%s_%s_%s.pcsp' % (date, ply1_name.replace(' ',
+    #                                '-'), ply2_name.replace(' ', '-'))
     # write to file
     lines = []
     with open(VAR) as f:
@@ -23,15 +28,12 @@ def generate_pcsp(params, date, ply1_name, ply2_name, hand1, hand2):
     with open(HAND) as f:
         lines_3 = f.readlines()
     lines = lines_1 + lines_2 + lines_3
-    with open(file_name, 'w') as f:
+    with open(pcsp_filename, 'w') as f:
         for line in lines:
             f.write(line)
 
 
-date, ply1_name, ply2_name, ply1_hand, ply2_hand, gender = get_args()
-data = read_data_from_csv()
-params = get_params(
-    data, date, ply1_name, ply2_name, ply1_hand, ply2_hand
-)
+# date, ply1_name, ply2_name, ply1_hand, ply2_hand, gender, pcsp_filename = get_args()
 
-generate_pcsp(params, date, ply1_name, ply2_name, ply1_hand, ply2_hand)
+
+# generate_pcsp(date, ply1_name, ply2_name, ply1_hand, ply2_hand, pcsp_filename)
