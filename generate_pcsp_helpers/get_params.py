@@ -125,7 +125,7 @@ def get_params_helper(df, hand):
     return results
 
 
-def get_params(data, date, ply1_name, ply2_name, ply1_hand, ply2_hand):
+def get_params(data, date, ply1_name, ply2_name, ply1_hand, ply2_hand): 
     prev_date = (pd.to_datetime(date) -
                  relativedelta(years=2)).strftime('%Y-%m-%d')
 
