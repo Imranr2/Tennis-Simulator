@@ -1,0 +1,2419 @@
+date,P1Name,P2Name,P1WinProb,P2WinProb,P1Hand,P2Hand,Gender
+2018-01-01,Zarina Diyas,Kyle Edmund,,,RH,RH,M
+2018-01-01,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-01-02,Kiki Bertens,Roberto Carballes Baena,,,RH,LH,M
+2018-01-02,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-01-02,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,M
+2018-01-03,Kyle Edmund,Kiki Bertens,,,RH,RH,M
+2018-01-04,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-01-04,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-01-04,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,M
+2018-01-05,Zarina Diyas,Zarina Diyas,,,RH,RH,M
+2018-01-05,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-01-06,Kyle Edmund,Kiki Bertens,,,RH,RH,M
+2018-01-07,Kyle Edmund,Zarina Diyas,,,RH,RH,M
+2018-01-01,Laura Siegemund,Daria Kasatkina,,,LH,RH,M
+2018-01-01,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-01-01,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-01-02,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-01-02,Timea Babos,Petra Cetkovska,,,RH,RH,M
+2018-01-02,Pablo Andujar,Zarina Diyas,,,RH,RH,M
+2018-01-02,Roberto Carballes Baena,Kyle Edmund,,,RH,RH,M
+2018-01-03,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-01-03,Daria Kasatkina,Laura Siegemund,,,RH,LH,M
+2018-01-03,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-01-04,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-01-04,Roberto Carballes Baena,Timea Babos,,,RH,RH,M
+2018-01-05,Daria Kasatkina,Daria Kasatkina,,,RH,LH,M
+2018-01-05,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,M
+2018-01-06,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,M
+2018-01-01,Laura Siegemund,Daria Kasatkina,,,RH,RH,M
+2018-01-02,Zarina Diyas,Zarina Diyas,,,RH,RH,M
+2018-01-03,Daria Kasatkina,Timea Babos,,,RH,RH,M
+2018-01-03,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-01-04,Nicolas Almagro,Mikhail Kukushkin,,,RH,RH,M
+2018-01-04,Daria Kasatkina,Zarina Diyas,,,RH,RH,M
+2018-01-05,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-01-05,Nicolas Almagro,Daria Kasatkina,,,RH,RH,M
+2018-01-06,Laura Siegemund,Nicolas Almagro,,,RH,RH,M
+2018-01-07,Laura Siegemund,Laura Siegemund,,,RH,LH,M
+2018-01-08,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-01-08,Timea Babos,Laura Siegemund,,,RH,RH,M
+2018-01-09,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-01-09,Pablo Andujar,Zarina Diyas,,,RH,RH,M
+2018-01-10,Zarina Diyas,Kyle Edmund,,,RH,RH,M
+2018-01-10,Laura Siegemund,Daria Kasatkina,,,LH,RH,M
+2018-01-10,Timea Babos,Laura Siegemund,,,RH,RH,M
+2018-01-10,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-01-10,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-01-10,Pablo Andujar,Laura Siegemund,,,RH,LH,M
+2018-01-11,Zarina Diyas,Timea Babos,,,RH,RH,M
+2018-01-11,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-01-12,Pablo Andujar,Zarina Diyas,,,RH,RH,M
+2018-01-08,Pablo Andujar,Kiki Bertens,,,RH,LH,M
+2018-01-08,Kyle Edmund,Kiki Bertens,,,LH,RH,M
+2018-01-09,Kyle Edmund,Laura Siegemund,,,RH,LH,M
+2018-01-09,Daria Kasatkina,Pablo Andujar,,,RH,RH,M
+2018-01-09,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-01-10,Kyle Edmund,Pablo Andujar,,,LH,RH,M
+2018-01-10,Daria Kasatkina,Kyle Edmund,,,RH,RH,M
+2018-01-10,Kyle Edmund,Daria Kasatkina,,,LH,RH,M
+2018-01-10,Roberto Carballes Baena,Roberto Carballes Baena,,,LH,RH,M
+2018-01-11,Fabio Fognini,Kyle Edmund,,,RH,LH,M
+2018-01-11,Daria Kasatkina,Roberto Carballes Baena,,,RH,LH,M
+2018-01-15,Zarina Diyas,Daria Kasatkina,,,RH,RH,M
+2018-01-15,Kiki Bertens,Nicolas Almagro,,,RH,RH,M
+2018-01-15,Kiki Bertens,Petra Cetkovska,,,RH,RH,M
+2018-01-15,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-01-15,Roberto Carballes Baena,Kiki Bertens,,,LH,LH,M
+2018-01-15,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-01-15,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-01-15,Roberto Carballes Baena,Petra Cetkovska,,,LH,RH,M
+2018-01-15,Laura Siegemund,Kiki Bertens,,,RH,LH,M
+2018-01-15,Daria Kasatkina,Kyle Edmund,,,RH,RH,M
+2018-01-15,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-01-15,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-01-15,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-01-15,Pablo Andujar,Gerald Melzer,,,RH,LH,M
+2018-01-15,Roberto Carballes Baena,Kiki Bertens,,,RH,RH,M
+2018-01-15,Pablo Andujar,Daria Kasatkina,,,LH,RH,M
+2018-01-15,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-01-16,Kyle Edmund,Daria Kasatkina,,,RH,RH,M
+2018-01-16,Laura Siegemund,Pablo Andujar,,,LH,RH,M
+2018-01-16,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-01-16,Daria Kasatkina,Kyle Edmund,,,RH,LH,M
+2018-01-16,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-01-16,Timea Babos,Pablo Andujar,,,RH,RH,M
+2018-01-16,Timea Babos,Mikhail Kukushkin,,,RH,RH,M
+2018-01-16,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-01-16,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-01-16,Lara Arruabarrena,Zarina Diyas,,,RH,RH,M
+2018-01-16,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-01-16,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-01-16,Fabio Fognini,Laura Siegemund,,,RH,LH,M
+2018-01-16,Timea Babos,Zarina Diyas,,,RH,RH,M
+2018-01-16,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-01-16,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-01-16,Laura Siegemund,Daria Kasatkina,,,RH,LH,M
+2018-01-17,Pablo Andujar,Pablo Andujar,,,RH,LH,M
+2018-01-17,Roberto Carballes Baena,Zarina Diyas,,,LH,RH,M
+2018-01-17,Daria Kasatkina,Roberto Carballes Baena,,,RH,LH,M
+2018-01-17,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-01-17,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-01-17,Zarina Diyas,Laura Siegemund,,,RH,RH,M
+2018-01-17,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-01-17,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,M
+2018-01-17,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-01-17,Roberto Carballes Baena,Kyle Edmund,,,LH,RH,M
+2018-01-17,Daria Kasatkina,Pablo Andujar,,,RH,RH,M
+2018-01-17,Kyle Edmund,Laura Siegemund,,,RH,RH,M
+2018-01-18,Timea Babos,Daria Kasatkina,,,RH,RH,M
+2018-01-18,Laura Siegemund,Lara Arruabarrena,,,RH,RH,M
+2018-01-18,Kyle Edmund,Laura Siegemund,,,LH,LH,M
+2018-01-18,Fabio Fognini,Kiki Bertens,,,RH,RH,M
+2018-01-18,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,M
+2018-01-18,Pablo Andujar,Timea Babos,,,RH,RH,M
+2018-01-18,Laura Siegemund,Timea Babos,,,RH,RH,M
+2018-01-18,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-01-19,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-01-19,Kiki Bertens,Roberto Carballes Baena,,,RH,LH,M
+2018-01-19,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-01-19,Daria Kasatkina,Zarina Diyas,,,RH,RH,M
+2018-01-19,Roberto Carballes Baena,Kiki Bertens,,,LH,RH,M
+2018-01-19,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-01-20,Laura Siegemund,Kyle Edmund,,,RH,LH,M
+2018-01-20,Fabio Fognini,Pablo Andujar,,,RH,RH,M
+2018-01-20,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-01-20,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-01-21,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-01-21,Roberto Carballes Baena,Daria Kasatkina,,,LH,RH,M
+2018-01-21,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-01-21,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-01-22,Pablo Andujar,Fabio Fognini,,,RH,RH,M
+2018-01-22,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-01-22,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-01-22,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-01-23,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-01-23,Kiki Bertens,Roberto Carballes Baena,,,RH,LH,M
+2018-01-24,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-01-24,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-01-25,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-01-26,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-01-28,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-02-05,Daria Kasatkina,Laura Siegemund,,,RH,LH,M
+2018-02-06,Pablo Andujar,Pablo Andujar,,,RH,RH,M
+2018-02-07,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,M
+2018-02-07,Kyle Edmund,Kiki Bertens,,,RH,RH,M
+2018-02-07,Timea Babos,Laura Siegemund,,,RH,RH,M
+2018-02-07,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-02-08,Kiki Bertens,Pablo Andujar,,,RH,LH,M
+2018-02-08,Daria Kasatkina,Roberto Carballes Baena,,,RH,RH,M
+2018-02-09,Timea Babos,Kiki Bertens,,,RH,RH,M
+2018-02-09,Daria Kasatkina,Daria Kasatkina,,,RH,RH,M
+2018-02-10,Timea Babos,Timea Babos,,,RH,RH,M
+2018-02-11,Daria Kasatkina,Timea Babos,,,RH,RH,M
+2018-02-07,Gerald Melzer,Kiki Bertens,,,LH,RH,M
+2018-02-08,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-02-08,Kyle Edmund,Kiki Bertens,,,RH,RH,M
+2018-02-10,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-02-05,Kyle Edmund,Kiki Bertens,,,RH,RH,M
+2018-02-06,Laura Siegemund,Ernests Gulbis,,,RH,RH,M
+2018-02-07,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-02-08,Roberto Carballes Baena,Daria Kasatkina,,,LH,RH,M
+2018-02-08,Laura Siegemund,Zarina Diyas,,,RH,RH,M
+2018-02-08,Pablo Andujar,Kyle Edmund,,,RH,LH,M
+2018-02-08,Laura Siegemund,Zarina Diyas,,,RH,LH,M
+2018-02-09,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-02-12,Kyle Edmund,Pablo Andujar,,,RH,LH,M
+2018-02-12,Kiki Bertens,Kyle Edmund,,,LH,RH,M
+2018-02-13,Pablo Andujar,Laura Siegemund,,,RH,LH,M
+2018-02-13,Roberto Carballes Baena,Kiki Bertens,,,RH,RH,M
+2018-02-13,Laura Siegemund,Kiki Bertens,,,LH,RH,M
+2018-02-14,Daria Kasatkina,Laura Siegemund,,,LH,LH,M
+2018-02-14,Daria Kasatkina,Pablo Andujar,,,RH,LH,M
+2018-02-15,Laura Siegemund,Laura Siegemund,,,RH,LH,M
+2018-02-15,Roberto Carballes Baena,Kyle Edmund,,,RH,RH,M
+2018-02-16,Kyle Edmund,Fabio Fognini,,,RH,RH,M
+2018-02-16,Pablo Andujar,Daria Kasatkina,,,RH,RH,M
+2018-02-16,Roberto Carballes Baena,Kyle Edmund,,,RH,RH,M
+2018-02-17,Laura Siegemund,Daria Kasatkina,,,RH,LH,M
+2018-02-17,Pablo Andujar,Kiki Bertens,,,RH,LH,M
+2018-02-17,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,M
+2018-02-18,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-02-12,Daria Kasatkina,Pablo Andujar,,,RH,RH,M
+2018-02-12,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-02-13,Zarina Diyas,Laura Siegemund,,,RH,LH,M
+2018-02-13,Timea Babos,Zarina Diyas,,,RH,RH,M
+2018-02-14,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-02-14,Kyle Edmund,Timea Babos,,,LH,RH,M
+2018-02-15,Roberto Carballes Baena,Kiki Bertens,,,RH,RH,M
+2018-02-15,Laura Siegemund,Daria Kasatkina,,,RH,RH,M
+2018-02-15,Zarina Diyas,Zarina Diyas,,,RH,RH,M
+2018-02-16,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-02-16,Daria Kasatkina,Zarina Diyas,,,RH,RH,M
+2018-02-17,Nicolas Almagro,Laura Siegemund,,,RH,RH,M
+2018-02-17,Daria Kasatkina,Kyle Edmund,,,RH,LH,M
+2018-02-18,Nicolas Almagro,Roberto Carballes Baena,,,RH,RH,M
+2018-02-18,Nicolas Almagro,Daria Kasatkina,,,RH,RH,M
+2018-02-12,Kyle Edmund,Zarina Diyas,,,LH,LH,M
+2018-02-12,Pablo Andujar,Laura Siegemund,,,RH,LH,M
+2018-02-12,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-02-12,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-02-13,Timea Babos,Kyle Edmund,,,RH,RH,M
+2018-02-14,Daria Kasatkina,Daria Kasatkina,,,RH,RH,M
+2018-02-14,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-02-14,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-02-14,Kiki Bertens,Pablo Andujar,,,RH,LH,M
+2018-02-14,Timea Babos,Kyle Edmund,,,RH,LH,M
+2018-02-14,Pablo Andujar,Laura Siegemund,,,RH,RH,M
+2018-02-14,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-02-15,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-02-15,Kiki Bertens,Petra Cetkovska,,,RH,RH,M
+2018-02-15,Kiki Bertens,Petra Cetkovska,,,RH,RH,M
+2018-02-16,Timea Babos,Pablo Andujar,,,RH,RH,M
+2018-02-16,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-02-16,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-02-17,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-02-17,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-02-18,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-02-19,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-02-20,Timea Babos,Kyle Edmund,,,RH,RH,M
+2018-02-20,Zarina Diyas,Pablo Andujar,,,RH,RH,M
+2018-02-20,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-02-20,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-02-20,Laura Siegemund,Daria Kasatkina,,,RH,RH,M
+2018-02-21,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-02-21,Timea Babos,Zarina Diyas,,,RH,RH,M
+2018-02-21,Zarina Diyas,Daria Kasatkina,,,RH,RH,M
+2018-02-23,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-02-24,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-02-24,Timea Babos,Zarina Diyas,,,RH,RH,M
+2018-02-25,Laura Siegemund,Timea Babos,,,RH,RH,M
+2018-02-19,Kiki Bertens,Mikhail Kukushkin,,,RH,RH,M
+2018-02-19,Pablo Andujar,Zarina Diyas,,,RH,RH,M
+2018-02-20,Petra Cetkovska,Laura Siegemund,,,RH,RH,M
+2018-02-21,Laura Siegemund,Zarina Diyas,,,LH,RH,M
+2018-02-21,Roberto Carballes Baena,Laura Siegemund,,,LH,RH,M
+2018-02-21,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-02-21,Pablo Andujar,Pablo Andujar,,,RH,RH,M
+2018-02-22,Petra Cetkovska,Laura Siegemund,,,RH,RH,M
+2018-02-22,Kyle Edmund,Roberto Carballes Baena,,,RH,LH,M
+2018-02-23,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-02-23,Daria Kasatkina,Petra Cetkovska,,,RH,RH,M
+2018-02-19,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-02-19,Laura Siegemund,Kyle Edmund,,,LH,RH,M
+2018-02-19,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-02-20,Fabio Fognini,Pablo Andujar,,,RH,LH,M
+2018-02-20,Pablo Andujar,Gerald Melzer,,,RH,LH,M
+2018-02-20,Kiki Bertens,Laura Siegemund,,,LH,LH,M
+2018-02-20,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-02-20,Roberto Carballes Baena,Laura Siegemund,,,RH,LH,M
+2018-02-21,Laura Siegemund,Kyle Edmund,,,RH,RH,M
+2018-02-21,Daria Kasatkina,Kiki Bertens,,,RH,LH,M
+2018-02-22,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-02-22,Fabio Fognini,Daria Kasatkina,,,RH,RH,M
+2018-02-22,Roberto Carballes Baena,Kiki Bertens,,,RH,RH,M
+2018-02-22,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-02-23,Daria Kasatkina,Roberto Carballes Baena,,,RH,RH,M
+2018-02-23,Laura Siegemund,Laura Siegemund,,,LH,RH,M
+2018-02-24,Fabio Fognini,Pablo Andujar,,,RH,RH,M
+2018-02-24,Laura Siegemund,Fabio Fognini,,,LH,RH,M
+2018-02-25,Daria Kasatkina,Laura Siegemund,,,RH,LH,M
+2018-02-26,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-02-27,Zarina Diyas,Zarina Diyas,,,RH,RH,M
+2018-02-27,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-02-27,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-02-27,Kyle Edmund,Pablo Andujar,,,LH,RH,M
+2018-02-27,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-02-28,Daria Kasatkina,Laura Siegemund,,,RH,LH,M
+2018-02-28,Kyle Edmund,Kiki Bertens,,,LH,RH,M
+2018-02-28,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-02-28,Zarina Diyas,Daria Kasatkina,,,RH,RH,M
+2018-03-01,Laura Siegemund,Timea Babos,,,RH,RH,M
+2018-03-01,Kyle Edmund,Petra Cetkovska,,,LH,RH,M
+2018-03-01,Nicolas Almagro,Kyle Edmund,,,RH,LH,M
+2018-03-01,Kiki Bertens,Kyle Edmund,,,RH,LH,M
+2018-03-01,Laura Siegemund,Zarina Diyas,,,RH,RH,M
+2018-03-02,Nicolas Almagro,Kiki Bertens,,,RH,RH,M
+2018-03-03,Nicolas Almagro,Kiki Bertens,,,RH,RH,M
+2018-02-26,Pablo Andujar,Kyle Edmund,,,RH,RH,M
+2018-02-26,Pablo Andujar,Laura Siegemund,,,RH,RH,M
+2018-02-26,Daria Kasatkina,Roberto Carballes Baena,,,RH,LH,M
+2018-02-27,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-02-27,Petra Cetkovska,Kiki Bertens,,,RH,RH,M
+2018-02-27,Daria Kasatkina,Ernests Gulbis,,,RH,RH,M
+2018-02-27,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-02-27,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-02-28,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-02-28,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-02-28,Petra Cetkovska,Pablo Andujar,,,RH,RH,M
+2018-02-28,Zarina Diyas,Zarina Diyas,,,RH,RH,M
+2018-03-01,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-03-01,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-03-01,Petra Cetkovska,Kiki Bertens,,,RH,RH,M
+2018-03-02,Daria Kasatkina,Petra Cetkovska,,,RH,RH,M
+2018-03-02,Pablo Andujar,Zarina Diyas,,,RH,RH,M
+2018-03-03,Pablo Andujar,Daria Kasatkina,,,RH,RH,M
+2018-02-26,Kiki Bertens,Kiki Bertens,,,LH,RH,M
+2018-02-27,Laura Siegemund,Pablo Andujar,,,LH,LH,M
+2018-02-28,Kyle Edmund,Pablo Andujar,,,RH,RH,M
+2018-03-01,Laura Siegemund,Roberto Carballes Baena,,,LH,RH,M
+2018-03-02,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-03-03,Fabio Fognini,Kiki Bertens,,,RH,RH,M
+2018-03-08,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-03-08,Laura Siegemund,Laura Siegemund,,,LH,RH,M
+2018-03-08,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-03-08,Kyle Edmund,Kyle Edmund,,,RH,RH,M
+2018-03-09,Laura Siegemund,Daria Kasatkina,,,LH,LH,M
+2018-03-09,Kiki Bertens,Zarina Diyas,,,LH,RH,M
+2018-03-09,Petra Cetkovska,Daria Kasatkina,,,RH,RH,M
+2018-03-09,Pablo Andujar,Roberto Carballes Baena,,,RH,LH,M
+2018-03-09,Roberto Carballes Baena,Kiki Bertens,,,RH,RH,M
+2018-03-09,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-03-09,Timea Babos,Laura Siegemund,,,RH,RH,M
+2018-03-10,Daria Kasatkina,Timea Babos,,,RH,RH,M
+2018-03-10,Daria Kasatkina,Pablo Andujar,,,RH,RH,M
+2018-03-10,Kiki Bertens,Zarina Diyas,,,RH,LH,M
+2018-03-10,Laura Siegemund,Mikhail Kukushkin,,,LH,RH,M
+2018-03-10,Nicolas Almagro,Kiki Bertens,,,RH,RH,M
+2018-03-10,Kiki Bertens,Fabio Fognini,,,RH,RH,M
+2018-03-11,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-03-11,Kyle Edmund,Daria Kasatkina,,,LH,RH,M
+2018-03-11,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-03-11,Laura Siegemund,Kiki Bertens,,,LH,RH,M
+2018-03-11,Petra Cetkovska,Petra Cetkovska,,,RH,RH,M
+2018-03-11,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-03-11,Roberto Carballes Baena,Zarina Diyas,,,RH,RH,M
+2018-03-11,Petra Cetkovska,Laura Siegemund,,,RH,RH,M
+2018-03-11,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-03-11,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-03-11,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-03-11,Kyle Edmund,Pablo Andujar,,,RH,LH,M
+2018-03-11,Kiki Bertens,Kiki Bertens,,,RH,LH,M
+2018-03-11,Daria Kasatkina,Laura Siegemund,,,RH,LH,M
+2018-03-12,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-03-12,Pablo Andujar,Daria Kasatkina,,,RH,RH,M
+2018-03-12,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-03-12,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-03-12,Kiki Bertens,Kyle Edmund,,,RH,LH,M
+2018-03-12,Kiki Bertens,Petra Cetkovska,,,RH,RH,M
+2018-03-12,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-03-13,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-03-13,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-03-13,Petra Cetkovska,Kiki Bertens,,,RH,RH,M
+2018-03-13,Kyle Edmund,Kiki Bertens,,,RH,RH,M
+2018-03-13,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-03-14,Pablo Andujar,Daria Kasatkina,,,RH,RH,M
+2018-03-14,Kyle Edmund,Laura Siegemund,,,LH,RH,M
+2018-03-14,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-03-14,Nicolas Almagro,Kiki Bertens,,,RH,RH,M
+2018-03-14,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-03-15,Daria Kasatkina,Kyle Edmund,,,RH,LH,M
+2018-03-15,Daria Kasatkina,Pablo Andujar,,,RH,RH,M
+2018-03-15,Kiki Bertens,Nicolas Almagro,,,RH,RH,M
+2018-03-16,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-03-16,Daria Kasatkina,Daria Kasatkina,,,RH,RH,M
+2018-03-17,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-03-21,Zarina Diyas,Laura Siegemund,,,RH,RH,M
+2018-03-21,Laura Siegemund,Zarina Diyas,,,RH,RH,M
+2018-03-21,Laura Siegemund,Kyle Edmund,,,LH,RH,M
+2018-03-21,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-03-21,Roberto Carballes Baena,Timea Babos,,,RH,RH,M
+2018-03-21,Daria Kasatkina,Laura Siegemund,,,RH,LH,M
+2018-03-21,Daria Kasatkina,Zarina Diyas,,,RH,RH,M
+2018-03-21,Laura Siegemund,Daria Kasatkina,,,RH,LH,M
+2018-03-21,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-03-22,Kyle Edmund,Laura Siegemund,,,RH,LH,M
+2018-03-22,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-03-22,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-03-22,Kyle Edmund,Laura Siegemund,,,RH,LH,M
+2018-03-23,Laura Siegemund,Timea Babos,,,RH,RH,M
+2018-03-23,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-03-23,Roberto Carballes Baena,Roberto Carballes Baena,,,RH,RH,M
+2018-03-23,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-03-23,Daria Kasatkina,Daria Kasatkina,,,RH,RH,M
+2018-03-23,Kiki Bertens,Kyle Edmund,,,RH,LH,M
+2018-03-23,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-03-23,Laura Siegemund,Roberto Carballes Baena,,,RH,LH,M
+2018-03-23,Zarina Diyas,Laura Siegemund,,,RH,LH,M
+2018-03-24,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-03-24,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-03-24,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-03-24,Pablo Andujar,Roberto Carballes Baena,,,RH,LH,M
+2018-03-24,Petra Cetkovska,Kiki Bertens,,,RH,RH,M
+2018-03-24,Nicolas Almagro,Pablo Andujar,,,RH,RH,M
+2018-03-24,Zarina Diyas,Kyle Edmund,,,RH,LH,M
+2018-03-24,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-03-25,Kyle Edmund,Kyle Edmund,,,RH,RH,M
+2018-03-25,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-03-25,Petra Cetkovska,Daria Kasatkina,,,RH,RH,M
+2018-03-25,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-03-25,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-03-25,Zarina Diyas,Laura Siegemund,,,RH,RH,M
+2018-03-26,Daria Kasatkina,Daria Kasatkina,,,RH,RH,M
+2018-03-26,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-03-26,Laura Siegemund,Petra Cetkovska,,,LH,RH,M
+2018-03-26,Kyle Edmund,Fabio Fognini,,,RH,RH,M
+2018-03-27,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-03-27,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-03-27,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-03-27,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-03-27,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-03-27,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-03-27,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-03-27,Nicolas Almagro,Laura Siegemund,,,RH,RH,M
+2018-03-28,Laura Siegemund,Kyle Edmund,,,RH,RH,M
+2018-03-28,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-03-29,Kiki Bertens,Nicolas Almagro,,,RH,RH,M
+2018-03-30,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-03-31,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-04-01,Zarina Diyas,Laura Siegemund,,,RH,RH,M
+2018-04-09,Daria Kasatkina,Zarina Diyas,,,RH,RH,M
+2018-04-10,Lara Arruabarrena,Laura Siegemund,,,RH,LH,M
+2018-04-10,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-04-10,Laura Siegemund,Roberto Carballes Baena,,,LH,LH,M
+2018-04-10,Daria Kasatkina,Petra Cetkovska,,,LH,RH,M
+2018-04-11,Zarina Diyas,Lara Arruabarrena,,,RH,RH,M
+2018-04-11,Daria Kasatkina,Daria Kasatkina,,,LH,RH,M
+2018-04-12,Kyle Edmund,Timea Babos,,,RH,RH,M
+2018-04-12,Zarina Diyas,Laura Siegemund,,,RH,RH,M
+2018-04-13,Laura Siegemund,Laura Siegemund,,,RH,LH,M
+2018-04-13,Daria Kasatkina,Daria Kasatkina,,,RH,LH,M
+2018-04-13,Zarina Diyas,Kyle Edmund,,,RH,RH,M
+2018-04-14,Zarina Diyas,Zarina Diyas,,,RH,RH,M
+2018-04-14,Daria Kasatkina,Zarina Diyas,,,RH,RH,M
+2018-04-15,Zarina Diyas,Daria Kasatkina,,,RH,RH,M
+2018-04-09,Laura Siegemund,Daria Kasatkina,,,RH,RH,M
+2018-04-09,Timea Babos,Kiki Bertens,,,RH,RH,M
+2018-04-10,Laura Siegemund,Kyle Edmund,,,LH,RH,M
+2018-04-10,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-04-11,Zarina Diyas,Timea Babos,,,RH,RH,M
+2018-04-11,Lamine Ouahab,Petra Cetkovska,,,RH,RH,M
+2018-04-11,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-04-12,Pablo Andujar,Lamine Ouahab,,,RH,RH,M
+2018-04-12,Zarina Diyas,Laura Siegemund,,,RH,LH,M
+2018-04-14,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-04-14,Timea Babos,Laura Siegemund,,,RH,RH,M
+2018-04-14,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-04-14,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-04-14,Pablo Andujar,Laura Siegemund,,,RH,RH,M
+2018-04-15,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-04-16,Pablo Andujar,Timea Babos,,,RH,RH,M
+2018-04-16,Daria Kasatkina,Zarina Diyas,,,RH,RH,M
+2018-04-16,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-04-16,Roberto Carballes Baena,Pablo Andujar,,,RH,RH,M
+2018-04-16,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-04-16,Roberto Carballes Baena,Kyle Edmund,,,LH,RH,M
+2018-04-17,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-04-17,Laura Siegemund,Kyle Edmund,,,RH,LH,M
+2018-04-17,Laura Siegemund,Kiki Bertens,,,LH,RH,M
+2018-04-17,Kyle Edmund,Daria Kasatkina,,,LH,RH,M
+2018-04-17,Daria Kasatkina,Daria Kasatkina,,,RH,LH,M
+2018-04-17,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-04-17,Timea Babos,Kiki Bertens,,,RH,RH,M
+2018-04-17,Petra Cetkovska,Daria Kasatkina,,,RH,RH,M
+2018-04-17,Laura Siegemund,Daria Kasatkina,,,RH,RH,M
+2018-04-17,Laura Siegemund,Daria Kasatkina,,,LH,RH,M
+2018-04-17,Laura Siegemund,Roberto Carballes Baena,,,RH,LH,M
+2018-04-18,Pablo Andujar,Kyle Edmund,,,RH,LH,M
+2018-04-18,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-04-18,Timea Babos,Daria Kasatkina,,,RH,RH,M
+2018-04-18,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-04-18,Roberto Carballes Baena,Pablo Andujar,,,LH,RH,M
+2018-04-18,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-04-19,Timea Babos,Pablo Andujar,,,RH,RH,M
+2018-04-19,Kiki Bertens,Petra Cetkovska,,,RH,RH,M
+2018-04-19,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-04-19,Timea Babos,Laura Siegemund,,,RH,LH,M
+2018-04-19,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-04-19,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,M
+2018-04-20,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-04-20,Roberto Carballes Baena,Laura Siegemund,,,LH,RH,M
+2018-04-20,Roberto Carballes Baena,Kiki Bertens,,,RH,RH,M
+2018-04-20,Laura Siegemund,Timea Babos,,,RH,RH,M
+2018-04-21,Roberto Carballes Baena,Kiki Bertens,,,LH,RH,M
+2018-04-21,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,M
+2018-04-22,Roberto Carballes Baena,Roberto Carballes Baena,,,LH,RH,M
+2018-04-23,Zarina Diyas,Daria Kasatkina,,,RH,RH,M
+2018-04-23,Timea Babos,Mikhail Kukushkin,,,RH,RH,M
+2018-04-23,Zarina Diyas,Daria Kasatkina,,,RH,RH,M
+2018-04-23,Kyle Edmund,Laura Siegemund,,,RH,LH,M
+2018-04-24,Zarina Diyas,Kiki Bertens,,,LH,LH,M
+2018-04-24,Daria Kasatkina,Timea Babos,,,LH,RH,M
+2018-04-24,Timea Babos,Timea Babos,,,RH,RH,M
+2018-04-24,Kyle Edmund,Kyle Edmund,,,LH,RH,M
+2018-04-24,Pablo Andujar,Zarina Diyas,,,RH,RH,M
+2018-04-24,Kyle Edmund,Kiki Bertens,,,LH,RH,M
+2018-04-25,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-04-25,Zarina Diyas,Kiki Bertens,,,LH,RH,M
+2018-04-25,Roberto Carballes Baena,Kiki Bertens,,,LH,RH,M
+2018-04-25,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-04-25,Pablo Andujar,Timea Babos,,,RH,RH,M
+2018-04-26,Zarina Diyas,Kyle Edmund,,,LH,LH,M
+2018-04-26,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-04-26,Kiki Bertens,Kyle Edmund,,,RH,LH,M
+2018-04-26,Pablo Andujar,Pablo Andujar,,,RH,RH,M
+2018-04-27,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-04-27,Roberto Carballes Baena,Zarina Diyas,,,LH,LH,M
+2018-04-27,Timea Babos,Pablo Andujar,,,RH,RH,M
+2018-04-28,Roberto Carballes Baena,Timea Babos,,,LH,RH,M
+2018-04-24,Pablo Andujar,Kyle Edmund,,,RH,RH,M
+2018-04-24,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-04-25,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-04-26,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-04-26,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,M
+2018-04-27,Daria Kasatkina,Pablo Andujar,,,RH,RH,M
+2018-04-28,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-04-29,Roberto Carballes Baena,Pablo Andujar,,,RH,RH,M
+2018-04-29,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,M
+2018-04-30,Laura Siegemund,Daria Kasatkina,,,RH,RH,M
+2018-05-01,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-05-02,Laura Siegemund,Roberto Carballes Baena,,,RH,LH,M
+2018-05-02,Kiki Bertens,Kiki Bertens,,,RH,LH,M
+2018-05-04,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-05-04,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-05-05,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-05-06,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-04-30,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-05-01,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-05-01,Kyle Edmund,Roberto Carballes Baena,,,RH,RH,M
+2018-05-01,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-05-01,Zarina Diyas,Zarina Diyas,,,RH,RH,M
+2018-05-02,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-05-03,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-05-03,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-05-03,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-05-04,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-05-04,Zarina Diyas,Laura Siegemund,,,RH,LH,M
+2018-05-05,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-05-06,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-04-30,Pablo Andujar,Mikhail Kukushkin,,,RH,RH,M
+2018-04-30,Zarina Diyas,Kyle Edmund,,,LH,RH,M
+2018-05-01,Petra Cetkovska,Zarina Diyas,,,RH,RH,M
+2018-05-01,Timea Babos,Daria Kasatkina,,,RH,LH,M
+2018-05-01,Kiki Bertens,Fabio Fognini,,,RH,RH,M
+2018-05-02,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-05-03,Timea Babos,Kiki Bertens,,,RH,RH,M
+2018-05-03,Petra Cetkovska,Laura Siegemund,,,RH,LH,M
+2018-05-04,Kiki Bertens,Zarina Diyas,,,RH,LH,M
+2018-05-04,Petra Cetkovska,Pablo Andujar,,,RH,RH,M
+2018-05-05,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-05-06,Laura Siegemund,Petra Cetkovska,,,RH,RH,M
+2018-05-06,Timea Babos,Pablo Andujar,,,RH,RH,M
+2018-05-07,Daria Kasatkina,Kyle Edmund,,,RH,LH,M
+2018-05-07,Daria Kasatkina,Daria Kasatkina,,,RH,RH,M
+2018-05-07,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-05-07,Kiki Bertens,Laura Siegemund,,,LH,LH,M
+2018-05-07,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,M
+2018-05-07,Mikhail Kukushkin,Kiki Bertens,,,RH,RH,M
+2018-05-07,Kyle Edmund,Pablo Andujar,,,LH,RH,M
+2018-05-07,Roberto Carballes Baena,Pablo Andujar,,,RH,RH,M
+2018-05-08,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-05-08,Kyle Edmund,Fabio Fognini,,,RH,RH,M
+2018-05-08,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-05-08,Petra Cetkovska,Laura Siegemund,,,RH,RH,M
+2018-05-08,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-05-08,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-05-08,Laura Siegemund,Kyle Edmund,,,LH,RH,M
+2018-05-08,Kyle Edmund,Timea Babos,,,RH,RH,M
+2018-05-08,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-05-09,Petra Cetkovska,Pablo Andujar,,,RH,RH,M
+2018-05-09,Timea Babos,Zarina Diyas,,,RH,RH,M
+2018-05-09,Nicolas Almagro,Mikhail Kukushkin,,,RH,RH,M
+2018-05-09,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-05-09,Roberto Carballes Baena,Roberto Carballes Baena,,,LH,RH,M
+2018-05-09,Zarina Diyas,Zarina Diyas,,,RH,RH,M
+2018-05-09,Daria Kasatkina,Kyle Edmund,,,RH,LH,M
+2018-05-09,Kyle Edmund,Laura Siegemund,,,RH,LH,M
+2018-05-09,Laura Siegemund,Kiki Bertens,,,RH,LH,M
+2018-05-09,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-05-10,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-05-10,Nicolas Almagro,Petra Cetkovska,,,RH,RH,M
+2018-05-10,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-05-10,Laura Siegemund,Kyle Edmund,,,RH,RH,M
+2018-05-10,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-05-10,Roberto Carballes Baena,Daria Kasatkina,,,LH,RH,M
+2018-05-11,Nicolas Almagro,Kyle Edmund,,,RH,RH,M
+2018-05-11,Laura Siegemund,Roberto Carballes Baena,,,RH,LH,M
+2018-05-11,Laura Siegemund,Zarina Diyas,,,RH,RH,M
+2018-05-12,Laura Siegemund,Nicolas Almagro,,,RH,RH,M
+2018-05-13,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-05-13,Zarina Diyas,Laura Siegemund,,,RH,RH,M
+2018-05-13,Zarina Diyas,Laura Siegemund,,,RH,RH,M
+2018-05-13,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-05-13,Timea Babos,Daria Kasatkina,,,RH,RH,M
+2018-05-14,Pablo Andujar,Roberto Carballes Baena,,,RH,LH,M
+2018-05-14,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-05-14,Roberto Carballes Baena,Kyle Edmund,,,RH,LH,M
+2018-05-14,Timea Babos,Kyle Edmund,,,RH,RH,M
+2018-05-14,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-05-14,Daria Kasatkina,Timea Babos,,,RH,RH,M
+2018-05-14,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-05-14,Fabio Fognini,Roberto Carballes Baena,,,RH,RH,M
+2018-05-15,Daria Kasatkina,Daria Kasatkina,,,RH,RH,M
+2018-05-15,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-05-15,Timea Babos,Kiki Bertens,,,RH,RH,M
+2018-05-15,Petra Cetkovska,Laura Siegemund,,,RH,RH,M
+2018-05-16,Fabio Fognini,Laura Siegemund,,,RH,RH,M
+2018-05-16,Roberto Carballes Baena,Kiki Bertens,,,RH,RH,M
+2018-05-16,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-05-16,Roberto Carballes Baena,Kiki Bertens,,,LH,RH,M
+2018-05-16,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-05-16,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-05-16,Pablo Andujar,Nicolas Almagro,,,RH,RH,M
+2018-05-16,Daria Kasatkina,Daria Kasatkina,,,RH,RH,M
+2018-05-16,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-05-17,Fabio Fognini,Timea Babos,,,RH,RH,M
+2018-05-17,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-05-17,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-05-17,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-05-17,Roberto Carballes Baena,Petra Cetkovska,,,RH,RH,M
+2018-05-18,Roberto Carballes Baena,Fabio Fognini,,,LH,RH,M
+2018-05-18,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-05-18,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,M
+2018-05-18,Laura Siegemund,Timea Babos,,,RH,RH,M
+2018-05-19,Roberto Carballes Baena,Kiki Bertens,,,LH,RH,M
+2018-05-19,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-05-20,Roberto Carballes Baena,Laura Siegemund,,,LH,RH,M
+2018-05-20,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-05-21,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-05-21,Timea Babos,Zarina Diyas,,,RH,RH,M
+2018-05-21,Laura Siegemund,Zarina Diyas,,,RH,RH,M
+2018-05-22,Daria Kasatkina,Laura Siegemund,,,RH,LH,M
+2018-05-22,Timea Babos,Kiki Bertens,,,RH,RH,M
+2018-05-23,Timea Babos,Laura Siegemund,,,RH,RH,M
+2018-05-23,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-05-24,Daria Kasatkina,Daria Kasatkina,,,LH,RH,M
+2018-05-24,Zarina Diyas,Daria Kasatkina,,,RH,RH,M
+2018-05-24,Timea Babos,Daria Kasatkina,,,RH,RH,M
+2018-05-24,Fabio Fognini,Daria Kasatkina,,,RH,RH,M
+2018-05-24,Zarina Diyas,Daria Kasatkina,,,RH,LH,M
+2018-05-24,Timea Babos,Laura Siegemund,,,RH,RH,M
+2018-05-25,Timea Babos,Fabio Fognini,,,RH,RH,M
+2018-05-25,Timea Babos,Zarina Diyas,,,RH,RH,M
+2018-05-26,Timea Babos,Timea Babos,,,RH,RH,M
+2018-05-21,Kyle Edmund,Laura Siegemund,,,RH,LH,M
+2018-05-22,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-05-24,Laura Siegemund,Mikhail Kukushkin,,,RH,RH,M
+2018-05-25,Laura Siegemund,Kyle Edmund,,,RH,RH,M
+2018-05-26,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-05-27,Kiki Bertens,Lara Arruabarrena,,,RH,RH,M
+2018-05-27,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-05-27,Laura Siegemund,Roberto Carballes Baena,,,LH,LH,M
+2018-05-27,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-05-27,Timea Babos,Zarina Diyas,,,RH,RH,M
+2018-05-27,Kiki Bertens,Pablo Andujar,,,LH,LH,M
+2018-05-28,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-05-28,Ernests Gulbis,Roberto Carballes Baena,,,RH,LH,M
+2018-05-28,Kyle Edmund,Laura Siegemund,,,RH,LH,M
+2018-05-28,Pablo Andujar,Zarina Diyas,,,RH,RH,M
+2018-05-28,Kiki Bertens,Petra Cetkovska,,,RH,RH,M
+2018-05-28,Timea Babos,Pablo Andujar,,,RH,RH,M
+2018-05-28,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-05-28,Zarina Diyas,Laura Siegemund,,,RH,RH,M
+2018-05-28,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-05-28,Timea Babos,Daria Kasatkina,,,RH,RH,M
+2018-05-29,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-05-29,Nicolas Almagro,Kyle Edmund,,,RH,RH,M
+2018-05-29,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-05-29,Timea Babos,Daria Kasatkina,,,RH,RH,M
+2018-05-29,Fabio Fognini,Pablo Andujar,,,RH,RH,M
+2018-05-29,Laura Siegemund,Laura Siegemund,,,LH,RH,M
+2018-05-29,Daria Kasatkina,Laura Siegemund,,,LH,RH,M
+2018-05-29,Zarina Diyas,Kyle Edmund,,,RH,LH,M
+2018-05-29,Roberto Carballes Baena,Kiki Bertens,,,LH,RH,M
+2018-05-29,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-05-29,Laura Siegemund,Daria Kasatkina,,,RH,RH,M
+2018-05-29,Laura Siegemund,Kyle Edmund,,,LH,RH,M
+2018-05-29,Laura Siegemund,Kyle Edmund,,,RH,LH,M
+2018-05-30,Pablo Andujar,Kyle Edmund,,,RH,RH,M
+2018-05-30,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-05-30,Kiki Bertens,Kiki Bertens,,,RH,LH,M
+2018-05-30,Pablo Andujar,Timea Babos,,,RH,RH,M
+2018-05-30,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-05-30,Laura Siegemund,Kyle Edmund,,,RH,RH,M
+2018-05-30,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,M
+2018-05-30,Laura Siegemund,Daria Kasatkina,,,RH,RH,M
+2018-05-30,Roberto Carballes Baena,Zarina Diyas,,,RH,LH,M
+2018-05-31,Laura Siegemund,Pablo Andujar,,,RH,LH,M
+2018-05-31,Fabio Fognini,Laura Siegemund,,,RH,RH,M
+2018-05-31,Timea Babos,Zarina Diyas,,,RH,RH,M
+2018-05-31,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-05-31,Laura Siegemund,Laura Siegemund,,,LH,RH,M
+2018-05-31,Nicolas Almagro,Kiki Bertens,,,RH,RH,M
+2018-05-31,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-05-31,Roberto Carballes Baena,Daria Kasatkina,,,LH,LH,M
+2018-05-31,Zarina Diyas,Laura Siegemund,,,RH,LH,M
+2018-05-31,Daria Kasatkina,Daria Kasatkina,,,RH,RH,M
+2018-06-01,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-06-01,Laura Siegemund,Kiki Bertens,,,LH,RH,M
+2018-06-01,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-06-01,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,M
+2018-06-01,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-06-02,Fabio Fognini,Kiki Bertens,,,RH,RH,M
+2018-06-02,Nicolas Almagro,Laura Siegemund,,,RH,LH,M
+2018-06-02,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-06-02,Roberto Carballes Baena,Timea Babos,,,LH,RH,M
+2018-06-02,Timea Babos,Roberto Carballes Baena,,,RH,RH,M
+2018-06-02,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-06-03,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,M
+2018-06-03,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-06-03,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-06-04,Daria Kasatkina,Nicolas Almagro,,,RH,RH,M
+2018-06-04,Kiki Bertens,Fabio Fognini,,,RH,RH,M
+2018-06-05,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-06-05,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-06-07,Roberto Carballes Baena,Daria Kasatkina,,,LH,RH,M
+2018-06-08,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-06-10,Roberto Carballes Baena,Laura Siegemund,,,LH,RH,M
+2018-06-11,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-06-11,Zarina Diyas,Zarina Diyas,,,RH,RH,M
+2018-06-12,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-06-12,Kiki Bertens,Daria Kasatkina,,,LH,RH,M
+2018-06-13,Laura Siegemund,Zarina Diyas,,,RH,RH,M
+2018-06-13,Kiki Bertens,Roberto Carballes Baena,,,RH,LH,M
+2018-06-14,Timea Babos,Kiki Bertens,,,RH,RH,M
+2018-06-14,Kiki Bertens,Kyle Edmund,,,RH,LH,M
+2018-06-15,Laura Siegemund,Laura Siegemund,,,RH,LH,M
+2018-06-16,Timea Babos,Laura Siegemund,,,RH,RH,M
+2018-06-16,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-06-17,Timea Babos,Kiki Bertens,,,RH,RH,M
+2018-06-11,Daria Kasatkina,Roberto Carballes Baena,,,LH,RH,M
+2018-06-11,Laura Siegemund,Laura Siegemund,,,LH,RH,M
+2018-06-12,Timea Babos,Lara Arruabarrena,,,RH,RH,M
+2018-06-12,Zarina Diyas,Petra Cetkovska,,,RH,RH,M
+2018-06-12,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-06-13,Kyle Edmund,Laura Siegemund,,,LH,RH,M
+2018-06-13,Zarina Diyas,Kyle Edmund,,,RH,RH,M
+2018-06-13,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-06-14,Kyle Edmund,Laura Siegemund,,,LH,RH,M
+2018-06-14,Pablo Andujar,Daria Kasatkina,,,RH,RH,M
+2018-06-14,Daria Kasatkina,Timea Babos,,,RH,RH,M
+2018-06-15,Daria Kasatkina,Zarina Diyas,,,RH,RH,M
+2018-06-15,Daria Kasatkina,Pablo Andujar,,,RH,RH,M
+2018-06-15,Kiki Bertens,Daria Kasatkina,,,RH,LH,M
+2018-06-15,Kyle Edmund,Kyle Edmund,,,RH,LH,M
+2018-06-16,Daria Kasatkina,Daria Kasatkina,,,RH,RH,M
+2018-06-16,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-06-17,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-06-18,Zarina Diyas,Laura Siegemund,,,RH,RH,M
+2018-06-18,Roberto Carballes Baena,Pablo Andujar,,,RH,RH,M
+2018-06-18,Lara Arruabarrena,Kyle Edmund,,,RH,RH,M
+2018-06-18,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-06-19,Petra Cetkovska,Timea Babos,,,RH,RH,M
+2018-06-19,Daria Kasatkina,Zarina Diyas,,,RH,RH,M
+2018-06-19,Kyle Edmund,Timea Babos,,,RH,RH,M
+2018-06-19,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-06-19,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-06-19,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-06-20,Pablo Andujar,Zarina Diyas,,,RH,RH,M
+2018-06-20,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-06-21,Kiki Bertens,Petra Cetkovska,,,RH,RH,M
+2018-06-21,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-06-21,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-06-21,Daria Kasatkina,Kyle Edmund,,,RH,RH,M
+2018-06-22,Lara Arruabarrena,Laura Siegemund,,,RH,RH,M
+2018-06-22,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-06-22,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-06-23,Kiki Bertens,Lara Arruabarrena,,,RH,RH,M
+2018-06-23,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-06-24,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-06-18,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-06-18,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-06-19,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-06-19,Kyle Edmund,Nicolas Almagro,,,RH,RH,M
+2018-06-19,Pablo Andujar,Pablo Andujar,,,RH,RH,M
+2018-06-19,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,M
+2018-06-19,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-06-19,Kyle Edmund,Roberto Carballes Baena,,,RH,RH,M
+2018-06-19,Kyle Edmund,Timea Babos,,,LH,RH,M
+2018-06-19,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-06-20,Kyle Edmund,Daria Kasatkina,,,LH,RH,M
+2018-06-20,Laura Siegemund,Kyle Edmund,,,RH,RH,M
+2018-06-20,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-06-20,Kiki Bertens,Roberto Carballes Baena,,,RH,LH,M
+2018-06-21,Kyle Edmund,Kiki Bertens,,,RH,RH,M
+2018-06-21,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-06-21,Kyle Edmund,Pablo Andujar,,,LH,RH,M
+2018-06-22,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-06-22,Kyle Edmund,Kyle Edmund,,,RH,LH,M
+2018-06-22,Kiki Bertens,Kyle Edmund,,,RH,LH,M
+2018-06-22,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-06-23,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-06-23,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-06-24,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-06-24,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-06-24,Laura Siegemund,Kyle Edmund,,,RH,RH,M
+2018-06-25,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-06-25,Laura Siegemund,Daria Kasatkina,,,RH,LH,M
+2018-06-25,Zarina Diyas,Pablo Andujar,,,RH,RH,M
+2018-06-26,Zarina Diyas,Laura Siegemund,,,RH,RH,M
+2018-06-26,Pablo Andujar,Kyle Edmund,,,RH,RH,M
+2018-06-26,Laura Siegemund,Laura Siegemund,,,LH,LH,M
+2018-06-27,Kyle Edmund,Pablo Andujar,,,LH,RH,M
+2018-06-27,Roberto Carballes Baena,Zarina Diyas,,,RH,RH,M
+2018-06-28,Laura Siegemund,Pablo Andujar,,,LH,RH,M
+2018-06-28,Kyle Edmund,Laura Siegemund,,,LH,RH,M
+2018-06-29,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-06-29,Kyle Edmund,Roberto Carballes Baena,,,LH,RH,M
+2018-06-30,Kiki Bertens,Kyle Edmund,,,RH,LH,M
+2018-06-25,Zarina Diyas,Daria Kasatkina,,,RH,RH,M
+2018-06-25,Roberto Carballes Baena,Roberto Carballes Baena,,,RH,LH,M
+2018-06-25,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,M
+2018-06-26,Kyle Edmund,Laura Siegemund,,,RH,RH,M
+2018-06-27,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-06-27,Kyle Edmund,Daria Kasatkina,,,RH,RH,M
+2018-06-27,Laura Siegemund,Zarina Diyas,,,LH,RH,M
+2018-06-27,Roberto Carballes Baena,Kyle Edmund,,,RH,RH,M
+2018-06-27,Mikhail Kukushkin,Kiki Bertens,,,RH,RH,M
+2018-06-27,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,M
+2018-06-28,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,M
+2018-06-28,Mikhail Kukushkin,Kiki Bertens,,,RH,RH,M
+2018-06-29,Kyle Edmund,Kiki Bertens,,,RH,RH,M
+2018-06-29,Laura Siegemund,Mikhail Kukushkin,,,LH,RH,M
+2018-06-30,Laura Siegemund,Kyle Edmund,,,LH,RH,M
+2018-07-02,Kiki Bertens,Roberto Carballes Baena,,,RH,LH,M
+2018-07-02,Petra Cetkovska,Kiki Bertens,,,RH,RH,M
+2018-07-02,Daria Kasatkina,Lara Arruabarrena,,,RH,RH,M
+2018-07-02,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-07-02,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-07-02,Daria Kasatkina,Petra Cetkovska,,,LH,RH,M
+2018-07-02,Zarina Diyas,Laura Siegemund,,,RH,RH,M
+2018-07-02,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-07-02,Roberto Carballes Baena,Timea Babos,,,RH,RH,M
+2018-07-02,Nicolas Almagro,Timea Babos,,,RH,RH,M
+2018-07-02,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-07-02,Pablo Andujar,Zarina Diyas,,,LH,RH,M
+2018-07-02,Kyle Edmund,Timea Babos,,,LH,RH,M
+2018-07-02,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-07-03,Kyle Edmund,Kiki Bertens,,,LH,LH,M
+2018-07-03,Laura Siegemund,Kyle Edmund,,,LH,RH,M
+2018-07-03,Kiki Bertens,Kiki Bertens,,,RH,LH,M
+2018-07-03,Kyle Edmund,Zarina Diyas,,,RH,RH,M
+2018-07-03,Zarina Diyas,Laura Siegemund,,,LH,RH,M
+2018-07-03,Laura Siegemund,Laura Siegemund,,,RH,LH,M
+2018-07-03,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-07-03,Roberto Carballes Baena,Daria Kasatkina,,,LH,RH,M
+2018-07-03,Fabio Fognini,Kiki Bertens,,,RH,RH,M
+2018-07-03,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-07-03,Mikhail Kukushkin,Daria Kasatkina,,,RH,RH,M
+2018-07-03,Pablo Andujar,Laura Siegemund,,,RH,RH,M
+2018-07-03,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-07-03,Pablo Andujar,Timea Babos,,,RH,RH,M
+2018-07-03,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-07-04,Daria Kasatkina,Roberto Carballes Baena,,,RH,RH,M
+2018-07-04,Roberto Carballes Baena,Kyle Edmund,,,RH,RH,M
+2018-07-04,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-07-04,Kyle Edmund,Zarina Diyas,,,LH,RH,M
+2018-07-04,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-07-05,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-07-05,Petra Cetkovska,Roberto Carballes Baena,,,RH,LH,M
+2018-07-05,Daria Kasatkina,Kiki Bertens,,,LH,RH,M
+2018-07-05,Roberto Carballes Baena,Mikhail Kukushkin,,,LH,RH,M
+2018-07-05,Nicolas Almagro,Daria Kasatkina,,,RH,RH,M
+2018-07-05,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-07-05,Zarina Diyas,Pablo Andujar,,,RH,LH,M
+2018-07-05,Kyle Edmund,Zarina Diyas,,,RH,RH,M
+2018-07-05,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-07-05,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-07-05,Laura Siegemund,Daria Kasatkina,,,LH,RH,M
+2018-07-05,Ernests Gulbis,Kiki Bertens,,,RH,RH,M
+2018-07-05,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,M
+2018-07-05,Kiki Bertens,Zarina Diyas,,,RH,LH,M
+2018-07-05,Fabio Fognini,Kiki Bertens,,,RH,RH,M
+2018-07-06,Nicolas Almagro,Petra Cetkovska,,,RH,RH,M
+2018-07-06,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,M
+2018-07-07,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-07-07,Laura Siegemund,Fabio Fognini,,,LH,RH,M
+2018-07-07,Ernests Gulbis,Laura Siegemund,,,RH,RH,M
+2018-07-07,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-07-07,Roberto Carballes Baena,Kyle Edmund,,,RH,RH,M
+2018-07-09,Kiki Bertens,Kyle Edmund,,,RH,LH,M
+2018-07-09,Roberto Carballes Baena,Ernests Gulbis,,,RH,RH,M
+2018-07-09,Nicolas Almagro,Roberto Carballes Baena,,,RH,RH,M
+2018-07-09,Roberto Carballes Baena,Laura Siegemund,,,LH,LH,M
+2018-07-11,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,M
+2018-07-11,Nicolas Almagro,Kiki Bertens,,,RH,RH,M
+2018-07-11,Zarina Diyas,Daria Kasatkina,,,RH,RH,M
+2018-07-13,Nicolas Almagro,Zarina Diyas,,,RH,RH,M
+2018-07-14,Kiki Bertens,Roberto Carballes Baena,,,RH,LH,M
+2018-07-15,Kiki Bertens,Nicolas Almagro,,,RH,RH,M
+2018-07-17,Kiki Bertens,Laura Siegemund,,,LH,LH,M
+2018-07-17,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-07-18,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-07-19,Kiki Bertens,Roberto Carballes Baena,,,LH,RH,M
+2018-07-19,Timea Babos,Gerald Melzer,,,RH,LH,M
+2018-07-20,Laura Siegemund,Kiki Bertens,,,LH,RH,M
+2018-07-20,Fabio Fognini,Kiki Bertens,,,RH,LH,M
+2018-07-21,Fabio Fognini,Laura Siegemund,,,RH,LH,M
+2018-07-22,Fabio Fognini,Timea Babos,,,RH,RH,M
+2018-07-16,Lara Arruabarrena,Pablo Andujar,,,RH,LH,M
+2018-07-16,Daria Kasatkina,Laura Siegemund,,,RH,LH,M
+2018-07-16,Laura Siegemund,Timea Babos,,,RH,RH,M
+2018-07-17,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-07-17,Roberto Carballes Baena,Pablo Andujar,,,LH,RH,M
+2018-07-17,Kyle Edmund,Zarina Diyas,,,RH,RH,M
+2018-07-18,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-07-18,Timea Babos,Roberto Carballes Baena,,,RH,LH,M
+2018-07-18,Daria Kasatkina,Zarina Diyas,,,RH,RH,M
+2018-07-18,Daria Kasatkina,Laura Siegemund,,,RH,LH,M
+2018-07-20,Timea Babos,Kyle Edmund,,,RH,LH,M
+2018-07-20,Zarina Diyas,Daria Kasatkina,,,RH,RH,M
+2018-07-21,Zarina Diyas,Timea Babos,,,RH,RH,M
+2018-07-16,Daria Kasatkina,Kiki Bertens,,,LH,RH,M
+2018-07-17,Kyle Edmund,Pablo Andujar,,,RH,RH,M
+2018-07-17,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-07-17,Timea Babos,Daria Kasatkina,,,RH,RH,M
+2018-07-17,Pablo Andujar,Laura Siegemund,,,RH,RH,M
+2018-07-18,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-07-18,Daria Kasatkina,Pablo Andujar,,,LH,RH,M
+2018-07-19,Zarina Diyas,Zarina Diyas,,,RH,LH,M
+2018-07-19,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-07-20,Zarina Diyas,Daria Kasatkina,,,RH,RH,M
+2018-07-20,Daria Kasatkina,Kyle Edmund,,,LH,RH,M
+2018-07-21,Daria Kasatkina,Zarina Diyas,,,LH,RH,M
+2018-07-22,Kiki Bertens,Daria Kasatkina,,,RH,LH,M
+2018-07-24,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-07-24,Laura Siegemund,Zarina Diyas,,,LH,RH,M
+2018-07-24,Laura Siegemund,Laura Siegemund,,,LH,RH,M
+2018-07-25,Pablo Andujar,Kiki Bertens,,,RH,LH,M
+2018-07-25,Zarina Diyas,Kyle Edmund,,,RH,RH,M
+2018-07-25,Laura Siegemund,Laura Siegemund,,,LH,RH,M
+2018-07-26,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-07-26,Pablo Andujar,Laura Siegemund,,,RH,RH,M
+2018-07-27,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-07-27,Zarina Diyas,Laura Siegemund,,,RH,LH,M
+2018-07-27,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-07-28,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-07-29,Zarina Diyas,Zarina Diyas,,,RH,RH,M
+2018-07-23,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-07-24,Pablo Andujar,Laura Siegemund,,,LH,RH,M
+2018-07-24,Kyle Edmund,Kiki Bertens,,,LH,LH,M
+2018-07-25,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-07-26,Laura Siegemund,Fabio Fognini,,,RH,RH,M
+2018-07-27,Laura Siegemund,Pablo Andujar,,,RH,LH,M
+2018-07-27,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-07-23,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-07-24,Laura Siegemund,Kyle Edmund,,,LH,RH,M
+2018-07-24,Roberto Carballes Baena,Kiki Bertens,,,RH,RH,M
+2018-07-24,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-07-24,Timea Babos,Daria Kasatkina,,,RH,RH,M
+2018-07-24,Pablo Andujar,Petra Cetkovska,,,RH,RH,M
+2018-07-25,Kyle Edmund,Roberto Carballes Baena,,,RH,RH,M
+2018-07-26,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-07-26,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-07-26,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,M
+2018-07-27,Kyle Edmund,Daria Kasatkina,,,RH,RH,M
+2018-07-27,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-07-29,Pablo Andujar,Kyle Edmund,,,RH,RH,M
+2018-07-30,Zarina Diyas,Kiki Bertens,,,RH,LH,M
+2018-08-01,Zarina Diyas,Petra Cetkovska,,,RH,RH,M
+2018-08-01,Zarina Diyas,Laura Siegemund,,,LH,RH,M
+2018-08-02,Zarina Diyas,Kyle Edmund,,,LH,RH,M
+2018-08-04,Zarina Diyas,Zarina Diyas,,,LH,RH,M
+2018-07-31,Laura Siegemund,Zarina Diyas,,,RH,RH,M
+2018-08-01,Kyle Edmund,Daria Kasatkina,,,LH,RH,M
+2018-08-02,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-08-02,Kyle Edmund,Laura Siegemund,,,LH,RH,M
+2018-08-03,Fabio Fognini,Roberto Carballes Baena,,,RH,LH,M
+2018-07-30,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-07-30,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-07-31,Lara Arruabarrena,Kyle Edmund,,,RH,RH,M
+2018-07-31,Pablo Andujar,Daria Kasatkina,,,RH,RH,M
+2018-08-01,Laura Siegemund,Laura Siegemund,,,LH,RH,M
+2018-08-01,Roberto Carballes Baena,Laura Siegemund,,,LH,RH,M
+2018-08-01,Laura Siegemund,Laura Siegemund,,,LH,RH,M
+2018-08-01,Roberto Carballes Baena,Kiki Bertens,,,RH,RH,M
+2018-08-01,Daria Kasatkina,Roberto Carballes Baena,,,RH,LH,M
+2018-08-01,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-08-02,Laura Siegemund,Zarina Diyas,,,RH,RH,M
+2018-08-02,Roberto Carballes Baena,Laura Siegemund,,,RH,LH,M
+2018-08-03,Laura Siegemund,Laura Siegemund,,,RH,LH,M
+2018-08-03,Timea Babos,Laura Siegemund,,,RH,RH,M
+2018-08-03,Lara Arruabarrena,Daria Kasatkina,,,RH,RH,M
+2018-08-04,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,M
+2018-08-04,Daria Kasatkina,Lara Arruabarrena,,,RH,RH,M
+2018-08-06,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-08-06,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-08-06,Laura Siegemund,Timea Babos,,,LH,RH,M
+2018-08-06,Timea Babos,Laura Siegemund,,,RH,RH,M
+2018-08-06,Zarina Diyas,Kiki Bertens,,,LH,RH,M
+2018-08-07,Kiki Bertens,Roberto Carballes Baena,,,RH,LH,M
+2018-08-07,Daria Kasatkina,Timea Babos,,,RH,RH,M
+2018-08-07,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-08-07,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-08-07,Zarina Diyas,Roberto Carballes Baena,,,RH,RH,M
+2018-08-07,Daria Kasatkina,Kyle Edmund,,,RH,LH,M
+2018-08-07,Laura Siegemund,Kyle Edmund,,,RH,RH,M
+2018-08-07,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-08-07,Fabio Fognini,Zarina Diyas,,,RH,RH,M
+2018-08-07,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-08-07,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-08-08,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-08-08,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-08-08,Zarina Diyas,Laura Siegemund,,,RH,RH,M
+2018-08-08,Laura Siegemund,Daria Kasatkina,,,RH,RH,M
+2018-08-08,Nicolas Almagro,Kiki Bertens,,,RH,RH,M
+2018-08-09,Laura Siegemund,Zarina Diyas,,,RH,LH,M
+2018-08-09,Roberto Carballes Baena,Daria Kasatkina,,,LH,RH,M
+2018-08-09,Laura Siegemund,Timea Babos,,,RH,RH,M
+2018-08-09,Daria Kasatkina,Daria Kasatkina,,,RH,RH,M
+2018-08-09,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-08-09,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-08-10,Roberto Carballes Baena,Laura Siegemund,,,LH,RH,M
+2018-08-10,Nicolas Almagro,Kiki Bertens,,,RH,RH,M
+2018-08-11,Roberto Carballes Baena,Kiki Bertens,,,LH,RH,M
+2018-08-12,Kyle Edmund,Kiki Bertens,,,LH,RH,M
+2018-08-13,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-08-13,Timea Babos,Laura Siegemund,,,RH,RH,M
+2018-08-13,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,M
+2018-08-13,Daria Kasatkina,Roberto Carballes Baena,,,RH,RH,M
+2018-08-13,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-08-13,Daria Kasatkina,Zarina Diyas,,,RH,RH,M
+2018-08-13,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-08-14,Laura Siegemund,Daria Kasatkina,,,RH,RH,M
+2018-08-14,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-08-14,Zarina Diyas,Petra Cetkovska,,,RH,RH,M
+2018-08-14,Daria Kasatkina,Kyle Edmund,,,RH,RH,M
+2018-08-14,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-08-14,Kyle Edmund,Lara Arruabarrena,,,RH,RH,M
+2018-08-14,Laura Siegemund,Kiki Bertens,,,LH,RH,M
+2018-08-14,Kyle Edmund,Daria Kasatkina,,,RH,RH,M
+2018-08-15,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-08-15,Zarina Diyas,Laura Siegemund,,,RH,RH,M
+2018-08-15,Kiki Bertens,Kyle Edmund,,,RH,LH,M
+2018-08-15,Timea Babos,Daria Kasatkina,,,RH,RH,M
+2018-08-15,Nicolas Almagro,Kiki Bertens,,,RH,RH,M
+2018-08-15,Daria Kasatkina,Zarina Diyas,,,RH,RH,M
+2018-08-15,Kiki Bertens,Zarina Diyas,,,RH,LH,M
+2018-08-15,Kiki Bertens,Laura Siegemund,,,RH,LH,M
+2018-08-16,Kyle Edmund,Kiki Bertens,,,RH,RH,M
+2018-08-16,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,M
+2018-08-16,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-08-17,Timea Babos,Nicolas Almagro,,,RH,RH,M
+2018-08-17,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-08-17,Laura Siegemund,Timea Babos,,,RH,RH,M
+2018-08-17,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-08-17,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-08-17,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-08-18,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-08-18,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-08-19,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-08-19,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-08-20,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-08-20,Kiki Bertens,Daria Kasatkina,,,RH,LH,M
+2018-08-20,Daria Kasatkina,Pablo Andujar,,,RH,RH,M
+2018-08-20,Kyle Edmund,Laura Siegemund,,,RH,RH,M
+2018-08-20,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,M
+2018-08-20,Laura Siegemund,Kyle Edmund,,,LH,RH,M
+2018-08-21,Timea Babos,Laura Siegemund,,,RH,LH,M
+2018-08-22,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-08-22,Zarina Diyas,Laura Siegemund,,,RH,RH,M
+2018-08-22,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-08-22,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-08-23,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-08-23,Zarina Diyas,Petra Cetkovska,,,RH,RH,M
+2018-08-23,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-08-23,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-08-25,Zarina Diyas,Kiki Bertens,,,RH,RH,M
+2018-08-27,Kyle Edmund,Kiki Bertens,,,RH,RH,M
+2018-08-27,Daria Kasatkina,Pablo Andujar,,,RH,RH,M
+2018-08-27,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-08-27,Petra Cetkovska,Pablo Andujar,,,RH,RH,M
+2018-08-27,Zarina Diyas,Zarina Diyas,,,RH,LH,M
+2018-08-27,Pablo Andujar,Pablo Andujar,,,RH,RH,M
+2018-08-27,Laura Siegemund,Kyle Edmund,,,LH,LH,M
+2018-08-27,Kyle Edmund,Kiki Bertens,,,RH,RH,M
+2018-08-27,Kiki Bertens,Petra Cetkovska,,,RH,RH,M
+2018-08-27,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-08-27,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-08-27,Daria Kasatkina,Daria Kasatkina,,,RH,RH,M
+2018-08-27,Nicolas Almagro,Zarina Diyas,,,RH,RH,M
+2018-08-27,Daria Kasatkina,Kyle Edmund,,,RH,RH,M
+2018-08-27,Zarina Diyas,Zarina Diyas,,,RH,RH,M
+2018-08-28,Roberto Carballes Baena,Kiki Bertens,,,LH,RH,M
+2018-08-28,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-08-28,Timea Babos,Laura Siegemund,,,RH,RH,M
+2018-08-28,Laura Siegemund,Timea Babos,,,RH,RH,M
+2018-08-28,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-08-28,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-08-28,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-08-28,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-08-28,Daria Kasatkina,Kiki Bertens,,,RH,LH,M
+2018-08-28,Laura Siegemund,Daria Kasatkina,,,RH,RH,M
+2018-08-28,Kiki Bertens,Petra Cetkovska,,,RH,RH,M
+2018-08-28,Pablo Andujar,Laura Siegemund,,,RH,RH,M
+2018-08-28,Roberto Carballes Baena,Pablo Andujar,,,RH,LH,M
+2018-08-28,Laura Siegemund,Kyle Edmund,,,RH,LH,M
+2018-08-29,Kiki Bertens,Roberto Carballes Baena,,,RH,LH,M
+2018-08-29,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-08-29,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-08-29,Laura Siegemund,Zarina Diyas,,,RH,RH,M
+2018-08-29,Laura Siegemund,Roberto Carballes Baena,,,LH,RH,M
+2018-08-29,Daria Kasatkina,Kyle Edmund,,,LH,RH,M
+2018-08-29,Nicolas Almagro,Kiki Bertens,,,RH,RH,M
+2018-08-30,Pablo Andujar,Laura Siegemund,,,RH,RH,M
+2018-08-30,Roberto Carballes Baena,Daria Kasatkina,,,LH,RH,M
+2018-08-30,Mikhail Kukushkin,Kiki Bertens,,,RH,RH,M
+2018-08-30,Roberto Carballes Baena,Fabio Fognini,,,RH,RH,M
+2018-08-30,Laura Siegemund,Kyle Edmund,,,RH,RH,M
+2018-08-30,Petra Cetkovska,Kiki Bertens,,,RH,RH,M
+2018-08-30,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-08-30,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-08-30,Daria Kasatkina,Pablo Andujar,,,RH,RH,M
+2018-08-30,Timea Babos,Zarina Diyas,,,RH,RH,M
+2018-08-31,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-08-31,Roberto Carballes Baena,Roberto Carballes Baena,,,RH,RH,M
+2018-08-31,Pablo Andujar,Daria Kasatkina,,,RH,LH,M
+2018-08-31,Zarina Diyas,Kyle Edmund,,,RH,RH,M
+2018-09-01,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-09-01,Roberto Carballes Baena,Mikhail Kukushkin,,,RH,RH,M
+2018-09-01,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-09-01,Laura Siegemund,Daria Kasatkina,,,RH,RH,M
+2018-09-01,Petra Cetkovska,Laura Siegemund,,,RH,RH,M
+2018-09-01,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,M
+2018-09-02,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-09-02,Laura Siegemund,Nicolas Almagro,,,RH,RH,M
+2018-09-02,Roberto Carballes Baena,Pablo Andujar,,,LH,RH,M
+2018-09-02,Zarina Diyas,Daria Kasatkina,,,RH,RH,M
+2018-09-03,Roberto Carballes Baena,Petra Cetkovska,,,RH,RH,M
+2018-09-03,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-09-03,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-09-04,Roberto Carballes Baena,Kiki Bertens,,,RH,RH,M
+2018-09-05,Roberto Carballes Baena,Laura Siegemund,,,LH,RH,M
+2018-09-05,Roberto Carballes Baena,Kiki Bertens,,,RH,RH,M
+2018-09-06,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,M
+2018-09-08,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,M
+2018-09-18,Pablo Andujar,Kiki Bertens,,,RH,LH,M
+2018-09-19,Timea Babos,Kyle Edmund,,,RH,LH,M
+2018-09-19,Laura Siegemund,Laura Siegemund,,,RH,LH,M
+2018-09-19,Roberto Carballes Baena,Timea Babos,,,RH,RH,M
+2018-09-20,Laura Siegemund,Petra Cetkovska,,,RH,RH,M
+2018-09-21,Laura Siegemund,Timea Babos,,,RH,RH,M
+2018-09-21,Roberto Carballes Baena,Pablo Andujar,,,RH,RH,M
+2018-09-22,Pablo Andujar,Roberto Carballes Baena,,,RH,RH,M
+2018-09-23,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-09-17,Zarina Diyas,Kiki Bertens,,,LH,RH,M
+2018-09-17,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-09-18,Kyle Edmund,Pablo Andujar,,,RH,LH,M
+2018-09-19,Mikhail Kukushkin,Zarina Diyas,,,RH,RH,M
+2018-09-19,Pablo Andujar,Laura Siegemund,,,RH,RH,M
+2018-09-19,Zarina Diyas,Fabio Fognini,,,LH,RH,M
+2018-09-20,Kiki Bertens,Daria Kasatkina,,,RH,LH,M
+2018-09-20,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-09-20,Pablo Andujar,Laura Siegemund,,,RH,RH,M
+2018-09-21,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-09-21,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-09-22,Zarina Diyas,Laura Siegemund,,,LH,RH,M
+2018-09-22,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-09-23,Laura Siegemund,Zarina Diyas,,,RH,LH,M
+2018-09-24,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-09-24,Laura Siegemund,Zarina Diyas,,,RH,LH,M
+2018-09-25,Daria Kasatkina,Daria Kasatkina,,,RH,LH,M
+2018-09-25,Pablo Andujar,Laura Siegemund,,,LH,LH,M
+2018-09-25,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-09-25,Mikhail Kukushkin,Daria Kasatkina,,,RH,RH,M
+2018-09-25,Zarina Diyas,Pablo Andujar,,,RH,RH,M
+2018-09-26,Laura Siegemund,Daria Kasatkina,,,RH,RH,M
+2018-09-26,Zarina Diyas,Kyle Edmund,,,RH,LH,M
+2018-09-27,Fabio Fognini,Pablo Andujar,,,RH,LH,M
+2018-09-27,Daria Kasatkina,Pablo Andujar,,,RH,RH,M
+2018-09-28,Fabio Fognini,Kiki Bertens,,,RH,RH,M
+2018-09-28,Laura Siegemund,Zarina Diyas,,,RH,RH,M
+2018-09-29,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-09-30,Laura Siegemund,Fabio Fognini,,,RH,RH,M
+2018-09-24,Roberto Carballes Baena,Lara Arruabarrena,,,LH,RH,M
+2018-09-25,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-09-27,Roberto Carballes Baena,Timea Babos,,,RH,RH,M
+2018-09-27,Laura Siegemund,Kiki Bertens,,,LH,RH,M
+2018-09-28,Laura Siegemund,Roberto Carballes Baena,,,LH,RH,M
+2018-09-29,Roberto Carballes Baena,Laura Siegemund,,,LH,LH,M
+2018-10-01,Kyle Edmund,Kiki Bertens,,,LH,RH,M
+2018-10-01,Timea Babos,Daria Kasatkina,,,RH,RH,M
+2018-10-01,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-10-01,Kyle Edmund,Daria Kasatkina,,,RH,RH,M
+2018-10-02,Laura Siegemund,Roberto Carballes Baena,,,LH,RH,M
+2018-10-02,Petra Cetkovska,Laura Siegemund,,,RH,LH,M
+2018-10-02,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-10-02,Pablo Andujar,Laura Siegemund,,,RH,RH,M
+2018-10-02,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-10-02,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-10-02,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-10-03,Kyle Edmund,Kiki Bertens,,,RH,RH,M
+2018-10-03,Petra Cetkovska,Kyle Edmund,,,RH,LH,M
+2018-10-04,Timea Babos,Kiki Bertens,,,RH,RH,M
+2018-10-04,Fabio Fognini,Daria Kasatkina,,,RH,RH,M
+2018-10-04,Pablo Andujar,Laura Siegemund,,,RH,LH,M
+2018-10-04,Zarina Diyas,Laura Siegemund,,,RH,RH,M
+2018-10-05,Fabio Fognini,Timea Babos,,,RH,RH,M
+2018-10-05,Kiki Bertens,Kyle Edmund,,,RH,RH,M
+2018-10-05,Pablo Andujar,Zarina Diyas,,,RH,RH,M
+2018-10-06,Pablo Andujar,Kiki Bertens,,,RH,RH,M
+2018-10-01,Daria Kasatkina,Kyle Edmund,,,RH,LH,M
+2018-10-01,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,M
+2018-10-01,Zarina Diyas,Zarina Diyas,,,LH,RH,M
+2018-10-02,Timea Babos,Lara Arruabarrena,,,RH,RH,M
+2018-10-02,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-10-03,Kyle Edmund,Roberto Carballes Baena,,,RH,LH,M
+2018-10-03,Nicolas Almagro,Kiki Bertens,,,RH,RH,M
+2018-10-03,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,M
+2018-10-04,Nicolas Almagro,Laura Siegemund,,,RH,RH,M
+2018-10-04,Timea Babos,Kyle Edmund,,,RH,RH,M
+2018-10-05,Timea Babos,Nicolas Almagro,,,RH,RH,M
+2018-10-06,Roberto Carballes Baena,Timea Babos,,,RH,RH,M
+2018-10-07,Timea Babos,Laura Siegemund,,,RH,RH,M
+2018-10-08,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-10-08,Pablo Andujar,Daria Kasatkina,,,RH,RH,M
+2018-10-08,Timea Babos,Kiki Bertens,,,RH,RH,M
+2018-10-08,Daria Kasatkina,Daria Kasatkina,,,RH,RH,M
+2018-10-08,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-10-08,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-10-08,Zarina Diyas,Kyle Edmund,,,LH,RH,M
+2018-10-08,Daria Kasatkina,Kyle Edmund,,,RH,LH,M
+2018-10-09,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-10-09,Timea Babos,Kyle Edmund,,,RH,RH,M
+2018-10-09,Kiki Bertens,Petra Cetkovska,,,RH,RH,M
+2018-10-09,Timea Babos,Timea Babos,,,RH,RH,M
+2018-10-09,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-10-09,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-10-09,Kiki Bertens,Zarina Diyas,,,RH,LH,M
+2018-10-10,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-10-10,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-10-10,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-10-10,Nicolas Almagro,Mikhail Kukushkin,,,RH,RH,M
+2018-10-11,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-10-11,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,M
+2018-10-11,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-10-11,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-10-12,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-10-12,Kiki Bertens,Nicolas Almagro,,,RH,RH,M
+2018-10-12,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-10-12,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,M
+2018-10-13,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-10-13,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-10-14,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-10-15,Daria Kasatkina,Kyle Edmund,,,RH,RH,M
+2018-10-15,Kyle Edmund,Laura Siegemund,,,LH,RH,M
+2018-10-16,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-10-16,Roberto Carballes Baena,Pablo Andujar,,,RH,LH,M
+2018-10-17,Timea Babos,Laura Siegemund,,,RH,LH,M
+2018-10-17,Daria Kasatkina,Daria Kasatkina,,,RH,RH,M
+2018-10-19,Daria Kasatkina,Laura Siegemund,,,RH,RH,M
+2018-10-19,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,M
+2018-10-20,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,M
+2018-10-20,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-10-21,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,M
+2018-10-16,Pablo Andujar,Zarina Diyas,,,RH,RH,M
+2018-10-16,Kiki Bertens,Mikhail Kukushkin,,,RH,RH,M
+2018-10-16,Daria Kasatkina,Laura Siegemund,,,RH,LH,M
+2018-10-16,Daria Kasatkina,Zarina Diyas,,,RH,LH,M
+2018-10-16,Kyle Edmund,Daria Kasatkina,,,RH,RH,M
+2018-10-17,Pablo Andujar,Pablo Andujar,,,RH,RH,M
+2018-10-17,Kyle Edmund,Kiki Bertens,,,LH,RH,M
+2018-10-18,Petra Cetkovska,Kiki Bertens,,,RH,RH,M
+2018-10-19,Daria Kasatkina,Petra Cetkovska,,,RH,RH,M
+2018-10-20,Kyle Edmund,Daria Kasatkina,,,LH,RH,M
+2018-10-16,Laura Siegemund,Kiki Bertens,,,LH,RH,M
+2018-10-16,Daria Kasatkina,Daria Kasatkina,,,RH,RH,M
+2018-10-16,Kyle Edmund,Kiki Bertens,,,RH,RH,M
+2018-10-17,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-10-17,Kiki Bertens,Lara Arruabarrena,,,RH,RH,M
+2018-10-18,Fabio Fognini,Kyle Edmund,,,RH,RH,M
+2018-10-18,Petra Cetkovska,Laura Siegemund,,,RH,LH,M
+2018-10-18,Zarina Diyas,Zarina Diyas,,,RH,LH,M
+2018-10-19,Fabio Fognini,Kiki Bertens,,,RH,RH,M
+2018-10-19,Ernests Gulbis,Laura Siegemund,,,RH,RH,M
+2018-10-19,Zarina Diyas,Daria Kasatkina,,,RH,RH,M
+2018-10-20,Ernests Gulbis,Zarina Diyas,,,RH,RH,M
+2018-10-23,Daria Kasatkina,Kiki Bertens,,,RH,RH,M
+2018-10-23,Kiki Bertens,Petra Cetkovska,,,RH,RH,M
+2018-10-23,Laura Siegemund,Kyle Edmund,,,RH,RH,M
+2018-10-24,Pablo Andujar,Laura Siegemund,,,RH,RH,M
+2018-10-24,Kyle Edmund,Kyle Edmund,,,RH,LH,M
+2018-10-24,Ernests Gulbis,Laura Siegemund,,,RH,RH,M
+2018-10-24,Laura Siegemund,Zarina Diyas,,,RH,RH,M
+2018-10-25,Pablo Andujar,Kyle Edmund,,,RH,RH,M
+2018-10-25,Laura Siegemund,Ernests Gulbis,,,RH,RH,M
+2018-10-26,Laura Siegemund,Pablo Andujar,,,RH,RH,M
+2018-10-26,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-10-22,Daria Kasatkina,Lara Arruabarrena,,,RH,RH,M
+2018-10-22,Nicolas Almagro,Pablo Andujar,,,RH,RH,M
+2018-10-22,Roberto Carballes Baena,Daria Kasatkina,,,LH,RH,M
+2018-10-23,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,M
+2018-10-23,Daria Kasatkina,Petra Cetkovska,,,RH,RH,M
+2018-10-23,Fabio Fognini,Kiki Bertens,,,RH,RH,M
+2018-10-23,Laura Siegemund,Pablo Andujar,,,RH,LH,M
+2018-10-24,Roberto Carballes Baena,Zarina Diyas,,,RH,RH,M
+2018-10-24,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-10-24,Mikhail Kukushkin,Kiki Bertens,,,RH,RH,M
+2018-10-24,Timea Babos,Fabio Fognini,,,RH,RH,M
+2018-10-24,Nicolas Almagro,Roberto Carballes Baena,,,RH,LH,M
+2018-10-24,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-10-25,Laura Siegemund,Kiki Bertens,,,LH,RH,M
+2018-10-25,Mikhail Kukushkin,Daria Kasatkina,,,RH,RH,M
+2018-10-25,Laura Siegemund,Daria Kasatkina,,,RH,RH,M
+2018-10-25,Roberto Carballes Baena,Zarina Diyas,,,RH,RH,M
+2018-10-26,Mikhail Kukushkin,Timea Babos,,,RH,RH,M
+2018-10-26,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,M
+2018-10-26,Nicolas Almagro,Kiki Bertens,,,RH,RH,M
+2018-10-26,Laura Siegemund,Roberto Carballes Baena,,,LH,RH,M
+2018-10-27,Roberto Carballes Baena,Mikhail Kukushkin,,,RH,RH,M
+2018-10-27,Nicolas Almagro,Laura Siegemund,,,RH,LH,M
+2018-10-28,Nicolas Almagro,Roberto Carballes Baena,,,RH,RH,M
+2018-10-29,Pablo Andujar,Roberto Carballes Baena,,,RH,RH,M
+2018-10-29,Kiki Bertens,Timea Babos,,,RH,RH,M
+2018-10-29,Petra Cetkovska,Zarina Diyas,,,RH,RH,M
+2018-10-29,Pablo Andujar,Zarina Diyas,,,RH,RH,M
+2018-10-29,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-10-29,Laura Siegemund,Kyle Edmund,,,RH,RH,M
+2018-10-30,Laura Siegemund,Kiki Bertens,,,LH,RH,M
+2018-10-30,Timea Babos,Daria Kasatkina,,,RH,RH,M
+2018-10-30,Laura Siegemund,Daria Kasatkina,,,RH,RH,M
+2018-10-30,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-10-30,Kiki Bertens,Petra Cetkovska,,,RH,RH,M
+2018-10-31,Zarina Diyas,Mikhail Kukushkin,,,RH,RH,M
+2018-10-31,Roberto Carballes Baena,Kyle Edmund,,,RH,LH,M
+2018-10-31,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-10-31,Kiki Bertens,Pablo Andujar,,,RH,RH,M
+2018-10-31,Laura Siegemund,Timea Babos,,,RH,RH,M
+2018-10-31,Nicolas Almagro,Pablo Andujar,,,RH,RH,M
+2018-10-31,Zarina Diyas,Laura Siegemund,,,RH,LH,M
+2018-10-31,Daria Kasatkina,Kyle Edmund,,,RH,LH,M
+2018-10-31,Fabio Fognini,Timea Babos,,,RH,RH,M
+2018-10-31,Kiki Bertens,Daria Kasatkina,,,RH,RH,M
+2018-10-31,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-11-01,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-11-01,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-11-01,Laura Siegemund,Daria Kasatkina,,,RH,RH,M
+2018-11-01,Laura Siegemund,Zarina Diyas,,,RH,RH,M
+2018-11-01,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-11-01,Kiki Bertens,Fabio Fognini,,,RH,RH,M
+2018-11-01,Roberto Carballes Baena,Nicolas Almagro,,,RH,RH,M
+2018-11-02,Laura Siegemund,Laura Siegemund,,,RH,RH,M
+2018-11-02,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-11-02,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,M
+2018-11-03,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-11-11,Nicolas Almagro,Laura Siegemund,,,RH,RH,M
+2018-11-11,Roberto Carballes Baena,Kiki Bertens,,,RH,RH,M
+2018-11-12,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-11-12,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-11-13,Nicolas Almagro,Roberto Carballes Baena,,,RH,RH,M
+2018-11-13,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-11-14,Kiki Bertens,Laura Siegemund,,,RH,RH,M
+2018-11-14,Kiki Bertens,Zarina Diyas,,,RH,RH,M
+2018-11-15,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,M
+2018-11-15,Kiki Bertens,Nicolas Almagro,,,RH,RH,M
+2018-11-16,Laura Siegemund,Zarina Diyas,,,RH,RH,M
+2018-11-16,Kiki Bertens,Kiki Bertens,,,RH,RH,M
+2018-11-17,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2018-11-17,Kiki Bertens,Nicolas Almagro,,,RH,RH,M
+2018-11-18,Laura Siegemund,Kiki Bertens,,,RH,RH,M
+2017-12-31,Kyle Edmund,Laura Siegemund,,,RH,LH,F
+2018-01-01,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-01-01,Timea Babos,Daria Kasatkina,,,RH,RH,F
+2018-01-01,Kyle Edmund,Pablo Andujar,,,LH,RH,F
+2018-01-01,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-01-02,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-01-02,Kyle Edmund,Roberto Carballes Baena,,,RH,RH,F
+2018-01-02,Laura Siegemund,Kyle Edmund,,,LH,RH,F
+2018-01-02,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-01-02,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-01-02,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-01-03,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-01-03,Zarina Diyas,Kiki Bertens,,,RH,RH,F
+2018-01-03,Daria Kasatkina,Laura Siegemund,,,RH,LH,F
+2018-01-05,Timea Babos,Zarina Diyas,,,RH,RH,F
+2018-01-06,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-01-06,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-01-07,Timea Babos,Laura Siegemund,,,RH,RH,F
+2017-12-31,Kiki Bertens,Timea Babos,,,RH,RH,F
+2017-12-31,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2017-12-31,Petra Cetkovska,Kiki Bertens,,,RH,RH,F
+2018-01-01,Zarina Diyas,Zarina Diyas,,,RH,RH,F
+2018-01-01,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-01-01,Petra Cetkovska,Zarina Diyas,,,RH,RH,F
+2018-01-01,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-01-01,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-01-02,Petra Cetkovska,Roberto Carballes Baena,,,RH,RH,F
+2018-01-02,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-01-03,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-01-03,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-01-04,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2017-12-31,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2017-12-31,Kyle Edmund,Kiki Bertens,,,RH,RH,F
+2018-01-01,Kiki Bertens,Daria Kasatkina,,,RH,RH,F
+2018-01-01,Petra Cetkovska,Daria Kasatkina,,,RH,RH,F
+2018-01-01,Zarina Diyas,Timea Babos,,,RH,RH,F
+2018-01-02,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-01-02,Pablo Andujar,Kyle Edmund,,,RH,RH,F
+2018-01-04,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-01-05,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-01-06,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-01-07,Kyle Edmund,Pablo Andujar,,,LH,RH,F
+2018-01-08,Laura Siegemund,Laura Siegemund,,,LH,RH,F
+2018-01-08,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-01-08,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-01-08,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-01-08,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-01-09,Laura Siegemund,Laura Siegemund,,,RH,LH,F
+2018-01-09,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-01-10,Roberto Carballes Baena,Kyle Edmund,,,RH,LH,F
+2018-01-11,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-01-07,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-01-08,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-01-08,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-01-08,Zarina Diyas,Daria Kasatkina,,,LH,LH,F
+2018-01-09,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-01-09,Daria Kasatkina,Petra Cetkovska,,,RH,RH,F
+2018-01-09,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-01-09,Zarina Diyas,Laura Siegemund,,,LH,RH,F
+2018-01-10,Roberto Carballes Baena,Kiki Bertens,,,RH,RH,F
+2018-01-10,Timea Babos,Kyle Edmund,,,RH,LH,F
+2018-01-11,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-01-11,Zarina Diyas,Kiki Bertens,,,LH,RH,F
+2018-01-11,Timea Babos,Daria Kasatkina,,,RH,RH,F
+2018-01-12,Zarina Diyas,Timea Babos,,,LH,RH,F
+2018-01-13,Zarina Diyas,Pablo Andujar,,,LH,RH,F
+2018-01-15,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-01-15,Daria Kasatkina,Laura Siegemund,,,RH,LH,F
+2018-01-15,Pablo Andujar,Roberto Carballes Baena,,,RH,RH,F
+2018-01-15,Oceane Dodin,Daria Kasatkina,,,RH,RH,F
+2018-01-15,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-01-15,Zarina Diyas,Kiki Bertens,,,RH,RH,F
+2018-01-15,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-01-15,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-01-15,Petra Cetkovska,Petra Cetkovska,,,RH,RH,F
+2018-01-15,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-01-15,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-01-15,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-01-15,Kyle Edmund,Kyle Edmund,,,RH,RH,F
+2018-01-16,Pablo Andujar,Zarina Diyas,,,RH,RH,F
+2018-01-16,Petra Cetkovska,Kiki Bertens,,,RH,RH,F
+2018-01-16,Laura Siegemund,Roberto Carballes Baena,,,LH,RH,F
+2018-01-16,Daria Kasatkina,Laura Siegemund,,,LH,RH,F
+2018-01-16,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-01-16,Daria Kasatkina,Kyle Edmund,,,RH,RH,F
+2018-01-16,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-01-16,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-01-16,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-01-16,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-01-16,Daria Kasatkina,Kyle Edmund,,,RH,LH,F
+2018-01-16,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-01-16,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-01-16,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-01-17,Kiki Bertens,Daria Kasatkina,,,RH,RH,F
+2018-01-17,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-01-17,Kyle Edmund,Pablo Andujar,,,RH,RH,F
+2018-01-17,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-01-17,Kyle Edmund,Zarina Diyas,,,RH,RH,F
+2018-01-17,Kiki Bertens,Timea Babos,,,RH,RH,F
+2018-01-17,Zarina Diyas,Daria Kasatkina,,,RH,RH,F
+2018-01-17,Petra Cetkovska,Pablo Andujar,,,RH,RH,F
+2018-01-17,Kiki Bertens,Timea Babos,,,RH,RH,F
+2018-01-17,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-01-18,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-01-18,Timea Babos,Laura Siegemund,,,RH,LH,F
+2018-01-18,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-01-18,Kiki Bertens,Daria Kasatkina,,,RH,RH,F
+2018-01-18,Daria Kasatkina,Kiki Bertens,,,LH,RH,F
+2018-01-18,Zarina Diyas,Laura Siegemund,,,LH,RH,F
+2018-01-18,Zarina Diyas,Kiki Bertens,,,RH,RH,F
+2018-01-18,Pablo Andujar,Timea Babos,,,RH,RH,F
+2018-01-19,Kyle Edmund,Kyle Edmund,,,RH,RH,F
+2018-01-19,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-01-19,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-01-19,Petra Cetkovska,Oceane Dodin,,,RH,RH,F
+2018-01-19,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-01-20,Zarina Diyas,Kiki Bertens,,,RH,RH,F
+2018-01-20,Zarina Diyas,Daria Kasatkina,,,LH,RH,F
+2018-01-21,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-01-21,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-01-22,Zarina Diyas,Timea Babos,,,RH,RH,F
+2018-01-23,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-01-24,Zarina Diyas,Zarina Diyas,,,LH,RH,F
+2018-01-25,Zarina Diyas,Zarina Diyas,,,RH,LH,F
+2018-01-27,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-01-29,Kiki Bertens,Pablo Andujar,,,RH,RH,F
+2018-01-29,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-01-30,Timea Babos,Daria Kasatkina,,,RH,RH,F
+2018-01-30,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-01-30,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-01-31,Kyle Edmund,Laura Siegemund,,,LH,RH,F
+2018-01-31,Oceane Dodin,Laura Siegemund,,,RH,RH,F
+2018-01-31,Zarina Diyas,Kiki Bertens,,,RH,RH,F
+2018-02-01,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-02-01,Roberto Carballes Baena,Kiki Bertens,,,RH,RH,F
+2018-02-02,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,F
+2018-02-02,Kyle Edmund,Oceane Dodin,,,LH,RH,F
+2018-02-02,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-02-03,Kyle Edmund,Timea Babos,,,LH,RH,F
+2018-02-03,Roberto Carballes Baena,Zarina Diyas,,,RH,RH,F
+2018-01-04,Kyle Edmund,Roberto Carballes Baena,,,LH,RH,F
+2018-01-29,Roberto Carballes Baena,Zarina Diyas,,,RH,RH,F
+2018-01-30,Daria Kasatkina,Roberto Carballes Baena,,,RH,RH,F
+2018-01-30,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-01-31,Roberto Carballes Baena,Kiki Bertens,,,RH,RH,F
+2018-02-01,Kyle Edmund,Kyle Edmund,,,RH,RH,F
+2018-02-02,Kyle Edmund,Roberto Carballes Baena,,,RH,RH,F
+2018-02-02,Pablo Andujar,Kyle Edmund,,,RH,RH,F
+2018-02-12,Kiki Bertens,Daria Kasatkina,,,RH,RH,F
+2018-02-12,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,F
+2018-02-12,Daria Kasatkina,Pablo Andujar,,,RH,RH,F
+2018-02-13,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-02-13,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,F
+2018-02-13,Kiki Bertens,Petra Cetkovska,,,RH,RH,F
+2018-02-13,Laura Siegemund,Daria Kasatkina,,,LH,RH,F
+2018-02-13,Kiki Bertens,Daria Kasatkina,,,RH,RH,F
+2018-02-13,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-02-13,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-02-13,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-02-13,Timea Babos,Daria Kasatkina,,,RH,LH,F
+2018-02-13,Timea Babos,Kiki Bertens,,,RH,RH,F
+2018-02-14,Laura Siegemund,Laura Siegemund,,,RH,LH,F
+2018-02-14,Kyle Edmund,Daria Kasatkina,,,LH,RH,F
+2018-02-14,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-02-14,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-02-14,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-02-14,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,F
+2018-02-14,Zarina Diyas,Laura Siegemund,,,LH,RH,F
+2018-02-15,Roberto Carballes Baena,Kiki Bertens,,,RH,RH,F
+2018-02-15,Kyle Edmund,Laura Siegemund,,,LH,RH,F
+2018-02-15,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-02-15,Zarina Diyas,Petra Cetkovska,,,LH,RH,F
+2018-02-16,Roberto Carballes Baena,Timea Babos,,,RH,RH,F
+2018-02-16,Laura Siegemund,Zarina Diyas,,,RH,LH,F
+2018-02-16,Kyle Edmund,Timea Babos,,,LH,RH,F
+2018-02-17,Roberto Carballes Baena,Zarina Diyas,,,RH,RH,F
+2018-02-17,Kyle Edmund,Laura Siegemund,,,LH,RH,F
+2018-02-18,Kyle Edmund,Roberto Carballes Baena,,,LH,RH,F
+2018-02-19,Kyle Edmund,Daria Kasatkina,,,RH,RH,F
+2018-02-19,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-02-20,Kyle Edmund,Timea Babos,,,RH,RH,F
+2018-02-21,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-02-21,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,F
+2018-02-21,Pablo Andujar,Kyle Edmund,,,RH,RH,F
+2018-02-22,Kyle Edmund,Petra Cetkovska,,,RH,RH,F
+2018-02-22,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-02-22,Pablo Andujar,Pablo Andujar,,,RH,RH,F
+2018-02-22,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-02-23,Kiki Bertens,Kyle Edmund,,,RH,RH,F
+2018-02-23,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-02-24,Kiki Bertens,Pablo Andujar,,,RH,RH,F
+2018-02-25,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-02-19,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-02-19,Zarina Diyas,Daria Kasatkina,,,RH,RH,F
+2018-02-19,Petra Cetkovska,Daria Kasatkina,,,RH,RH,F
+2018-02-20,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-02-20,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-02-20,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-02-20,Zarina Diyas,Laura Siegemund,,,LH,RH,F
+2018-02-20,Timea Babos,Daria Kasatkina,,,RH,LH,F
+2018-02-21,Zarina Diyas,Kiki Bertens,,,LH,RH,F
+2018-02-21,Laura Siegemund,Oceane Dodin,,,RH,RH,F
+2018-02-21,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-02-21,Zarina Diyas,Petra Cetkovska,,,RH,RH,F
+2018-02-22,Roberto Carballes Baena,Timea Babos,,,RH,RH,F
+2018-02-22,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-02-23,Zarina Diyas,Roberto Carballes Baena,,,RH,RH,F
+2018-02-23,Laura Siegemund,Zarina Diyas,,,RH,LH,F
+2018-02-24,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-02-26,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-02-27,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-02-27,Daria Kasatkina,Pablo Andujar,,,RH,RH,F
+2018-02-27,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-02-27,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-02-28,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-03-01,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-03-02,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-03-04,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-03-07,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-03-07,Pablo Andujar,Pablo Andujar,,,RH,RH,F
+2018-03-07,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-03-07,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-03-07,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-03-08,Zarina Diyas,Roberto Carballes Baena,,,RH,RH,F
+2018-03-08,Kyle Edmund,Kyle Edmund,,,RH,RH,F
+2018-03-08,Laura Siegemund,Kiki Bertens,,,LH,RH,F
+2018-03-08,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-03-08,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,F
+2018-03-08,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-03-08,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-03-08,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-03-09,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-03-09,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-03-09,Laura Siegemund,Petra Cetkovska,,,LH,RH,F
+2018-03-09,Kyle Edmund,Daria Kasatkina,,,LH,RH,F
+2018-03-09,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,F
+2018-03-09,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-03-09,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-03-09,Oceane Dodin,Pablo Andujar,,,RH,RH,F
+2018-03-09,Daria Kasatkina,Pablo Andujar,,,RH,RH,F
+2018-03-10,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-03-10,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-03-10,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-03-10,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-03-10,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-03-10,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-03-11,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-03-11,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-03-11,Kyle Edmund,Oceane Dodin,,,RH,RH,F
+2018-03-12,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-03-12,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-03-12,Zarina Diyas,Laura Siegemund,,,LH,RH,F
+2018-03-12,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-03-13,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-03-13,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-03-13,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-03-13,Kyle Edmund,Laura Siegemund,,,RH,LH,F
+2018-03-14,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-03-14,Zarina Diyas,Timea Babos,,,LH,RH,F
+2018-03-14,Zarina Diyas,Kyle Edmund,,,RH,RH,F
+2018-03-15,Zarina Diyas,Zarina Diyas,,,RH,LH,F
+2018-03-16,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-03-17,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-03-20,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-03-20,Kyle Edmund,Zarina Diyas,,,RH,RH,F
+2018-03-20,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-03-20,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-03-20,Daria Kasatkina,Petra Cetkovska,,,RH,RH,F
+2018-03-20,Pablo Andujar,Pablo Andujar,,,RH,RH,F
+2018-03-21,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-03-21,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,F
+2018-03-21,Laura Siegemund,Laura Siegemund,,,RH,LH,F
+2018-03-21,Daria Kasatkina,Zarina Diyas,,,RH,RH,F
+2018-03-22,Kyle Edmund,Kiki Bertens,,,RH,RH,F
+2018-03-22,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-03-22,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-03-22,Zarina Diyas,Kyle Edmund,,,LH,RH,F
+2018-03-22,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-03-22,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-03-22,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,F
+2018-03-22,Zarina Diyas,Kiki Bertens,,,RH,RH,F
+2018-03-22,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-03-22,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-03-22,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-03-22,Kiki Bertens,Kyle Edmund,,,RH,RH,F
+2018-03-22,Pablo Andujar,Zarina Diyas,,,RH,RH,F
+2018-03-23,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-03-23,Petra Cetkovska,Kiki Bertens,,,RH,RH,F
+2018-03-23,Daria Kasatkina,Petra Cetkovska,,,RH,RH,F
+2018-03-23,Kiki Bertens,Kyle Edmund,,,RH,LH,F
+2018-03-23,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-03-23,Oceane Dodin,Pablo Andujar,,,RH,RH,F
+2018-03-23,Kyle Edmund,Roberto Carballes Baena,,,RH,RH,F
+2018-03-24,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-03-24,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-03-24,Daria Kasatkina,Zarina Diyas,,,RH,RH,F
+2018-03-24,Zarina Diyas,Daria Kasatkina,,,LH,RH,F
+2018-03-24,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-03-25,Roberto Carballes Baena,Kyle Edmund,,,RH,RH,F
+2018-03-25,Pablo Andujar,Kyle Edmund,,,RH,RH,F
+2018-03-25,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-03-25,Daria Kasatkina,Daria Kasatkina,,,RH,RH,F
+2018-03-26,Zarina Diyas,Laura Siegemund,,,LH,RH,F
+2018-03-26,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-03-26,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-03-26,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-03-26,Pablo Andujar,Daria Kasatkina,,,RH,RH,F
+2018-03-27,Oceane Dodin,Kyle Edmund,,,RH,LH,F
+2018-03-27,Laura Siegemund,Zarina Diyas,,,RH,LH,F
+2018-03-28,Oceane Dodin,Laura Siegemund,,,RH,RH,F
+2018-03-29,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-03-31,Laura Siegemund,Oceane Dodin,,,RH,RH,F
+2018-04-02,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-04-02,Kyle Edmund,Kiki Bertens,,,RH,RH,F
+2018-04-02,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-04-02,Kyle Edmund,Daria Kasatkina,,,LH,RH,F
+2018-04-03,Laura Siegemund,Laura Siegemund,,,LH,RH,F
+2018-04-03,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-04-03,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-04-03,Kyle Edmund,Kiki Bertens,,,RH,RH,F
+2018-04-03,Timea Babos,Kyle Edmund,,,RH,LH,F
+2018-04-04,Zarina Diyas,Kyle Edmund,,,RH,RH,F
+2018-04-04,Kiki Bertens,Zarina Diyas,,,RH,RH,F
+2018-04-04,Kiki Bertens,Petra Cetkovska,,,RH,RH,F
+2018-04-04,Pablo Andujar,Kyle Edmund,,,RH,RH,F
+2018-04-04,Laura Siegemund,Laura Siegemund,,,RH,LH,F
+2018-04-05,Zarina Diyas,Pablo Andujar,,,RH,RH,F
+2018-04-05,Zarina Diyas,Timea Babos,,,RH,RH,F
+2018-04-06,Kiki Bertens,Timea Babos,,,RH,RH,F
+2018-04-06,Timea Babos,Zarina Diyas,,,RH,RH,F
+2018-04-07,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-04-08,Kiki Bertens,Zarina Diyas,,,RH,RH,F
+2018-04-08,Kiki Bertens,Timea Babos,,,RH,RH,F
+2018-04-02,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-04-03,Daria Kasatkina,Timea Babos,,,RH,RH,F
+2018-04-06,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-04-06,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-04-06,Pablo Andujar,Daria Kasatkina,,,RH,RH,F
+2018-04-07,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,F
+2018-04-07,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-04-08,Roberto Carballes Baena,Pablo Andujar,,,RH,RH,F
+2018-04-10,Kyle Edmund,Daria Kasatkina,,,RH,RH,F
+2018-04-13,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-04-13,Pablo Andujar,Kyle Edmund,,,RH,RH,F
+2018-04-11,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-04-11,Laura Siegemund,Daria Kasatkina,,,LH,RH,F
+2018-04-12,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-04-12,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-04-12,Pablo Andujar,Kyle Edmund,,,RH,RH,F
+2018-04-13,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-04-13,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-04-13,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-04-23,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-04-23,Kyle Edmund,Pablo Andujar,,,RH,RH,F
+2018-04-24,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-04-24,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-04-25,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-04-25,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-04-25,Daria Kasatkina,Daria Kasatkina,,,RH,RH,F
+2018-04-26,Daria Kasatkina,Petra Cetkovska,,,RH,RH,F
+2018-04-26,Zarina Diyas,Kiki Bertens,,,RH,RH,F
+2018-04-26,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-04-26,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-04-27,Zarina Diyas,Kyle Edmund,,,RH,RH,F
+2018-04-27,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-04-28,Zarina Diyas,Daria Kasatkina,,,RH,RH,F
+2018-04-29,Daria Kasatkina,Zarina Diyas,,,RH,RH,F
+2018-04-23,Daria Kasatkina,Zarina Diyas,,,RH,RH,F
+2018-04-24,Timea Babos,Daria Kasatkina,,,RH,RH,F
+2018-04-24,Laura Siegemund,Timea Babos,,,LH,RH,F
+2018-04-24,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-04-25,Daria Kasatkina,Zarina Diyas,,,RH,RH,F
+2018-04-25,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-04-25,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-04-25,Petra Cetkovska,Roberto Carballes Baena,,,RH,RH,F
+2018-04-25,Zarina Diyas,Kyle Edmund,,,LH,LH,F
+2018-04-25,Zarina Diyas,Daria Kasatkina,,,RH,RH,F
+2018-04-26,Oceane Dodin,Kiki Bertens,,,RH,RH,F
+2018-04-26,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-04-26,Laura Siegemund,Laura Siegemund,,,RH,LH,F
+2018-04-26,Petra Cetkovska,Zarina Diyas,,,RH,LH,F
+2018-04-26,Daria Kasatkina,Roberto Carballes Baena,,,RH,RH,F
+2018-04-27,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-04-27,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-04-27,Petra Cetkovska,Daria Kasatkina,,,RH,RH,F
+2018-04-28,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-04-30,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-04-30,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-05-01,Kyle Edmund,Laura Siegemund,,,LH,RH,F
+2018-05-01,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-05-01,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-05-02,Kyle Edmund,Laura Siegemund,,,LH,RH,F
+2018-05-03,Kyle Edmund,Laura Siegemund,,,LH,RH,F
+2018-05-03,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-05-04,Kyle Edmund,Laura Siegemund,,,LH,RH,F
+2018-04-30,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-04-30,Kiki Bertens,Kyle Edmund,,,RH,RH,F
+2018-04-30,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-05-01,Petra Cetkovska,Pablo Andujar,,,RH,RH,F
+2018-05-01,Timea Babos,Kyle Edmund,,,RH,RH,F
+2018-05-01,Kiki Bertens,Pablo Andujar,,,RH,RH,F
+2018-05-01,Zarina Diyas,Kiki Bertens,,,RH,RH,F
+2018-05-02,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-05-02,Kiki Bertens,Kyle Edmund,,,RH,RH,F
+2018-05-02,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-05-04,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-05-05,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-05-05,Timea Babos,Kiki Bertens,,,RH,RH,F
+2018-05-05,Kyle Edmund,Kyle Edmund,,,RH,RH,F
+2018-05-05,Kiki Bertens,Daria Kasatkina,,,RH,RH,F
+2018-05-05,Timea Babos,Pablo Andujar,,,RH,RH,F
+2018-05-05,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-05-05,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,F
+2018-05-05,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-05-06,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-05-06,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-05-06,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-05-06,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-05-06,Pablo Andujar,Petra Cetkovska,,,RH,RH,F
+2018-05-06,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,F
+2018-05-06,Pablo Andujar,Kiki Bertens,,,RH,RH,F
+2018-05-06,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-05-06,Kyle Edmund,Laura Siegemund,,,LH,RH,F
+2018-05-06,Petra Cetkovska,Daria Kasatkina,,,RH,RH,F
+2018-05-07,Timea Babos,Kyle Edmund,,,RH,RH,F
+2018-05-07,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,F
+2018-05-07,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-05-07,Timea Babos,Pablo Andujar,,,RH,RH,F
+2018-05-07,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-05-08,Kyle Edmund,Daria Kasatkina,,,LH,RH,F
+2018-05-08,Zarina Diyas,Kiki Bertens,,,RH,RH,F
+2018-05-08,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-05-08,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,F
+2018-05-09,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-05-09,Timea Babos,Timea Babos,,,RH,RH,F
+2018-05-09,Kyle Edmund,Petra Cetkovska,,,LH,RH,F
+2018-05-09,Daria Kasatkina,Roberto Carballes Baena,,,RH,RH,F
+2018-05-09,Zarina Diyas,Roberto Carballes Baena,,,RH,RH,F
+2018-05-10,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-05-10,Kiki Bertens,Daria Kasatkina,,,RH,RH,F
+2018-05-10,Kyle Edmund,Zarina Diyas,,,LH,RH,F
+2018-05-11,Kiki Bertens,Timea Babos,,,RH,RH,F
+2018-05-12,Kyle Edmund,Kiki Bertens,,,LH,RH,F
+2018-05-14,Petra Cetkovska,Daria Kasatkina,,,RH,RH,F
+2018-05-14,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-05-14,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-05-14,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-05-14,Zarina Diyas,Daria Kasatkina,,,RH,RH,F
+2018-05-14,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-05-14,Kiki Bertens,Daria Kasatkina,,,RH,RH,F
+2018-05-14,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-05-14,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-05-15,Pablo Andujar,Kiki Bertens,,,RH,RH,F
+2018-05-15,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-05-15,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-05-15,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-05-15,Zarina Diyas,Kiki Bertens,,,LH,RH,F
+2018-05-15,Kyle Edmund,Zarina Diyas,,,RH,RH,F
+2018-05-15,Daria Kasatkina,Pablo Andujar,,,RH,RH,F
+2018-05-15,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-05-15,Oceane Dodin,Laura Siegemund,,,RH,RH,F
+2018-05-16,Timea Babos,Pablo Andujar,,,RH,RH,F
+2018-05-16,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-05-16,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-05-16,Petra Cetkovska,Kyle Edmund,,,RH,RH,F
+2018-05-16,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-05-16,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-05-16,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-05-17,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-05-17,Oceane Dodin,Petra Cetkovska,,,RH,RH,F
+2018-05-17,Zarina Diyas,Zarina Diyas,,,RH,RH,F
+2018-05-17,Zarina Diyas,Daria Kasatkina,,,LH,RH,F
+2018-05-17,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-05-17,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-05-18,Laura Siegemund,Zarina Diyas,,,RH,LH,F
+2018-05-18,Daria Kasatkina,Oceane Dodin,,,RH,RH,F
+2018-05-18,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-05-18,Zarina Diyas,Timea Babos,,,RH,RH,F
+2018-05-19,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-05-19,Zarina Diyas,Daria Kasatkina,,,RH,RH,F
+2018-05-20,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-05-20,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-05-20,Kiki Bertens,Kyle Edmund,,,RH,LH,F
+2018-05-22,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-05-22,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-05-22,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-05-22,Kiki Bertens,Daria Kasatkina,,,RH,RH,F
+2018-05-23,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-05-22,Kyle Edmund,Kyle Edmund,,,RH,RH,F
+2018-05-23,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-05-24,Kiki Bertens,Pablo Andujar,,,RH,RH,F
+2018-05-25,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-05-25,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-05-20,Kiki Bertens,Daria Kasatkina,,,RH,RH,F
+2018-05-21,Daria Kasatkina,Kyle Edmund,,,LH,RH,F
+2018-05-21,Pablo Andujar,Kyle Edmund,,,RH,RH,F
+2018-05-21,Daria Kasatkina,Kyle Edmund,,,RH,RH,F
+2018-05-22,Kiki Bertens,Pablo Andujar,,,RH,RH,F
+2018-05-23,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-05-23,Pablo Andujar,Daria Kasatkina,,,RH,RH,F
+2018-05-24,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-05-24,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-05-24,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-05-25,Daria Kasatkina,Pablo Andujar,,,RH,RH,F
+2018-05-26,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-05-27,Petra Cetkovska,Kiki Bertens,,,RH,RH,F
+2018-05-27,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-05-27,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-05-27,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-05-27,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-05-27,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-05-27,Daria Kasatkina,Petra Cetkovska,,,RH,RH,F
+2018-05-27,Kiki Bertens,Kyle Edmund,,,RH,RH,F
+2018-05-28,Pablo Andujar,Pablo Andujar,,,RH,RH,F
+2018-05-28,Timea Babos,Roberto Carballes Baena,,,RH,RH,F
+2018-05-28,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-05-28,Daria Kasatkina,Roberto Carballes Baena,,,RH,RH,F
+2018-05-28,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-05-28,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-05-28,Zarina Diyas,Zarina Diyas,,,RH,RH,F
+2018-05-28,Kiki Bertens,Kyle Edmund,,,RH,RH,F
+2018-05-28,Daria Kasatkina,Roberto Carballes Baena,,,RH,RH,F
+2018-05-28,Kiki Bertens,Kyle Edmund,,,RH,RH,F
+2018-05-28,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-05-28,Daria Kasatkina,Kyle Edmund,,,RH,RH,F
+2018-05-28,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-05-28,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-05-28,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-05-29,Roberto Carballes Baena,Kyle Edmund,,,RH,RH,F
+2018-05-29,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-05-29,Daria Kasatkina,Zarina Diyas,,,RH,RH,F
+2018-05-29,Daria Kasatkina,Zarina Diyas,,,RH,RH,F
+2018-05-29,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-05-29,Timea Babos,Kiki Bertens,,,RH,RH,F
+2018-05-29,Daria Kasatkina,Petra Cetkovska,,,RH,RH,F
+2018-05-29,Zarina Diyas,Pablo Andujar,,,LH,RH,F
+2018-05-30,Kyle Edmund,Pablo Andujar,,,LH,RH,F
+2018-05-30,Petra Cetkovska,Kiki Bertens,,,RH,RH,F
+2018-05-30,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-05-30,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-05-30,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-05-30,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-05-30,Zarina Diyas,Kiki Bertens,,,RH,RH,F
+2018-05-31,Daria Kasatkina,Pablo Andujar,,,RH,RH,F
+2018-05-31,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-05-31,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-05-31,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-05-31,Zarina Diyas,Laura Siegemund,,,RH,LH,F
+2018-05-31,Timea Babos,Daria Kasatkina,,,RH,RH,F
+2018-05-31,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-05-31,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-06-01,Zarina Diyas,Daria Kasatkina,,,RH,RH,F
+2018-06-01,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-06-01,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-06-01,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-06-02,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-06-02,Petra Cetkovska,Kyle Edmund,,,RH,LH,F
+2018-06-02,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,F
+2018-06-02,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-06-02,Zarina Diyas,Daria Kasatkina,,,RH,RH,F
+2018-06-02,Zarina Diyas,Kiki Bertens,,,LH,RH,F
+2018-06-02,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-06-03,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-06-03,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-06-04,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-06-04,Zarina Diyas,Timea Babos,,,LH,RH,F
+2018-06-04,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-06-04,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,F
+2018-06-05,Zarina Diyas,Daria Kasatkina,,,RH,RH,F
+2018-06-05,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-06-06,Zarina Diyas,Zarina Diyas,,,RH,LH,F
+2018-06-06,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,F
+2018-06-07,Zarina Diyas,Roberto Carballes Baena,,,RH,RH,F
+2018-06-07,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-06-09,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-06-11,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-06-12,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-06-15,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-06-16,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-06-17,Petra Cetkovska,Kiki Bertens,,,RH,RH,F
+2018-06-11,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-06-12,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-06-12,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-06-12,Petra Cetkovska,Roberto Carballes Baena,,,RH,RH,F
+2018-06-13,Pablo Andujar,Daria Kasatkina,,,RH,RH,F
+2018-06-14,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-06-15,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-06-16,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-06-17,Pablo Andujar,Petra Cetkovska,,,RH,RH,F
+2018-06-18,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,F
+2018-06-19,Timea Babos,Daria Kasatkina,,,RH,RH,F
+2018-06-19,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-06-19,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-06-19,Kyle Edmund,Petra Cetkovska,,,LH,RH,F
+2018-06-19,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-06-19,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,F
+2018-06-19,Pablo Andujar,Kiki Bertens,,,RH,RH,F
+2018-06-20,Daria Kasatkina,Roberto Carballes Baena,,,RH,RH,F
+2018-06-20,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-06-21,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-06-21,Timea Babos,Pablo Andujar,,,RH,RH,F
+2018-06-21,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-06-22,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-06-22,Kyle Edmund,Timea Babos,,,LH,RH,F
+2018-06-23,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-06-24,Kyle Edmund,Daria Kasatkina,,,LH,RH,F
+2018-06-18,Laura Siegemund,Laura Siegemund,,,RH,LH,F
+2018-06-18,Kyle Edmund,Petra Cetkovska,,,RH,RH,F
+2018-06-18,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-06-18,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-06-19,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-06-19,Kyle Edmund,Kiki Bertens,,,RH,RH,F
+2018-06-19,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-06-20,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-06-20,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-06-20,Timea Babos,Kyle Edmund,,,RH,RH,F
+2018-06-21,Daria Kasatkina,Pablo Andujar,,,LH,RH,F
+2018-06-22,Kyle Edmund,Daria Kasatkina,,,RH,LH,F
+2018-06-24,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-06-24,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-06-24,Kyle Edmund,Daria Kasatkina,,,RH,RH,F
+2018-06-24,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-06-25,Zarina Diyas,Roberto Carballes Baena,,,RH,RH,F
+2018-06-25,Petra Cetkovska,Zarina Diyas,,,RH,RH,F
+2018-06-25,Daria Kasatkina,Pablo Andujar,,,RH,RH,F
+2018-06-25,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-06-25,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,F
+2018-06-25,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-06-26,Oceane Dodin,Zarina Diyas,,,RH,RH,F
+2018-06-26,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-06-26,Kyle Edmund,Kiki Bertens,,,LH,RH,F
+2018-06-26,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-06-26,Petra Cetkovska,Petra Cetkovska,,,RH,RH,F
+2018-06-26,Zarina Diyas,Kiki Bertens,,,LH,RH,F
+2018-06-26,Pablo Andujar,Roberto Carballes Baena,,,RH,RH,F
+2018-06-27,Daria Kasatkina,Kyle Edmund,,,RH,LH,F
+2018-06-27,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-06-28,Daria Kasatkina,Oceane Dodin,,,RH,RH,F
+2018-06-28,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-06-28,Zarina Diyas,Zarina Diyas,,,LH,RH,F
+2018-06-29,Laura Siegemund,Zarina Diyas,,,RH,LH,F
+2018-07-02,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-07-02,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-07-02,Kiki Bertens,Daria Kasatkina,,,RH,RH,F
+2018-07-02,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-07-02,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-07-02,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-07-02,Laura Siegemund,Kyle Edmund,,,RH,LH,F
+2018-07-02,Kiki Bertens,Petra Cetkovska,,,RH,RH,F
+2018-07-02,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-07-02,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-07-02,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-07-02,Timea Babos,Daria Kasatkina,,,RH,RH,F
+2018-07-02,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-07-02,Daria Kasatkina,Kiki Bertens,,,LH,RH,F
+2018-07-03,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-07-03,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-07-03,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-07-03,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-07-03,Zarina Diyas,Laura Siegemund,,,LH,RH,F
+2018-07-03,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-07-03,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-07-03,Laura Siegemund,Daria Kasatkina,,,LH,RH,F
+2018-07-03,Zarina Diyas,Roberto Carballes Baena,,,RH,RH,F
+2018-07-03,Pablo Andujar,Timea Babos,,,RH,RH,F
+2018-07-03,Kiki Bertens,Daria Kasatkina,,,RH,RH,F
+2018-07-03,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-07-03,Daria Kasatkina,Kyle Edmund,,,RH,RH,F
+2018-07-03,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-07-03,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-07-03,Laura Siegemund,Laura Siegemund,,,RH,LH,F
+2018-07-04,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-07-04,Zarina Diyas,Kyle Edmund,,,RH,RH,F
+2018-07-04,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-07-04,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-07-04,Daria Kasatkina,Daria Kasatkina,,,LH,RH,F
+2018-07-04,Timea Babos,Kiki Bertens,,,RH,RH,F
+2018-07-04,Roberto Carballes Baena,Kyle Edmund,,,RH,RH,F
+2018-07-05,Pablo Andujar,Kiki Bertens,,,RH,RH,F
+2018-07-05,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-07-05,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-07-05,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-07-05,Zarina Diyas,Daria Kasatkina,,,RH,RH,F
+2018-07-05,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-07-05,Kiki Bertens,Petra Cetkovska,,,RH,RH,F
+2018-07-05,Oceane Dodin,Kiki Bertens,,,RH,RH,F
+2018-07-05,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-07-06,Daria Kasatkina,Zarina Diyas,,,RH,RH,F
+2018-07-06,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-07-06,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-07-06,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-07-06,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-07-06,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-07-07,Zarina Diyas,Pablo Andujar,,,RH,RH,F
+2018-07-07,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-07-07,Oceane Dodin,Kiki Bertens,,,RH,RH,F
+2018-07-07,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-07-09,Zarina Diyas,Pablo Andujar,,,LH,RH,F
+2018-07-09,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-07-09,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-07-09,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-07-10,Zarina Diyas,Zarina Diyas,,,LH,RH,F
+2018-07-10,Oceane Dodin,Kiki Bertens,,,RH,RH,F
+2018-07-10,Timea Babos,Kiki Bertens,,,RH,RH,F
+2018-07-10,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-07-12,Zarina Diyas,Oceane Dodin,,,LH,RH,F
+2018-07-12,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-07-14,Zarina Diyas,Laura Siegemund,,,LH,RH,F
+2018-07-16,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-07-20,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-07-20,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-07-20,Zarina Diyas,Zarina Diyas,,,RH,RH,F
+2018-07-16,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-07-16,Laura Siegemund,Pablo Andujar,,,LH,RH,F
+2018-07-17,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-07-17,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-07-17,Kiki Bertens,Pablo Andujar,,,RH,RH,F
+2018-07-18,Daria Kasatkina,Pablo Andujar,,,RH,RH,F
+2018-07-19,Roberto Carballes Baena,Kyle Edmund,,,RH,RH,F
+2018-07-20,Laura Siegemund,Daria Kasatkina,,,LH,RH,F
+2018-07-20,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,F
+2018-07-20,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-07-21,Roberto Carballes Baena,Laura Siegemund,,,RH,LH,F
+2018-07-21,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-07-22,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,F
+2018-07-23,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-07-25,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-07-25,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-07-24,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-07-27,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-07-27,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-07-28,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-07-28,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-07-29,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-07-30,Daria Kasatkina,Kyle Edmund,,,RH,RH,F
+2018-07-31,Pablo Andujar,Kiki Bertens,,,RH,RH,F
+2018-07-31,Pablo Andujar,Roberto Carballes Baena,,,RH,RH,F
+2018-08-01,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-08-02,Daria Kasatkina,Pablo Andujar,,,RH,RH,F
+2018-08-02,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-08-03,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-08-04,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-07-31,Daria Kasatkina,Kyle Edmund,,,RH,RH,F
+2018-08-01,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-08-03,Daria Kasatkina,Pablo Andujar,,,RH,RH,F
+2018-08-04,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-08-04,Kyle Edmund,Daria Kasatkina,,,RH,RH,F
+2018-08-04,Kyle Edmund,Daria Kasatkina,,,RH,RH,F
+2018-08-05,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-08-05,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-08-06,Timea Babos,Pablo Andujar,,,RH,RH,F
+2018-08-06,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-08-07,Petra Cetkovska,Oceane Dodin,,,RH,RH,F
+2018-08-07,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,F
+2018-08-07,Daria Kasatkina,Zarina Diyas,,,RH,RH,F
+2018-08-07,Kiki Bertens,Kyle Edmund,,,RH,RH,F
+2018-08-07,Daria Kasatkina,Kyle Edmund,,,RH,RH,F
+2018-08-07,Zarina Diyas,Daria Kasatkina,,,RH,RH,F
+2018-08-07,Pablo Andujar,Roberto Carballes Baena,,,RH,RH,F
+2018-08-07,Kyle Edmund,Petra Cetkovska,,,LH,RH,F
+2018-08-07,Timea Babos,Daria Kasatkina,,,RH,LH,F
+2018-08-08,Timea Babos,Daria Kasatkina,,,RH,RH,F
+2018-08-08,Kiki Bertens,Zarina Diyas,,,RH,LH,F
+2018-08-08,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-08-08,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-08-08,Daria Kasatkina,Zarina Diyas,,,RH,RH,F
+2018-08-09,Petra Cetkovska,Pablo Andujar,,,RH,RH,F
+2018-08-09,Zarina Diyas,Daria Kasatkina,,,RH,RH,F
+2018-08-09,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-08-09,Pablo Andujar,Kiki Bertens,,,RH,RH,F
+2018-08-09,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-08-09,Kiki Bertens,Kyle Edmund,,,RH,LH,F
+2018-08-09,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-08-10,Timea Babos,Daria Kasatkina,,,RH,RH,F
+2018-08-10,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-08-10,Pablo Andujar,Kiki Bertens,,,RH,RH,F
+2018-08-10,Zarina Diyas,Timea Babos,,,RH,RH,F
+2018-08-11,Zarina Diyas,Pablo Andujar,,,RH,RH,F
+2018-08-11,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-08-12,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-08-13,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-08-13,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-08-13,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-08-13,Roberto Carballes Baena,Timea Babos,,,RH,RH,F
+2018-08-14,Kiki Bertens,Oceane Dodin,,,RH,RH,F
+2018-08-14,Pablo Andujar,Laura Siegemund,,,RH,LH,F
+2018-08-14,Zarina Diyas,Kyle Edmund,,,RH,LH,F
+2018-08-14,Daria Kasatkina,Petra Cetkovska,,,RH,RH,F
+2018-08-14,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-08-14,Kyle Edmund,Zarina Diyas,,,RH,RH,F
+2018-08-14,Timea Babos,Pablo Andujar,,,RH,RH,F
+2018-08-15,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-08-15,Kyle Edmund,Laura Siegemund,,,LH,RH,F
+2018-08-15,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-08-15,Pablo Andujar,Zarina Diyas,,,RH,RH,F
+2018-08-15,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-08-15,Zarina Diyas,Daria Kasatkina,,,LH,RH,F
+2018-08-15,Petra Cetkovska,Daria Kasatkina,,,RH,RH,F
+2018-08-15,Zarina Diyas,Timea Babos,,,RH,RH,F
+2018-08-16,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-08-16,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-08-16,Kyle Edmund,Roberto Carballes Baena,,,LH,RH,F
+2018-08-16,Zarina Diyas,Zarina Diyas,,,RH,LH,F
+2018-08-17,Zarina Diyas,Pablo Andujar,,,RH,RH,F
+2018-08-17,Kiki Bertens,Petra Cetkovska,,,RH,RH,F
+2018-08-17,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-08-17,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-08-18,Kiki Bertens,Kyle Edmund,,,RH,LH,F
+2018-08-19,Kiki Bertens,Zarina Diyas,,,RH,RH,F
+2018-08-19,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-08-19,Timea Babos,Kiki Bertens,,,RH,RH,F
+2018-08-19,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-08-20,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-08-20,Kiki Bertens,Daria Kasatkina,,,RH,RH,F
+2018-08-20,Daria Kasatkina,Pablo Andujar,,,RH,RH,F
+2018-08-21,Kyle Edmund,Daria Kasatkina,,,LH,RH,F
+2018-08-21,Petra Cetkovska,Daria Kasatkina,,,RH,RH,F
+2018-08-21,Pablo Andujar,Timea Babos,,,RH,RH,F
+2018-08-21,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-08-22,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-08-22,Daria Kasatkina,Petra Cetkovska,,,RH,RH,F
+2018-08-23,Kyle Edmund,Kiki Bertens,,,LH,RH,F
+2018-08-23,Daria Kasatkina,Timea Babos,,,RH,RH,F
+2018-08-24,Laura Siegemund,Kyle Edmund,,,RH,LH,F
+2018-08-25,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-08-27,Zarina Diyas,Zarina Diyas,,,RH,RH,F
+2018-08-27,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-08-27,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-08-27,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-08-27,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,F
+2018-08-27,Pablo Andujar,Zarina Diyas,,,RH,RH,F
+2018-08-27,Kyle Edmund,Daria Kasatkina,,,RH,RH,F
+2018-08-27,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-08-27,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-08-27,Daria Kasatkina,Kyle Edmund,,,LH,RH,F
+2018-08-28,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-08-28,Kyle Edmund,Kiki Bertens,,,RH,RH,F
+2018-08-28,Timea Babos,Roberto Carballes Baena,,,RH,RH,F
+2018-08-28,Oceane Dodin,Daria Kasatkina,,,RH,RH,F
+2018-08-28,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-08-28,Kyle Edmund,Laura Siegemund,,,LH,RH,F
+2018-08-28,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-08-28,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-08-28,Petra Cetkovska,Pablo Andujar,,,RH,RH,F
+2018-08-28,Timea Babos,Petra Cetkovska,,,RH,RH,F
+2018-08-28,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-08-28,Zarina Diyas,Pablo Andujar,,,RH,RH,F
+2018-08-28,Laura Siegemund,Pablo Andujar,,,LH,RH,F
+2018-08-28,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-08-29,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-08-29,Zarina Diyas,Daria Kasatkina,,,RH,RH,F
+2018-08-29,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-08-29,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-08-29,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-08-30,Pablo Andujar,Daria Kasatkina,,,RH,LH,F
+2018-08-30,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-08-30,Zarina Diyas,Kyle Edmund,,,LH,RH,F
+2018-08-30,Timea Babos,Daria Kasatkina,,,RH,RH,F
+2018-08-30,Oceane Dodin,Laura Siegemund,,,RH,LH,F
+2018-08-30,Laura Siegemund,Kiki Bertens,,,LH,RH,F
+2018-08-30,Petra Cetkovska,Kiki Bertens,,,RH,RH,F
+2018-08-30,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-08-30,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-08-31,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-08-31,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-08-31,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-08-31,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-09-01,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-09-01,Laura Siegemund,Kiki Bertens,,,LH,RH,F
+2018-09-01,Zarina Diyas,Petra Cetkovska,,,RH,RH,F
+2018-09-01,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-09-01,Kiki Bertens,Zarina Diyas,,,RH,LH,F
+2018-09-01,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-09-02,Daria Kasatkina,Oceane Dodin,,,RH,RH,F
+2018-09-02,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-09-03,Zarina Diyas,Kiki Bertens,,,RH,RH,F
+2018-09-03,Laura Siegemund,Laura Siegemund,,,RH,LH,F
+2018-09-04,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-09-06,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-09-11,Kyle Edmund,Kyle Edmund,,,RH,RH,F
+2018-09-11,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-09-11,Roberto Carballes Baena,Roberto Carballes Baena,,,RH,RH,F
+2018-09-11,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-09-12,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-09-13,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-09-14,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-09-14,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-09-10,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-09-10,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-09-11,Zarina Diyas,Daria Kasatkina,,,RH,LH,F
+2018-09-12,Daria Kasatkina,Kyle Edmund,,,RH,RH,F
+2018-09-12,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-09-13,Daria Kasatkina,Zarina Diyas,,,RH,RH,F
+2018-09-13,Kyle Edmund,Timea Babos,,,RH,RH,F
+2018-09-14,Daria Kasatkina,Kyle Edmund,,,RH,RH,F
+2018-09-14,Daria Kasatkina,Kyle Edmund,,,RH,LH,F
+2018-09-15,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-09-16,Daria Kasatkina,Daria Kasatkina,,,RH,RH,F
+2018-09-17,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-09-17,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-09-18,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-09-19,Daria Kasatkina,Kyle Edmund,,,RH,RH,F
+2018-09-19,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-09-19,Petra Cetkovska,Kyle Edmund,,,RH,RH,F
+2018-09-21,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-09-22,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-09-18,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-09-18,Roberto Carballes Baena,Daria Kasatkina,,,RH,RH,F
+2018-09-19,Kiki Bertens,Kyle Edmund,,,RH,RH,F
+2018-09-19,Oceane Dodin,Pablo Andujar,,,RH,RH,F
+2018-09-19,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-09-21,Kiki Bertens,Daria Kasatkina,,,RH,RH,F
+2018-09-21,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-09-22,Kiki Bertens,Daria Kasatkina,,,RH,RH,F
+2018-09-23,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-09-17,Petra Cetkovska,Roberto Carballes Baena,,,RH,RH,F
+2018-09-17,Roberto Carballes Baena,Pablo Andujar,,,RH,RH,F
+2018-09-17,Timea Babos,Kiki Bertens,,,RH,LH,F
+2018-09-18,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-09-18,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-09-18,Petra Cetkovska,Kiki Bertens,,,RH,RH,F
+2018-09-18,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-09-18,Pablo Andujar,Roberto Carballes Baena,,,RH,RH,F
+2018-09-19,Timea Babos,Daria Kasatkina,,,RH,RH,F
+2018-09-20,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-09-20,Pablo Andujar,Pablo Andujar,,,RH,RH,F
+2018-09-20,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-09-20,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-09-21,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-09-21,Timea Babos,Pablo Andujar,,,RH,RH,F
+2018-09-24,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-09-25,Daria Kasatkina,Timea Babos,,,RH,RH,F
+2018-09-26,Pablo Andujar,Daria Kasatkina,,,RH,RH,F
+2018-09-23,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-09-23,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-09-23,Timea Babos,Laura Siegemund,,,RH,LH,F
+2018-09-23,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-09-23,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-09-23,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-09-24,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,F
+2018-09-24,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,F
+2018-09-24,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-09-24,Pablo Andujar,Petra Cetkovska,,,RH,RH,F
+2018-09-24,Petra Cetkovska,Timea Babos,,,RH,RH,F
+2018-09-24,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-09-24,Kiki Bertens,Pablo Andujar,,,RH,RH,F
+2018-09-24,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-09-24,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-09-25,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-09-25,Zarina Diyas,Zarina Diyas,,,LH,RH,F
+2018-09-25,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-09-25,Kyle Edmund,Petra Cetkovska,,,LH,RH,F
+2018-09-25,Daria Kasatkina,Kiki Bertens,,,RH,RH,F
+2018-09-25,Laura Siegemund,Timea Babos,,,RH,RH,F
+2018-09-25,Kiki Bertens,Zarina Diyas,,,RH,RH,F
+2018-09-26,Pablo Andujar,Zarina Diyas,,,RH,LH,F
+2018-09-26,Daria Kasatkina,Kyle Edmund,,,RH,LH,F
+2018-09-26,Kiki Bertens,Zarina Diyas,,,RH,RH,F
+2018-09-26,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-09-26,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-09-26,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-09-27,Pablo Andujar,Daria Kasatkina,,,RH,RH,F
+2018-09-27,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-09-27,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-09-28,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-09-29,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-09-29,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-09-29,Oceane Dodin,Daria Kasatkina,,,RH,RH,F
+2018-09-29,Timea Babos,Petra Cetkovska,,,RH,RH,F
+2018-09-30,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-09-30,Zarina Diyas,Roberto Carballes Baena,,,LH,RH,F
+2018-09-30,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-09-30,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-09-30,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-09-30,Zarina Diyas,Zarina Diyas,,,RH,RH,F
+2018-09-30,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-09-30,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-10-01,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-10-01,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-10-01,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-10-01,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-10-01,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-10-01,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-10-02,Petra Cetkovska,Laura Siegemund,,,RH,RH,F
+2018-10-02,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-10-02,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-10-02,Kiki Bertens,Kiki Bertens,,,RH,RH,F
+2018-10-02,Zarina Diyas,Laura Siegemund,,,LH,RH,F
+2018-10-02,Laura Siegemund,Oceane Dodin,,,RH,RH,F
+2018-10-02,Timea Babos,Zarina Diyas,,,RH,RH,F
+2018-10-03,Laura Siegemund,Pablo Andujar,,,RH,RH,F
+2018-10-03,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-10-03,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-10-04,Laura Siegemund,Zarina Diyas,,,RH,LH,F
+2018-10-04,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-10-04,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-10-05,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-10-06,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-10-08,Kiki Bertens,Timea Babos,,,RH,RH,F
+2018-10-08,Laura Siegemund,Petra Cetkovska,,,RH,RH,F
+2018-10-09,Roberto Carballes Baena,Zarina Diyas,,,RH,RH,F
+2018-10-09,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,F
+2018-10-10,Kyle Edmund,Kiki Bertens,,,RH,RH,F
+2018-10-10,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-10-11,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-10-12,Roberto Carballes Baena,Kyle Edmund,,,RH,RH,F
+2018-10-13,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-10-13,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-10-13,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-10-14,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-10-08,Laura Siegemund,Daria Kasatkina,,,RH,RH,F
+2018-10-09,Kyle Edmund,Laura Siegemund,,,RH,RH,F
+2018-10-09,Timea Babos,Daria Kasatkina,,,RH,RH,F
+2018-10-09,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-10-10,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-10-10,Daria Kasatkina,Timea Babos,,,RH,RH,F
+2018-10-11,Daria Kasatkina,Kyle Edmund,,,RH,RH,F
+2018-10-11,Roberto Carballes Baena,Pablo Andujar,,,RH,RH,F
+2018-10-12,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-10-12,Daria Kasatkina,Roberto Carballes Baena,,,RH,RH,F
+2018-10-13,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-10-08,Kyle Edmund,Daria Kasatkina,,,RH,RH,F
+2018-10-08,Zarina Diyas,Pablo Andujar,,,RH,RH,F
+2018-10-09,Kiki Bertens,Daria Kasatkina,,,LH,RH,F
+2018-10-10,Kyle Edmund,Kyle Edmund,,,RH,RH,F
+2018-10-11,Pablo Andujar,Kiki Bertens,,,RH,LH,F
+2018-10-12,Timea Babos,Kyle Edmund,,,RH,RH,F
+2018-10-16,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-10-16,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,F
+2018-10-16,Laura Siegemund,Kyle Edmund,,,RH,RH,F
+2018-10-16,Kiki Bertens,Roberto Carballes Baena,,,RH,RH,F
+2018-10-16,Kiki Bertens,Pablo Andujar,,,RH,RH,F
+2018-10-16,Laura Siegemund,Kyle Edmund,,,RH,LH,F
+2018-10-17,Pablo Andujar,Kiki Bertens,,,RH,RH,F
+2018-10-17,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-10-17,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-10-17,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-10-18,Timea Babos,Laura Siegemund,,,RH,RH,F
+2018-10-18,Kiki Bertens,Daria Kasatkina,,,RH,RH,F
+2018-10-19,Timea Babos,Kiki Bertens,,,RH,RH,F
+2018-10-19,Pablo Andujar,Laura Siegemund,,,RH,RH,F
+2018-10-20,Timea Babos,Pablo Andujar,,,RH,RH,F
+2018-10-15,Daria Kasatkina,Laura Siegemund,,,RH,RH,F
+2018-10-15,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-10-16,Kiki Bertens,Laura Siegemund,,,RH,RH,F
+2018-10-17,Petra Cetkovska,Roberto Carballes Baena,,,RH,RH,F
+2018-10-17,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-10-17,Zarina Diyas,Kiki Bertens,,,RH,RH,F
+2018-10-18,Zarina Diyas,Petra Cetkovska,,,RH,RH,F
+2018-10-18,Zarina Diyas,Daria Kasatkina,,,RH,RH,F
+2018-10-19,Zarina Diyas,Petra Cetkovska,,,RH,RH,F
+2018-10-20,Zarina Diyas,Zarina Diyas,,,RH,RH,F
+2018-10-21,Laura Siegemund,Kyle Edmund,,,RH,LH,F
+2018-10-22,Kiki Bertens,Zarina Diyas,,,RH,LH,F
+2018-10-23,Laura Siegemund,Kyle Edmund,,,RH,LH,F
+2018-10-24,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-10-25,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-10-26,Laura Siegemund,Zarina Diyas,,,RH,LH,F
+2018-10-27,Laura Siegemund,Kiki Bertens,,,RH,RH,F
+2018-10-28,Laura Siegemund,Laura Siegemund,,,RH,RH,F
+2018-10-30,Zarina Diyas,Laura Siegemund,,,RH,RH,F
+2018-10-31,Petra Cetkovska,Timea Babos,,,RH,RH,F
+2018-10-31,Zarina Diyas,Zarina Diyas,,,RH,RH,F
+2018-10-31,Roberto Carballes Baena,Laura Siegemund,,,RH,RH,F
+2018-11-01,Pablo Andujar,Timea Babos,,,RH,RH,F
+2018-11-02,Laura Siegemund,Zarina Diyas,,,RH,RH,F
+2018-11-03,Pablo Andujar,Timea Babos,,,RH,RH,F
+2018-11-03,Laura Siegemund,Roberto Carballes Baena,,,RH,RH,F
+2018-11-04,Pablo Andujar,Laura Siegemund,,,RH,RH,F
