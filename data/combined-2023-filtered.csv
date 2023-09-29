@@ -1,0 +1,213 @@
+date,P1Name,P2Name,P1WinProb,P2WinProb,P1Hand,P2Hand,Gender
+2023-01-01,Giron M.,Gasquet R.,,,RH,RH,M
+2023-01-03,Bautista Agut R.,Rublev A.,,,RH,RH,M
+2023-01-02,Cecchinato M.,Basilashvili N.,,,RH,RH,M
+2023-01-04,Cilic M.,Carballes Baena R.,,,RH,RH,M
+2023-01-11,Bautista Agut R.,Haase R.,,,RH,RH,M
+2023-01-11,Kokkinakis T.,Rublev A.,,,RH,RH,M
+2023-01-13,Bautista Agut R.,Kokkinakis T.,,,RH,RH,M
+2023-01-11,Gasquet R.,Sousa J.,,,RH,RH,M
+2023-01-12,Gasquet R.,Goffin D.,,,RH,RH,M
+2023-01-17,Rublev A.,Thiem D.,,,RH,RH,M
+2023-01-17,Djokovic N.,Carballes Baena R.,,,RH,RH,M
+2023-01-18,Mannarino A.,Isner J.,,,LH,RH,M
+2023-01-18,Bautista Agut R.,Sousa J.,,,RH,RH,M
+2023-01-18,Kokkinakis T.,Fognini F.,,,RH,RH,M
+2023-01-19,Murray A.,Kokkinakis T.,,,RH,RH,M
+2023-01-21,Bautista Agut R.,Murray A.,,,RH,RH,M
+2023-01-21,Djokovic N.,Dimitrov G.,,,RH,RH,M
+2023-01-25,Djokovic N.,Rublev A.,,,RH,RH,M
+2023-02-08,Cecchinato M.,Bagnis F.,,,RH,LH,M
+2023-02-09,Sousa J.,Garin C.,,,RH,RH,M
+2023-02-07,Mannarino A.,Johnson S.,,,LH,RH,M
+2023-02-14,Albot R.,Verdasco F.,,,RH,LH,M
+2023-02-13,Gasquet R.,Carreno Busta P.,,,RH,RH,M
+2023-02-15,Wawrinka S.,Gasquet R.,,,RH,RH,M
+2023-02-21,Bautista Agut R.,Fucsovics M.,,,RH,RH,M
+2023-02-22,Murray A.,Zverev A.,,,RH,RH,M
+2023-02-22,Wawrinka S.,Gasquet R.,,,RH,RH,M
+2023-02-22,Lajovic D.,Schwartzman D.,,,RH,RH,M
+2023-02-28,Tiafoe F.,Nishioka Y.,,,RH,LH,M
+2023-03-01,Ymer E.,Mannarino A.,,,RH,LH,M
+2023-03-02,Tiafoe F.,Lopez F.,,,RH,LH,M
+2023-02-27,Rublev A.,Krajinovic F.,,,RH,RH,M
+2023-03-01,Coric B.,Kokkinakis T.,,,RH,RH,M
+2023-03-03,Rublev A.,Zverev A.,,,RH,RH,M
+2023-02-28,Cecchinato M.,Bagnis F.,,,RH,LH,M
+2023-02-28,Garin C.,Thiem D.,,,RH,RH,M
+2023-03-08,Daniel T.,Carballes Baena R.,,,RH,RH,M
+2023-03-10,Mannarino A.,Thiem D.,,,LH,RH,M
+2023-03-10,Garin C.,Nishioka Y.,,,RH,LH,M
+2023-03-10,Kubler J.,Dimitrov G.,,,RH,RH,M
+2023-03-11,Tiafoe F.,Giron M.,,,RH,RH,M
+2023-03-11,Murray A.,Albot R.,,,RH,RH,M
+2023-03-12,Tiafoe F.,Kubler J.,,,RH,RH,M
+2023-03-22,Lajovic D.,Murray A.,,,RH,RH,M
+2023-03-23,Garin C.,Giron M.,,,RH,RH,M
+2023-03-25,Daniel T.,Zverev A.,,,RH,RH,M
+2023-04-03,Cecchinato M.,Schwartzman D.,,,RH,RH,M
+2023-04-05,Cecchinato M.,Fognini F.,,,RH,RH,M
+2023-04-04,Kubler J.,Verdasco F.,,,RH,LH,M
+2023-04-04,Johnson S.,Bagnis F.,,,RH,LH,M
+2023-04-08,Tiafoe F.,Johnson S.,,,RH,RH,M
+2023-04-08,Tiafoe F.,Kubler J.,,,RH,RH,M
+2023-04-10,Schwartzman D.,Goffin D.,,,RH,RH,M
+2023-04-10,Bautista Agut R.,Krajinovic F.,,,RH,RH,M
+2023-04-10,Thiem D.,Gasquet R.,,,RH,RH,M
+2023-04-12,Zverev A.,Bautista Agut R.,,,RH,RH,M
+2023-04-18,Goffin D.,Lopez F.,,,RH,LH,M
+2023-04-19,Nishioka Y.,Goffin D.,,,LH,RH,M
+2023-04-18,Lajovic D.,Krajinovic F.,,,RH,RH,M
+2023-04-20,Dzumhur D.,Gasquet R.,,,RH,RH,M
+2023-04-21,Rublev A.,Dzumhur D.,,,RH,RH,M
+2023-04-21,Lajovic D.,Djokovic N.,,,RH,RH,M
+2023-04-23,Lajovic D.,Rublev A.,,,RH,RH,M
+2023-04-17,Giron M.,Carballes Baena R.,,,RH,RH,M
+2023-04-26,Carballes Baena R.,Goffin D.,,,RH,RH,M
+2023-04-27,Thiem D.,Edmund K.,,,RH,RH,M
+2023-04-27,Cecchinato M.,Fucsovics M.,,,RH,RH,M
+2023-04-27,Lajovic D.,Kubler J.,,,RH,RH,M
+2023-04-28,Rublev A.,Wawrinka S.,,,RH,RH,M
+2023-04-28,Zverev A.,Carballes Baena R.,,,RH,RH,M
+2023-04-30,Rublev A.,Nishioka Y.,,,RH,LH,M
+2023-05-10,Fucsovics M.,Krajinovic F.,,,RH,RH,M
+2023-05-10,Fognini F.,Murray A.,,,RH,RH,M
+2023-05-12,Dimitrov G.,Wawrinka S.,,,RH,RH,M
+2023-05-14,Cecchinato M.,Bautista Agut R.,,,RH,RH,M
+2023-05-14,Zverev A.,Goffin D.,,,RH,RH,M
+2023-05-14,Djokovic N.,Dimitrov G.,,,RH,RH,M
+2023-05-15,Coric B.,Carballes Baena R.,,,RH,RH,M
+2023-01-04,Vondrousova M.,Kanepi K.,,,LH,RH,F
+2023-01-05,Jabeur O.,Cirstea S.,,,RH,RH,F
+2023-01-02,Zhu L.,Brengle M.,,,RH,RH,F
+2023-01-04,Zhu L.,Williams V.,,,RH,RH,F
+2023-01-05,Kovinic D.,Davis L.,,,RH,RH,F
+2023-01-09,Bencic B.,Muguruza G.,,,RH,RH,F
+2023-01-10,Badosa P.,Kontaveit A.,,,RH,RH,F
+2023-01-11,Badosa P.,Kanepi K.,,,RH,RH,F
+2023-01-11,Garcia C.,Siniakova K.,,,RH,RH,F
+2023-01-12,Kasatkina D.,Kvitova P.,,,RH,LH,F
+2023-01-12,Bencic B.,Garcia C.,,,RH,RH,F
+2023-01-13,Kasatkina D.,Badosa P.,,,RH,RH,F
+2023-01-14,Bencic B.,Kasatkina D.,,,RH,RH,F
+2023-01-09,Davis L.,Stephens S.,,,RH,RH,F
+2023-01-10,Van Uytvanck A.,Linette M.,,,RH,RH,F
+2023-01-16,Kvitova P.,Van Uytvanck A.,,,LH,RH,F
+2023-01-16,Ostapenko J.,Yastremska D.,,,RH,RH,F
+2023-01-17,Giorgi C.,Pavlyuchenkova A.,,,RH,RH,F
+2023-01-17,Putintseva Y.,Cirstea S.,,,RH,RH,F
+2023-01-18,Davis L.,Kovinic D.,,,RH,RH,F
+2023-01-19,Linette M.,Kontaveit A.,,,RH,RH,F
+2023-01-19,Zhang S.,Martic P.,,,RH,RH,F
+2023-01-19,Vondrousova M.,Jabeur O.,,,LH,RH,F
+2023-01-20,Ostapenko J.,Baindl K.,,,RH,RH,F
+2023-01-20,Azarenka V.,Keys M.,,,RH,RH,F
+2023-01-20,Zhu L.,Sakkari M.,,,RH,RH,F
+2023-01-21,Bencic B.,Giorgi C.,,,RH,RH,F
+2023-01-21,Garcia C.,Siegemund L.,,,RH,RH,F
+2023-01-22,Azarenka V.,Zhu L.,,,RH,RH,F
+2023-01-23,Linette M.,Garcia C.,,,RH,RH,F
+2023-01-24,Azarenka V.,Pegula J.,,,RH,RH,F
+2023-01-31,Watson H.,Putintseva Y.,,,RH,RH,F
+2023-02-02,Maria T.,Yastremska D.,,,RH,RH,F
+2023-02-03,Tsurenko L.,Maria T.,,,RH,RH,F
+2023-02-05,Zhu L.,Tsurenko L.,,,RH,RH,F
+2023-01-30,Martic P.,Mladenovic K.,,,RH,RH,F
+2023-01-31,Zhang S.,Brengle M.,,,RH,RH,F
+2023-02-02,Garcia C.,Van Uytvanck A.,,,RH,RH,F
+2023-02-06,Kontaveit A.,Zhang S.,,,RH,RH,F
+2023-02-08,Rogers S.,Kontaveit A.,,,RH,RH,F
+2023-02-10,Bencic B.,Rogers S.,,,RH,RH,F
+2023-02-09,Vekic D.,Brengle M.,,,RH,RH,F
+2023-02-09,Martic P.,Van Uytvanck A.,,,RH,RH,F
+2023-02-10,Sakkari M.,Vekic D.,,,RH,RH,F
+2023-02-11,Martic P.,Sakkari M.,,,RH,RH,F
+2023-02-14,Kvitova P.,Zhang S.,,,LH,RH,F
+2023-02-14,Ostapenko J.,Keys M.,,,RH,RH,F
+2023-02-15,Bencic B.,Azarenka V.,,,RH,RH,F
+2023-02-15,Pegula J.,Ostapenko J.,,,RH,RH,F
+2023-02-16,Sakkari M.,Garcia C.,,,RH,RH,F
+2023-02-17,Pegula J.,Sakkari M.,,,RH,RH,F
+2023-02-19,Yastremska D.,Cornet A.,,,RH,RH,F
+2023-02-20,Azarenka V.,Pavlyuchenkova A.,,,RH,RH,F
+2023-02-20,Putintseva Y.,Martic P.,,,RH,RH,F
+2023-02-21,Keys M.,Garcia C.,,,RH,RH,F
+2023-02-21,Kvitova P.,Putintseva Y.,,,LH,RH,F
+2023-02-22,Keys M.,Azarenka V.,,,RH,RH,F
+2023-02-21,Siniakova K.,Tsurenko L.,,,RH,RH,F
+2023-02-25,Giorgi C.,Stephens S.,,,RH,RH,F
+2023-02-26,Giorgi C.,Siniakova K.,,,RH,RH,F
+2023-02-27,Watson H.,Kovinic D.,,,RH,RH,F
+2023-02-28,Brengle M.,Chirico L.,,,RH,RH,F
+2023-02-28,Stephens S.,Townsend T.,,,RH,LH,F
+2023-03-01,Stephens S.,Watson H.,,,RH,RH,F
+2023-02-28,Vekic D.,Tsurenko L.,,,RH,RH,F
+2023-03-04,Vekic D.,Zhu L.,,,RH,RH,F
+2023-03-05,Vekic D.,Garcia C.,,,RH,RH,F
+2023-03-08,Rodina E.,Cornet A.,,,RH,RH,F
+2023-03-08,Tsurenko L.,Zhu L.,,,RH,RH,F
+2023-03-09,Brengle M.,Siegemund L.,,,RH,RH,F
+2023-03-10,Tsurenko L.,Vekic D.,,,RH,RH,F
+2023-03-10,Sakkari M.,Rogers S.,,,RH,RH,F
+2023-03-11,Pegula J.,Giorgi C.,,,RH,RH,F
+2023-03-11,Kasatkina D.,Maria T.,,,RH,RH,F
+2023-03-12,Jabeur O.,Frech M.,,,RH,RH,F
+2023-03-12,Cirstea S.,Keys M.,,,RH,RH,F
+2023-03-13,Kvitova P.,Ostapenko J.,,,LH,RH,F
+2023-03-13,Vondrousova M.,Jabeur O.,,,LH,RH,F
+2023-03-14,Kvitova P.,Pegula J.,,,LH,RH,F
+2023-03-15,Cirstea S.,Garcia C.,,,RH,RH,F
+2023-03-16,Sakkari M.,Kvitova P.,,,RH,LH,F
+2023-03-21,Giorgi C.,Kanepi K.,,,RH,RH,F
+2023-03-22,Vondrousova M.,Maria T.,,,LH,RH,F
+2023-03-22,Rogers S.,Stephens S.,,,RH,RH,F
+2023-03-23,Badosa P.,Siegemund L.,,,RH,RH,F
+2023-03-23,Linette M.,Rodina E.,,,RH,RH,F
+2023-03-23,Azarenka V.,Giorgi C.,,,RH,RH,F
+2023-03-24,Cirstea S.,Garcia C.,,,RH,RH,F
+2023-03-24,Vekic D.,Brengle M.,,,RH,RH,F
+2023-03-25,Linette M.,Azarenka V.,,,RH,RH,F
+2023-03-26,Kvitova P.,Vekic D.,,,LH,RH,F
+2023-03-27,Pegula J.,Linette M.,,,RH,RH,F
+2023-03-27,Cirstea S.,Vondrousova M.,,,RH,LH,F
+2023-03-31,Kvitova P.,Cirstea S.,,,LH,RH,F
+2023-04-03,Brengle M.,Kanepi K.,,,RH,RH,F
+2023-04-03,Tsurenko L.,Ormaechea P.,,,RH,RH,F
+2023-04-03,Putintseva Y.,Svitolina E.,,,RH,RH,F
+2023-04-03,Stephens S.,Chirico L.,,,RH,RH,F
+2023-04-05,Azarenka V.,Stephens S.,,,RH,RH,F
+2023-04-05,Jabeur O.,Tsurenko L.,,,RH,RH,F
+2023-04-05,Kasatkina D.,Brengle M.,,,RH,RH,F
+2023-04-06,Bencic B.,Rogers S.,,,RH,RH,F
+2023-04-07,Keys M.,Linette M.,,,RH,RH,F
+2023-04-07,Kasatkina D.,Keys M.,,,RH,RH,F
+2023-04-08,Pegula J.,Badosa P.,,,RH,RH,F
+2023-04-08,Jabeur O.,Kasatkina D.,,,RH,RH,F
+2023-04-09,Bencic B.,Pegula J.,,,RH,RH,F
+2023-04-09,Jabeur O.,Bencic B.,,,RH,RH,F
+2023-04-18,Badosa P.,Kasatkina D.,,,RH,RH,F
+2023-04-19,Jabeur O.,Ostapenko J.,,,RH,RH,F
+2023-04-20,Garcia C.,Maria T.,,,RH,RH,F
+2023-04-25,Cirstea S.,Davis L.,,,RH,RH,F
+2023-04-26,Bouchard E.,Yastremska D.,,,RH,RH,F
+2023-04-26,Kovinic D.,Errani S.,,,RH,RH,F
+2023-04-27,Linette M.,Vondrousova M.,,,RH,LH,F
+2023-04-27,Garcia C.,Putintseva Y.,,,RH,RH,F
+2023-04-28,Kasatkina D.,Pavlyuchenkova A.,,,RH,RH,F
+2023-04-28,Martic P.,Siegemund L.,,,RH,RH,F
+2023-04-28,Pegula J.,Frech M.,,,RH,RH,F
+2023-04-30,Kasatkina D.,Tsurenko L.,,,RH,RH,F
+2023-05-01,Sakkari M.,Badosa P.,,,RH,RH,F
+2023-05-09,Vondrousova M.,Kanepi K.,,,LH,RH,F
+2023-05-10,Pavlyuchenkova A.,Errani S.,,,RH,RH,F
+2023-05-10,Tsurenko L.,Svitolina E.,,,RH,RH,F
+2023-05-11,Azarenka V.,Stephens S.,,,RH,RH,F
+2023-05-11,Keys M.,Frech M.,,,RH,RH,F
+2023-05-11,Townsend T.,Pegula J.,,,LH,RH,F
+2023-05-12,Sakkari M.,Strycova B.,,,RH,RH,F
+2023-05-12,Badosa P.,Jabeur O.,,,RH,RH,F
+2023-05-12,Ostapenko J.,Cirstea S.,,,RH,RH,F
+2023-05-14,Vondrousova M.,Sakkari M.,,,LH,RH,F
+2023-05-14,Keys M.,Azarenka V.,,,RH,RH,F
+2023-05-15,Ostapenko J.,Kasatkina D.,,,RH,RH,F
+2023-05-17,Ostapenko J.,Badosa P.,,,RH,RH,F

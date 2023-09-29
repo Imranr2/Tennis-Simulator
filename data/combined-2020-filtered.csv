@@ -1,0 +1,633 @@
+date,P1Name,P2Name,P1WinProb,P2WinProb,P1Hand,P2Hand,Gender
+2020-01-06,Verdasco F.,Andujar P.,,,LH,RH,M
+2020-01-06,Krajinovic F.,Edmund K.,,,RH,RH,M
+2020-01-07,Fucsovics M.,Tiafoe F.,,,RH,RH,M
+2020-01-07,Kukushkin M.,Jaziri M.,,,RH,RH,M
+2020-01-07,Wawrinka S.,Chardy J.,,,RH,RH,M
+2020-01-08,Rublev A.,Kukushkin M.,,,RH,RH,M
+2020-01-08,Verdasco F.,Krajinovic F.,,,LH,RH,M
+2020-01-10,Wawrinka S.,Bedene A.,,,RH,RH,M
+2020-01-13,Chardy J.,Simon G.,,,RH,RH,M
+2020-01-14,Bolt A.,Robert S.,,,LH,RH,M
+2020-01-15,Rublev A.,Querrey S.,,,RH,RH,M
+2020-01-15,Carreno Busta P.,Chardy J.,,,RH,RH,M
+2020-01-14,Pospisil V.,Sousa J.,,,RH,RH,M
+2020-01-15,Seppi A.,Mannarino A.,,,RH,LH,M
+2020-01-15,Lopez F.,Andujar P.,,,LH,RH,M
+2020-01-15,Cecchinato M.,Mayer L.,,,RH,RH,M
+2020-01-15,Isner J.,Sandgren T.,,,RH,RH,M
+2020-01-15,Lopez F.,Fognini F.,,,LH,RH,M
+2020-01-15,Edmund K.,Seppi A.,,,RH,RH,M
+2020-01-16,Isner J.,Edmund K.,,,RH,RH,M
+2020-01-16,Paire B.,Millman J.,,,RH,RH,M
+2020-01-20,Berankis R.,Carballes Baena R.,,,RH,RH,M
+2020-01-20,Querrey S.,Coric B.,,,RH,RH,M
+2020-01-20,Federer R.,Johnson S.,,,RH,RH,M
+2020-01-20,Kohlschreiber P.,Giron M.,,,RH,RH,M
+2020-01-21,Bautista Agut R.,Lopez F.,,,RH,LH,M
+2020-01-21,Lajovic D.,Edmund K.,,,RH,RH,M
+2020-01-21,Thiem D.,Mannarino A.,,,RH,LH,M
+2020-01-21,Wawrinka S.,Dzumhur D.,,,RH,RH,M
+2020-01-21,Verdasco F.,Donskoy E.,,,LH,RH,M
+2020-01-21,Goffin D.,Chardy J.,,,RH,RH,M
+2020-01-21,Delbonis F.,Sousa J.,,,LH,RH,M
+2020-01-21,Zverev A.,Cecchinato M.,,,RH,RH,M
+2020-01-21,Karlovic I.,Pospisil V.,,,RH,RH,M
+2020-01-21,Simon G.,Cuevas P.,,,RH,RH,M
+2020-01-22,Querrey S.,Berankis R.,,,RH,RH,M
+2020-01-22,Cilic M.,Paire B.,,,RH,RH,M
+2020-01-22,Djokovic N.,Ito T.,,,RH,RH,M
+2020-01-22,Raonic M.,Garin C.,,,RH,RH,M
+2020-01-22,Federer R.,Krajinovic F.,,,RH,RH,M
+2020-01-23,Gulbis E.,Bedene A.,,,RH,RH,M
+2020-01-23,Thiem D.,Bolt A.,,,RH,LH,M
+2020-01-23,Monfils G.,Karlovic I.,,,RH,RH,M
+2020-01-23,Rublev A.,Sugita Y.,,,RH,RH,M
+2020-01-23,Verdasco F.,Basilashvili N.,,,LH,RH,M
+2020-01-23,Carreno Busta P.,Gojowczyk P.,,,RH,RH,M
+2020-01-23,Kyrgios N.,Simon G.,,,RH,RH,M
+2020-01-23,Wawrinka S.,Seppi A.,,,RH,RH,M
+2020-01-23,Nadal R.,Delbonis F.,,,LH,LH,M
+2020-01-24,Schwartzman D.,Lajovic D.,,,RH,RH,M
+2020-01-24,Cilic M.,Bautista Agut R.,,,RH,RH,M
+2020-01-24,Djokovic N.,Nishioka Y.,,,RH,LH,M
+2020-01-24,Sandgren T.,Querrey S.,,,RH,RH,M
+2020-01-24,Fognini F.,Pella G.,,,RH,LH,M
+2020-01-24,Federer R.,Millman J.,,,RH,RH,M
+2020-01-25,Monfils G.,Gulbis E.,,,RH,RH,M
+2020-01-25,Rublev A.,Goffin D.,,,RH,RH,M
+2020-01-25,Nadal R.,Carreno Busta P.,,,LH,RH,M
+2020-01-25,Wawrinka S.,Isner J.,,,RH,RH,M
+2020-01-25,Zverev A.,Verdasco F.,,,RH,LH,M
+2020-01-26,Raonic M.,Cilic M.,,,RH,RH,M
+2020-01-26,Djokovic N.,Schwartzman D.,,,RH,RH,M
+2020-01-26,Sandgren T.,Fognini F.,,,RH,RH,M
+2020-01-26,Federer R.,Fucsovics M.,,,RH,RH,M
+2020-01-27,Thiem D.,Monfils G.,,,RH,RH,M
+2020-01-27,Nadal R.,Kyrgios N.,,,LH,RH,M
+2020-01-27,Zverev A.,Rublev A.,,,RH,RH,M
+2020-01-28,Federer R.,Sandgren T.,,,RH,RH,M
+2020-01-28,Djokovic N.,Raonic M.,,,RH,RH,M
+2020-01-29,Zverev A.,Wawrinka S.,,,RH,RH,M
+2020-01-29,Thiem D.,Nadal R.,,,RH,LH,M
+2020-01-30,Djokovic N.,Federer R.,,,RH,RH,M
+2020-01-31,Thiem D.,Zverev A.,,,RH,RH,M
+2020-02-02,Djokovic N.,Thiem D.,,,RH,RH,M
+2020-02-03,Cuevas P.,Delbonis F.,,,RH,LH,M
+2020-02-07,Garin C.,Cuevas P.,,,RH,RH,M
+2020-02-08,Garin C.,Martin A.,,,RH,RH,M
+2020-02-09,Garin C.,Schwartzman D.,,,RH,RH,M
+2020-02-03,Pospisil V.,Bedene A.,,,RH,RH,M
+2020-02-03,Gombos N.,Carreno Busta P.,,,RH,RH,M
+2020-02-05,Gasquet R.,Simon G.,,,RH,RH,M
+2020-02-06,Gasquet R.,Lopez F.,,,RH,LH,M
+2020-02-06,Monfils G.,Mannarino A.,,,RH,LH,M
+2020-02-07,Pospisil V.,Gasquet R.,,,RH,RH,M
+2020-02-07,Monfils G.,Gombos N.,,,RH,RH,M
+2020-02-08,Monfils G.,Krajinovic F.,,,RH,RH,M
+2020-02-08,Pospisil V.,Goffin D.,,,RH,RH,M
+2020-02-09,Monfils G.,Pospisil V.,,,RH,RH,M
+2020-02-03,Sugita Y.,Fabbiano T.,,,RH,RH,M
+2020-02-05,Sugita Y.,Troicki V.,,,RH,RH,M
+2020-02-07,Berankis R.,Sugita Y.,,,RH,RH,M
+2020-02-08,Vesely J.,Berankis R.,,,LH,RH,M
+2020-02-11,Carballes Baena R.,Cecchinato M.,,,RH,RH,M
+2020-02-11,Bagnis F.,Martin A.,,,LH,RH,M
+2020-02-13,Pella G.,Bagnis F.,,,LH,LH,M
+2020-02-14,Schwartzman D.,Delbonis F.,,,RH,LH,M
+2020-02-14,Schwartzman D.,Cuevas P.,,,RH,RH,M
+2020-02-10,Seppi A.,Dzumhur D.,,,RH,RH,M
+2020-02-11,Johnson S.,Sandgren T.,,,RH,RH,M
+2020-02-11,Giron M.,Sock J.,,,RH,RH,M
+2020-02-12,Seppi A.,Johnson S.,,,RH,RH,M
+2020-02-16,Edmund K.,Seppi A.,,,RH,RH,M
+2020-02-10,Carreno Busta P.,Mannarino A.,,,RH,LH,M
+2020-02-10,Bautista Agut R.,Fucsovics M.,,,RH,RH,M
+2020-02-11,Rublev A.,Basilashvili N.,,,RH,RH,M
+2020-02-11,Bedene A.,Paire B.,,,RH,RH,M
+2020-02-12,Simon G.,Kukushkin M.,,,RH,RH,M
+2020-02-12,Goffin D.,Haase R.,,,RH,RH,M
+2020-02-12,Monfils G.,Sousa J.,,,RH,RH,M
+2020-02-12,Carreno Busta P.,Bautista Agut R.,,,RH,RH,M
+2020-02-13,Monfils G.,Simon G.,,,RH,RH,M
+2020-02-13,Krajinovic F.,Pospisil V.,,,RH,RH,M
+2020-02-14,Krajinovic F.,Rublev A.,,,RH,RH,M
+2020-02-15,Monfils G.,Krajinovic F.,,,RH,RH,M
+2020-02-17,Harrison R.,Dzumhur D.,,,RH,RH,M
+2020-02-17,Nishioka Y.,Millman J.,,,LH,RH,M
+2020-02-18,Raonic M.,Istomin D.,,,RH,RH,M
+2020-02-18,Sock J.,Albot R.,,,RH,RH,M
+2020-02-20,Johnson S.,Sock J.,,,RH,RH,M
+2020-02-22,Raonic M.,Johnson S.,,,RH,RH,M
+2020-02-20,Simon G.,Bedene A.,,,RH,RH,M
+2020-02-17,Delbonis F.,Carballes Baena R.,,,LH,RH,M
+2020-02-17,Garin C.,Martin A.,,,RH,RH,M
+2020-02-17,Andujar P.,Verdasco F.,,,RH,LH,M
+2020-02-18,Lajovic D.,Cecchinato M.,,,RH,RH,M
+2020-02-19,Garin C.,Delbonis F.,,,RH,LH,M
+2020-02-23,Garin C.,Coric B.,,,RH,RH,M
+2020-02-25,Wawrinka S.,Tiafoe F.,,,RH,RH,M
+2020-02-25,Edmund K.,Lopez F.,,,RH,LH,M
+2020-02-25,Dimitrov G.,Dzumhur D.,,,RH,RH,M
+2020-02-26,Lajovic D.,Johnson S.,,,RH,RH,M
+2020-02-26,Nadal R.,Andujar P.,,,LH,RH,M
+2020-02-26,Isner J.,Zverev M.,,,RH,LH,M
+2020-02-26,Isner J.,Giron M.,,,RH,RH,M
+2020-02-27,Dimitrov G.,Mannarino A.,,,RH,LH,M
+2020-02-28,Dimitrov G.,Wawrinka S.,,,RH,RH,M
+2020-02-29,Nadal R.,Dimitrov G.,,,LH,RH,M
+2020-02-24,Kohlschreiber P.,Safwat M.,,,RH,RH,M
+2020-02-24,Djokovic N.,Jaziri M.,,,RH,RH,M
+2020-02-24,Monfils G.,Fucsovics M.,,,RH,RH,M
+2020-02-25,Paire B.,Cilic M.,,,RH,RH,M
+2020-02-25,Krajinovic F.,Sousa J.,,,RH,RH,M
+2020-02-25,Basilashvili N.,Berankis R.,,,RH,RH,M
+2020-02-26,Rublev A.,Krajinovic F.,,,RH,RH,M
+2020-02-26,Djokovic N.,Kohlschreiber P.,,,RH,RH,M
+2020-02-26,Gasquet R.,Paire B.,,,RH,RH,M
+2020-02-27,Monfils G.,Gasquet R.,,,RH,RH,M
+2020-02-28,Djokovic N.,Monfils G.,,,RH,RH,M
+2020-02-25,Delbonis F.,Klizan M.,,,LH,LH,M
+2020-02-26,Olivo R.,Cuevas P.,,,RH,RH,M
+2020-08-22,Carreno Busta P.,Lajovic D.,,,RH,RH,M
+2020-08-22,Anderson K.,Edmund K.,,,RH,RH,M
+2020-08-22,Coric B.,Paire B.,,,RH,RH,M
+2020-08-22,Murray A.,Tiafoe F.,,,RH,RH,M
+2020-08-23,Raonic M.,Querrey S.,,,RH,RH,M
+2020-08-23,Bedene A.,Garin C.,,,RH,RH,M
+2020-08-23,Fucsovics M.,Gombos N.,,,RH,RH,M
+2020-08-23,Millman J.,Mannarino A.,,,RH,LH,M
+2020-08-24,Goffin D.,Coric B.,,,RH,RH,M
+2020-08-24,Isner J.,Millman J.,,,RH,RH,M
+2020-08-24,Bautista Agut R.,Gasquet R.,,,RH,RH,M
+2020-08-24,Murray A.,Zverev A.,,,RH,RH,M
+2020-08-25,Fucsovics M.,Dimitrov G.,,,RH,RH,M
+2020-08-25,Krajinovic F.,Thiem D.,,,RH,RH,M
+2020-08-25,Djokovic N.,Berankis R.,,,RH,RH,M
+2020-08-25,Djokovic N.,Sandgren T.,,,RH,RH,M
+2020-08-26,Raonic M.,Murray A.,,,RH,RH,M
+2020-08-26,Krajinovic F.,Fucsovics M.,,,RH,RH,M
+2020-08-27,Raonic M.,Krajinovic F.,,,RH,RH,M
+2020-08-28,Djokovic N.,Bautista Agut R.,,,RH,RH,M
+2020-08-29,Djokovic N.,Raonic M.,,,RH,RH,M
+2020-09-08,Pella G.,Nishioka Y.,,,LH,LH,M
+2020-09-10,Delbonis F.,Basilashvili N.,,,LH,RH,M
+2020-09-10,Lopez F.,Pella G.,,,LH,LH,M
+2020-08-31,Coric B.,Andujar P.,,,RH,RH,M
+2020-08-31,Zverev A.,Anderson K.,,,RH,RH,M
+2020-08-31,Sock J.,Cuevas P.,,,RH,RH,M
+2020-08-31,Simon G.,Safwat M.,,,RH,RH,M
+2020-09-01,Johnson S.,Isner J.,,,RH,RH,M
+2020-09-01,Djokovic N.,Dzumhur D.,,,RH,RH,M
+2020-09-01,Murray A.,Nishioka Y.,,,RH,LH,M
+2020-09-01,Cilic M.,Kudla D.,,,RH,RH,M
+2020-09-01,Rublev A.,Chardy J.,,,RH,RH,M
+2020-09-01,Gombos N.,Albot R.,,,RH,RH,M
+2020-09-01,Pospisil V.,Kohlschreiber P.,,,RH,RH,M
+2020-09-01,Carballes Baena R.,Lopez F.,,,RH,LH,M
+2020-09-01,Bautista Agut R.,Sandgren T.,,,RH,RH,M
+2020-09-02,Raonic M.,Mayer L.,,,RH,RH,M
+2020-09-02,Gasquet R.,Karlovic I.,,,RH,RH,M
+2020-09-02,Tiafoe F.,Seppi A.,,,RH,RH,M
+2020-09-02,Millman J.,Basilashvili N.,,,RH,RH,M
+2020-09-02,Krajinovic F.,Giron M.,,,RH,RH,M
+2020-09-02,Kukushkin M.,Garin C.,,,RH,RH,M
+2020-09-02,Djokovic N.,Edmund K.,,,RH,RH,M
+2020-09-02,Mannarino A.,Sock J.,,,LH,RH,M
+2020-09-03,Carreno Busta P.,Krueger M.,,,RH,RH,M
+2020-09-03,Berankis R.,Johnson S.,,,RH,RH,M
+2020-09-03,Cilic M.,Gombos N.,,,RH,RH,M
+2020-09-03,Pospisil V.,Raonic M.,,,RH,RH,M
+2020-09-03,Fucsovics M.,Dimitrov G.,,,RH,RH,M
+2020-09-03,Tiafoe F.,Millman J.,,,RH,RH,M
+2020-09-04,Goffin D.,Krajinovic F.,,,RH,RH,M
+2020-09-04,Carreno Busta P.,Berankis R.,,,RH,RH,M
+2020-09-05,Zverev A.,Mannarino A.,,,RH,LH,M
+2020-09-05,Pospisil V.,Bautista Agut R.,,,RH,RH,M
+2020-09-05,Tiafoe F.,Fucsovics M.,,,RH,RH,M
+2020-09-06,Thiem D.,Cilic M.,,,RH,RH,M
+2020-09-06,Carreno Busta P.,Djokovic N.,,,RH,RH,M
+2020-09-08,Zverev A.,Coric B.,,,RH,RH,M
+2020-09-11,Zverev A.,Carreno Busta P.,,,RH,RH,M
+2020-09-13,Thiem D.,Zverev A.,,,RH,RH,M
+2020-09-14,Coric B.,Garin C.,,,RH,RH,M
+2020-09-15,Rublev A.,Bagnis F.,,,RH,LH,M
+2020-09-15,Millman J.,Sousa J.,,,RH,RH,M
+2020-09-15,Cecchinato M.,Edmund K.,,,RH,RH,M
+2020-09-15,Raonic M.,Mannarino A.,,,RH,LH,M
+2020-09-16,Cilic M.,Goffin D.,,,RH,RH,M
+2020-09-16,Krajinovic F.,Cecchinato M.,,,RH,RH,M
+2020-09-16,Dimitrov G.,Nishioka Y.,,,RH,LH,M
+2020-09-16,Nadal R.,Carreno Busta P.,,,LH,RH,M
+2020-09-17,Schwartzman D.,Millman J.,,,RH,RH,M
+2020-09-17,Lajovic D.,Raonic M.,,,RH,RH,M
+2020-09-18,Djokovic N.,Krajinovic F.,,,RH,RH,M
+2020-09-18,Nadal R.,Lajovic D.,,,LH,RH,M
+2020-09-19,Schwartzman D.,Nadal R.,,,RH,LH,M
+2020-09-21,Djokovic N.,Schwartzman D.,,,RH,RH,M
+2020-09-21,Vesely J.,Simon G.,,,LH,RH,M
+2020-09-21,Rublev A.,Sandgren T.,,,RH,RH,M
+2020-09-22,Garin C.,Nishikori K.,,,RH,RH,M
+2020-09-22,Bautista Agut R.,Basilashvili N.,,,RH,RH,M
+2020-09-22,Fognini F.,Kohlschreiber P.,,,RH,RH,M
+2020-09-22,Lajovic D.,Mannarino A.,,,RH,LH,M
+2020-09-25,Rublev A.,Bautista Agut R.,,,RH,RH,M
+2020-09-27,Gombos N.,Coric B.,,,RH,RH,M
+2020-09-27,Wawrinka S.,Murray A.,,,RH,RH,M
+2020-09-28,Thiem D.,Cilic M.,,,RH,RH,M
+2020-09-28,Kukushkin M.,Fognini F.,,,RH,RH,M
+2020-09-28,Carreno Busta P.,Millman J.,,,RH,RH,M
+2020-09-29,Garin C.,Kohlschreiber P.,,,RH,RH,M
+2020-09-29,Rublev A.,Querrey S.,,,RH,RH,M
+2020-09-29,Carballes Baena R.,Johnson S.,,,RH,RH,M
+2020-09-29,Bautista Agut R.,Gasquet R.,,,RH,RH,M
+2020-09-29,Martin A.,Sousa J.,,,RH,RH,M
+2020-09-30,Thiem D.,Sock J.,,,RH,RH,M
+2020-10-01,Dimitrov G.,Martin A.,,,RH,RH,M
+2020-10-01,Carreno Busta P.,Pella G.,,,RH,LH,M
+2020-10-01,Djokovic N.,Berankis R.,,,RH,RH,M
+2020-10-01,Anderson K.,Lajovic D.,,,RH,RH,M
+2020-10-02,Schwartzman D.,Gombos N.,,,RH,RH,M
+2020-10-02,Zverev A.,Cecchinato M.,,,RH,RH,M
+2020-10-03,Rublev A.,Anderson K.,,,RH,RH,M
+2020-10-03,Carreno Busta P.,Bautista Agut R.,,,RH,RH,M
+2020-10-03,Dimitrov G.,Carballes Baena R.,,,RH,RH,M
+2020-10-05,Rublev A.,Fucsovics M.,,,RH,RH,M
+2020-10-06,Schwartzman D.,Thiem D.,,,RH,RH,M
+2020-10-07,Djokovic N.,Carreno Busta P.,,,RH,RH,M
+2020-10-09,Nadal R.,Schwartzman D.,,,LH,RH,M
+2020-10-11,Nadal R.,Djokovic N.,,,LH,RH,M
+2020-10-12,Zverev M.,Millman J.,,,LH,RH,M
+2020-10-12,Johnson S.,Krajinovic F.,,,RH,RH,M
+2020-10-13,Simon G.,Fucsovics M.,,,RH,RH,M
+2020-10-13,Cilic M.,Giron M.,,,RH,RH,M
+2020-10-13,Verdasco F.,Murray A.,,,LH,RH,M
+2020-10-15,Zverev A.,Verdasco F.,,,RH,LH,M
+2020-10-15,Bautista Agut R.,Simon G.,,,RH,RH,M
+2020-10-13,Delbonis F.,Seppi A.,,,LH,RH,M
+2020-10-14,Delbonis F.,Andujar P.,,,LH,RH,M
+2020-10-13,Coric B.,Lopez F.,,,RH,LH,M
+2020-10-13,Rublev A.,Pospisil V.,,,RH,RH,M
+2020-10-14,Wawrinka S.,Donskoy E.,,,RH,RH,M
+2020-10-17,Coric B.,Raonic M.,,,RH,RH,M
+2020-10-18,Rublev A.,Coric B.,,,RH,RH,M
+2020-10-19,Tiafoe F.,Lajovic D.,,,RH,RH,M
+2020-10-21,Raonic M.,Bedene A.,,,RH,RH,M
+2020-10-21,Dimitrov G.,Andujar P.,,,RH,RH,M
+2020-10-22,Giron M.,Goffin D.,,,RH,RH,M
+2020-10-23,Dimitrov G.,Raonic M.,,,RH,RH,M
+2020-10-19,Nishioka Y.,Edmund K.,,,LH,RH,M
+2020-10-19,Johnson S.,Cilic M.,,,RH,RH,M
+2020-10-20,Millman J.,Verdasco F.,,,RH,LH,M
+2020-10-21,Zverev A.,Millman J.,,,RH,RH,M
+2020-10-23,Zverev A.,Mannarino A.,,,RH,LH,M
+2020-10-25,Zverev A.,Schwartzman D.,,,RH,RH,M
+2020-10-27,Vesely J.,Sandgren T.,,,LH,RH,M
+2020-10-27,Sugita Y.,Dzumhur D.,,,RH,RH,M
+2020-10-28,Kukushkin M.,Delbonis F.,,,RH,LH,M
+2020-10-28,Millman J.,Verdasco F.,,,RH,LH,M
+2020-10-29,Mannarino A.,Sugita Y.,,,LH,RH,M
+2020-10-29,Kukushkin M.,Paire B.,,,RH,RH,M
+2020-10-31,Millman J.,Tiafoe F.,,,RH,RH,M
+2020-11-01,Millman J.,Mannarino A.,,,RH,LH,M
+2020-10-26,Carreno Busta P.,Monfils G.,,,RH,RH,M
+2020-10-26,Rublev A.,Gombos N.,,,RH,RH,M
+2020-10-27,Djokovic N.,Krajinovic F.,,,RH,RH,M
+2020-10-27,Garin C.,Wawrinka S.,,,RH,RH,M
+2020-10-28,Djokovic N.,Coric B.,,,RH,RH,M
+2020-10-28,Anderson K.,Carreno Busta P.,,,RH,RH,M
+2020-10-29,Thiem D.,Garin C.,,,RH,RH,M
+2020-10-30,Rublev A.,Thiem D.,,,RH,RH,M
+2020-10-31,Rublev A.,Anderson K.,,,RH,RH,M
+2020-11-02,Coric B.,Fucsovics M.,,,RH,RH,M
+2020-11-02,Lopez F.,Krajinovic F.,,,LH,RH,M
+2020-11-02,Gombos N.,Cecchinato M.,,,RH,RH,M
+2020-11-03,Nishioka Y.,Andujar P.,,,LH,RH,M
+2020-11-03,Raonic M.,Bedene A.,,,RH,RH,M
+2020-11-03,Mannarino A.,Lajovic D.,,,LH,RH,M
+2020-11-03,Gombos N.,Goffin D.,,,RH,RH,M
+2020-11-04,Schwartzman D.,Gasquet R.,,,RH,RH,M
+2020-11-04,Mannarino A.,Nishioka Y.,,,LH,LH,M
+2020-11-04,Nadal R.,Lopez F.,,,LH,LH,M
+2020-11-04,Rublev A.,Albot R.,,,RH,RH,M
+2020-11-05,Raonic M.,Giron M.,,,RH,RH,M
+2020-11-05,Carreno Busta P.,Gombos N.,,,RH,RH,M
+2020-11-05,Zverev A.,Mannarino A.,,,RH,LH,M
+2020-11-05,Wawrinka S.,Rublev A.,,,RH,RH,M
+2020-11-06,Nadal R.,Carreno Busta P.,,,LH,RH,M
+2020-11-06,Zverev A.,Wawrinka S.,,,RH,RH,M
+2020-11-07,Zverev A.,Nadal R.,,,RH,LH,M
+2020-11-08,Albot R.,Sugita Y.,,,RH,RH,M
+2020-11-09,Pospisil V.,Marchenko I.,,,RH,RH,M
+2020-11-09,Mannarino A.,Klizan M.,,,LH,LH,M
+2020-11-10,Gasquet R.,Carballes Baena R.,,,RH,RH,M
+2020-11-10,Simon G.,Martin A.,,,RH,RH,M
+2020-11-11,Millman J.,Simon G.,,,RH,RH,M
+2020-11-12,Mannarino A.,Albot R.,,,LH,RH,M
+2020-11-12,Pospisil V.,Millman J.,,,RH,RH,M
+2020-11-13,Pospisil V.,Gasquet R.,,,RH,RH,M
+2020-11-15,Nadal R.,Rublev A.,,,LH,RH,M
+2020-11-16,Djokovic N.,Schwartzman D.,,,RH,RH,M
+2020-11-17,Thiem D.,Nadal R.,,,RH,LH,M
+2020-11-18,Zverev A.,Schwartzman D.,,,RH,RH,M
+2020-11-19,Rublev A.,Thiem D.,,,RH,RH,M
+2020-11-20,Djokovic N.,Zverev A.,,,RH,RH,M
+2020-11-21,Thiem D.,Djokovic N.,,,RH,RH,M
+2020-01-06,Kasatkina D.,Suarez Navarro C.,,,RH,RH,F
+2020-01-06,Garcia C.,Townsend T.,,,RH,LH,F
+2020-01-06,Bouchard E.,Flipkens K.,,,RH,RH,F
+2020-01-07,Williams S.,Giorgi C.,,,RH,RH,F
+2020-01-07,Davis L.,Lepchenko V.,,,RH,LH,F
+2020-01-08,Cornet A.,Martic P.,,,RH,RH,F
+2020-01-08,Bouchard E.,Garcia C.,,,RH,RH,F
+2020-01-09,Williams S.,Mchale C.,,,RH,RH,F
+2020-01-09,Wozniacki C.,Davis L.,,,RH,RH,F
+2020-01-10,Pegula J.,Cornet A.,,,RH,RH,F
+2020-01-10,Williams S.,Siegemund L.,,,RH,RH,F
+2020-01-10,Wozniacki C.,Goerges J.,,,RH,RH,F
+2020-01-11,Pegula J.,Wozniacki C.,,,RH,RH,F
+2020-01-12,Williams S.,Pegula J.,,,RH,RH,F
+2020-01-06,Strycova B.,Konta J.,,,RH,RH,F
+2020-01-06,Stosur S.,Kerber A.,,,RH,LH,F
+2020-01-07,Putintseva Y.,Vekic D.,,,RH,RH,F
+2020-01-07,Bertens K.,Yastremska D.,,,RH,RH,F
+2020-01-07,Kvitova P.,Pavlyuchenkova A.,,,LH,RH,F
+2020-01-08,Keys M.,Stosur S.,,,RH,RH,F
+2020-01-09,Bertens K.,Kontaveit A.,,,RH,RH,F
+2020-01-11,Keys M.,Kvitova P.,,,RH,LH,F
+2020-01-05,Bondarenko K.,Doi M.,,,RH,LH,F
+2020-01-05,Zhang S.,Linette M.,,,RH,RH,F
+2020-01-06,Rogers S.,Gibbs N.,,,RH,RH,F
+2020-01-06,Wang Q.,Jabeur O.,,,RH,RH,F
+2020-01-06,Peng S.,Zhu L.,,,RH,RH,F
+2020-01-07,Bondarenko K.,Zhang S.,,,RH,RH,F
+2020-01-08,Muguruza G.,Rogers S.,,,RH,RH,F
+2020-01-09,Muguruza G.,Diyas Z.,,,RH,RH,F
+2020-01-13,Pavlyuchenkova A.,Kontaveit A.,,,RH,RH,F
+2020-01-13,Tomljanovic A.,Putintseva Y.,,,RH,RH,F
+2020-01-13,Bencic B.,Kasatkina D.,,,RH,RH,F
+2020-01-13,Yastremska D.,Babos T.,,,RH,RH,F
+2020-01-13,Kerber A.,Wang Q.,,,LH,RH,F
+2020-01-14,Sakkari M.,Diatchenko V.,,,RH,RH,F
+2020-01-14,Vondrousova M.,Maria T.,,,LH,RH,F
+2020-01-14,Barty A.,Pavlyuchenkova A.,,,RH,RH,F
+2020-01-14,Halep S.,Tomljanovic A.,,,RH,RH,F
+2020-01-15,Vekic D.,Sakkari M.,,,RH,RH,F
+2020-01-15,Kerber A.,Yastremska D.,,,LH,RH,F
+2020-01-15,Bencic B.,Goerges J.,,,RH,RH,F
+2020-01-16,Yastremska D.,Vekic D.,,,RH,RH,F
+2020-01-16,Barty A.,Vondrousova M.,,,RH,LH,F
+2020-01-18,Barty A.,Yastremska D.,,,RH,RH,F
+2020-01-13,Linette M.,Kuznetsova S.,,,RH,RH,F
+2020-01-14,Cornet A.,Van Uytvanck A.,,,RH,RH,F
+2020-01-14,Zhang S.,Flipkens K.,,,RH,RH,F
+2020-01-15,Davis L.,Linette M.,,,RH,RH,F
+2020-01-15,Muguruza G.,Jabeur O.,,,RH,RH,F
+2020-01-16,Zhang S.,Davis L.,,,RH,RH,F
+2020-01-20,Badosa P.,Larsson J.,,,RH,RH,F
+2020-01-20,Martic P.,Mchale C.,,,RH,RH,F
+2020-01-20,Cirstea S.,Strycova B.,,,RH,RH,F
+2020-01-20,Kvitova P.,Siniakova K.,,,LH,RH,F
+2020-01-20,Barty A.,Tsurenko L.,,,RH,RH,F
+2020-01-20,Zhang S.,Stephens S.,,,RH,RH,F
+2020-01-21,Garcia C.,Brengle M.,,,RH,RH,F
+2020-01-21,Jabeur O.,Konta J.,,,RH,RH,F
+2020-01-21,Keys M.,Kasatkina D.,,,RH,RH,F
+2020-01-21,Vekic D.,Sharapova M.,,,RH,RH,F
+2020-01-21,Wang Q.,Parmentier P.,,,RH,RH,F
+2020-01-21,Muguruza G.,Rogers S.,,,RH,RH,F
+2020-01-21,Siegemund L.,Vandeweghe C.,,,RH,RH,F
+2020-01-21,Cornet A.,Niculescu M.,,,RH,RH,F
+2020-01-21,Kuznetsova S.,Vondrousova M.,,,RH,LH,F
+2020-01-22,Townsend T.,Pegula J.,,,LH,RH,F
+2020-01-22,Goerges J.,Martic P.,,,RH,RH,F
+2020-01-22,Kvitova P.,Badosa P.,,,LH,RH,F
+2020-01-22,Wozniacki C.,Yastremska D.,,,RH,RH,F
+2020-01-22,Barty A.,Hercog P.,,,RH,RH,F
+2020-01-22,Jabeur O.,Garcia C.,,,RH,RH,F
+2020-01-23,Bencic B.,Ostapenko J.,,,RH,RH,F
+2020-01-23,Vekic D.,Cornet A.,,,RH,RH,F
+2020-01-23,Muguruza G.,Tomljanovic A.,,,RH,RH,F
+2020-01-23,Kontaveit A.,Sorribes Tormo S.,,,RH,RH,F
+2020-01-23,Pavlyuchenkova A.,Townsend T.,,,RH,LH,F
+2020-01-23,Giorgi C.,Kuznetsova S.,,,RH,RH,F
+2020-01-23,Svitolina E.,Davis L.,,,RH,RH,F
+2020-01-24,Jabeur O.,Wozniacki C.,,,RH,RH,F
+2020-01-24,Wang Q.,Williams S.,,,RH,RH,F
+2020-01-24,Sakkari M.,Keys M.,,,RH,RH,F
+2020-01-25,Kerber A.,Giorgi C.,,,LH,RH,F
+2020-01-25,Kontaveit A.,Bencic B.,,,RH,RH,F
+2020-01-25,Halep S.,Putintseva Y.,,,RH,RH,F
+2020-01-25,Muguruza G.,Svitolina E.,,,RH,RH,F
+2020-01-25,Bertens K.,Diyas Z.,,,RH,RH,F
+2020-01-26,Kvitova P.,Sakkari M.,,,LH,RH,F
+2020-01-26,Jabeur O.,Wang Q.,,,RH,RH,F
+2020-01-27,Muguruza G.,Bertens K.,,,RH,RH,F
+2020-01-27,Pavlyuchenkova A.,Kerber A.,,,RH,LH,F
+2020-01-28,Barty A.,Kvitova P.,,,RH,LH,F
+2020-01-29,Halep S.,Kontaveit A.,,,RH,RH,F
+2020-01-29,Muguruza G.,Pavlyuchenkova A.,,,RH,RH,F
+2020-01-30,Muguruza G.,Halep S.,,,RH,RH,F
+2020-02-12,Linette M.,Bondarenko K.,,,RH,RH,F
+2020-02-13,Linette M.,Peng S.,,,RH,RH,F
+2020-02-10,Sakkari M.,Diatchenko V.,,,RH,RH,F
+2020-02-11,Van Uytvanck A.,Mladenovic K.,,,RH,RH,F
+2020-02-11,Tomljanovic A.,Vondrousova M.,,,RH,LH,F
+2020-02-12,Cornet A.,Ostapenko J.,,,RH,RH,F
+2020-02-12,Dodin O.,Konta J.,,,RH,RH,F
+2020-02-12,Bencic B.,Kuznetsova S.,,,RH,RH,F
+2020-02-13,Sakkari M.,Cornet A.,,,RH,RH,F
+2020-02-13,Kvitova P.,Van Uytvanck A.,,,LH,RH,F
+2020-02-14,Sakkari M.,Bencic B.,,,RH,RH,F
+2020-02-18,Pavlyuchenkova A.,Bencic B.,,,RH,RH,F
+2020-02-18,Kontaveit A.,Cirstea S.,,,RH,RH,F
+2020-02-19,Martic P.,Strycova B.,,,RH,RH,F
+2020-02-19,Halep S.,Jabeur O.,,,RH,RH,F
+2020-02-19,Kontaveit A.,Pavlyuchenkova A.,,,RH,RH,F
+2020-02-20,Martic P.,Kontaveit A.,,,RH,RH,F
+2020-02-24,Watson H.,Vandeweghe C.,,,RH,RH,F
+2020-02-25,Bondarenko K.,Kovinic D.,,,RH,RH,F
+2020-02-26,Errani S.,Sorribes Tormo S.,,,RH,RH,F
+2020-02-26,Mchale C.,Davis L.,,,RH,RH,F
+2020-02-26,Watson H.,Bondarenko K.,,,RH,RH,F
+2020-02-28,Watson H.,Mchale C.,,,RH,RH,F
+2020-02-23,Siegemund L.,Shvedova Y.,,,RH,RH,F
+2020-02-23,Muguruza G.,Kasatkina D.,,,RH,RH,F
+2020-02-23,Van Uytvanck A.,Hercog P.,,,RH,RH,F
+2020-02-23,Jabeur O.,Siniakova K.,,,RH,RH,F
+2020-02-24,Suarez Navarro C.,Zhang S.,,,RH,RH,F
+2020-02-24,Sakkari M.,Goerges J.,,,RH,RH,F
+2020-02-24,Strycova B.,Martic P.,,,RH,RH,F
+2020-02-24,Zheng S.,Vondrousova M.,,,RH,LH,F
+2020-02-24,Putintseva Y.,Babos T.,,,RH,RH,F
+2020-02-24,Yastremska D.,Flipkens K.,,,RH,RH,F
+2020-02-25,Ostapenko J.,Strycova B.,,,RH,RH,F
+2020-02-25,Zheng S.,Zvonareva V.,,,RH,RH,F
+2020-02-25,Kvitova P.,Suarez Navarro C.,,,LH,RH,F
+2020-02-25,Barty A.,Siegemund L.,,,RH,RH,F
+2020-02-25,Muguruza G.,Tomljanovic A.,,,RH,RH,F
+2020-02-26,Kvitova P.,Ostapenko J.,,,LH,RH,F
+2020-02-26,Zheng S.,Bertens K.,,,RH,RH,F
+2020-02-26,Bencic B.,Putintseva Y.,,,RH,RH,F
+2020-02-26,Muguruza G.,Yastremska D.,,,RH,RH,F
+2020-02-27,Kuznetsova S.,Bencic B.,,,RH,RH,F
+2020-02-27,Kvitova P.,Jabeur O.,,,LH,RH,F
+2020-02-27,Barty A.,Muguruza G.,,,RH,RH,F
+2020-02-28,Kvitova P.,Barty A.,,,LH,RH,F
+2020-03-03,Kasatkina D.,Parmentier P.,,,RH,RH,F
+2020-03-04,Dodin O.,Minella M.,,,RH,RH,F
+2020-03-04,Giorgi C.,Cornet A.,,,RH,RH,F
+2020-03-06,Kasatkina D.,Giorgi C.,,,RH,RH,F
+2020-03-06,Van Uytvanck A.,Garcia C.,,,RH,RH,F
+2020-03-03,Maria T.,Watson H.,,,RH,RH,F
+2020-03-03,Bondarenko K.,Sorribes Tormo S.,,,RH,RH,F
+2020-03-03,Svitolina E.,Kovinic D.,,,RH,RH,F
+2020-03-05,Konta J.,Maria T.,,,RH,RH,F
+2020-03-06,Svitolina E.,Govortsova O.,,,RH,RH,F
+2020-08-03,Errani S.,Cirstea S.,,,RH,RH,F
+2020-08-04,Yastremska D.,Sorribes Tormo S.,,,RH,RH,F
+2020-08-04,Martic P.,Van Uytvanck A.,,,RH,RH,F
+2020-08-06,Kontaveit A.,Siegemund L.,,,RH,RH,F
+2020-08-07,Yastremska D.,Dodin O.,,,RH,RH,F
+2020-08-07,Giorgi C.,Yastremska D.,,,RH,RH,F
+2020-08-08,Kontaveit A.,Martic P.,,,RH,RH,F
+2020-08-10,Linette M.,Davis L.,,,RH,RH,F
+2020-08-11,Pegula J.,Zvonareva V.,,,RH,RH,F
+2020-08-11,Putintseva Y.,Tomljanovic A.,,,RH,RH,F
+2020-08-11,Rogers S.,Doi M.,,,RH,LH,F
+2020-08-11,Williams V.,Azarenka V.,,,RH,RH,F
+2020-08-12,Jabeur O.,Govortsova O.,,,RH,RH,F
+2020-08-13,Williams S.,Williams V.,,,RH,RH,F
+2020-08-14,Rogers S.,Williams S.,,,RH,RH,F
+2020-08-11,Halep S.,Hercog P.,,,RH,RH,F
+2020-08-11,Sorribes Tormo S.,Strycova B.,,,RH,RH,F
+2020-08-13,Sorribes Tormo S.,Siegemund L.,,,RH,RH,F
+2020-08-14,Halep S.,Frech M.,,,RH,RH,F
+2020-08-22,Azarenka V.,Vekic D.,,,RH,RH,F
+2020-08-23,Yastremska D.,Williams V.,,,RH,RH,F
+2020-08-23,Kontaveit A.,Kasatkina D.,,,RH,RH,F
+2020-08-23,Zvonareva V.,Linette M.,,,RH,RH,F
+2020-08-23,Siegemund L.,Vondrousova M.,,,RH,LH,F
+2020-08-23,Flipkens K.,Siniakova K.,,,RH,RH,F
+2020-08-23,Putintseva Y.,Zhang S.,,,RH,RH,F
+2020-08-23,Garcia C.,Stephens S.,,,RH,RH,F
+2020-08-24,Konta J.,Flipkens K.,,,RH,RH,F
+2020-08-24,Zvonareva V.,Siegemund L.,,,RH,RH,F
+2020-08-24,Sakkari M.,Putintseva Y.,,,RH,RH,F
+2020-08-25,Azarenka V.,Garcia C.,,,RH,RH,F
+2020-08-25,Jabeur O.,Keys M.,,,RH,RH,F
+2020-08-25,Konta J.,Zvonareva V.,,,RH,RH,F
+2020-08-25,Azarenka V.,Cornet A.,,,RH,RH,F
+2020-08-25,Jabeur O.,Mchale C.,,,RH,RH,F
+2020-08-26,Sakkari M.,Williams S.,,,RH,RH,F
+2020-08-26,Azarenka V.,Jabeur O.,,,RH,RH,F
+2020-08-27,Konta J.,Sakkari M.,,,RH,RH,F
+2020-08-28,Azarenka V.,Konta J.,,,RH,RH,F
+2020-09-08,Sorribes Tormo S.,Watson H.,,,RH,RH,F
+2020-09-09,Kovinic D.,Bondarenko K.,,,RH,RH,F
+2020-09-10,Kovinic D.,Van Uytvanck A.,,,RH,RH,F
+2020-09-10,Bouchard E.,Kuznetsova S.,,,RH,RH,F
+2020-09-10,Badosa P.,Sorribes Tormo S.,,,RH,RH,F
+2020-09-11,Bouchard E.,Kovinic D.,,,RH,RH,F
+2020-09-11,Badosa P.,Hercog P.,,,RH,RH,F
+2020-09-12,Bouchard E.,Badosa P.,,,RH,RH,F
+2020-08-31,Kerber A.,Tomljanovic A.,,,LH,RH,F
+2020-09-01,Giorgi C.,Van Uytvanck A.,,,RH,RH,F
+2020-09-01,Cirstea S.,Mchale C.,,,RH,RH,F
+2020-09-01,Konta J.,Watson H.,,,RH,RH,F
+2020-09-01,Cornet A.,Davis L.,,,RH,RH,F
+2020-09-02,Keys M.,Babos T.,,,RH,RH,F
+2020-09-02,Kanepi K.,Siniakova K.,,,RH,RH,F
+2020-09-02,Sakkari M.,Voegele S.,,,RH,RH,F
+2020-09-02,Vickery S.,Townsend T.,,,RH,LH,F
+2020-09-02,Martic P.,Bondarenko K.,,,RH,RH,F
+2020-09-02,Linette M.,Kovinic D.,,,RH,RH,F
+2020-09-02,Pegula J.,Flipkens K.,,,RH,RH,F
+2020-09-03,Brengle M.,Yastremska D.,,,RH,RH,F
+2020-09-03,Jabeur O.,Kanepi K.,,,RH,RH,F
+2020-09-03,Pironkova T.,Muguruza G.,,,RH,RH,F
+2020-09-03,Cirstea S.,Konta J.,,,RH,RH,F
+2020-09-04,Stephens S.,Govortsova O.,,,RH,RH,F
+2020-09-04,Kontaveit A.,Linette M.,,,RH,RH,F
+2020-09-05,Rogers S.,Brengle M.,,,RH,RH,F
+2020-09-05,Kvitova P.,Pegula J.,,,LH,RH,F
+2020-09-05,Williams S.,Stephens S.,,,RH,RH,F
+2020-09-05,Pironkova T.,Vekic D.,,,RH,RH,F
+2020-09-06,Cornet A.,Keys M.,,,RH,RH,F
+2020-09-06,Putintseva Y.,Martic P.,,,RH,RH,F
+2020-09-06,Rogers S.,Kvitova P.,,,RH,LH,F
+2020-09-07,Williams S.,Sakkari M.,,,RH,RH,F
+2020-09-07,Pironkova T.,Cornet A.,,,RH,RH,F
+2020-09-09,Williams S.,Pironkova T.,,,RH,RH,F
+2020-09-11,Azarenka V.,Williams S.,,,RH,RH,F
+2020-09-14,Pavlyuchenkova A.,Zhang S.,,,RH,RH,F
+2020-09-14,Linette M.,Ostapenko J.,,,RH,RH,F
+2020-09-14,Kovinic D.,Goerges J.,,,RH,RH,F
+2020-09-14,Yastremska D.,Giorgi C.,,,RH,RH,F
+2020-09-15,Vondrousova M.,Doi M.,,,LH,LH,F
+2020-09-15,Siniakova K.,Kerber A.,,,RH,LH,F
+2020-09-15,Kontaveit A.,Garcia C.,,,RH,RH,F
+2020-09-15,Kasatkina D.,Zvonareva V.,,,RH,RH,F
+2020-09-15,Muguruza G.,Stephens S.,,,RH,RH,F
+2020-09-16,Azarenka V.,Williams V.,,,RH,RH,F
+2020-09-16,Kovinic D.,Bencic B.,,,RH,RH,F
+2020-09-16,Svitolina E.,Pavlyuchenkova A.,,,RH,RH,F
+2020-09-17,Kasatkina D.,Siniakova K.,,,RH,RH,F
+2020-09-17,Kuznetsova S.,Kontaveit A.,,,RH,RH,F
+2020-09-17,Putintseva Y.,Martic P.,,,RH,RH,F
+2020-09-17,Hercog P.,Bertens K.,,,RH,RH,F
+2020-09-18,Halep S.,Yastremska D.,,,RH,RH,F
+2020-09-18,Muguruza G.,Konta J.,,,RH,RH,F
+2020-09-18,Azarenka V.,Kasatkina D.,,,RH,RH,F
+2020-09-18,Svitolina E.,Kuznetsova S.,,,RH,RH,F
+2020-09-18,Vondrousova M.,Hercog P.,,,LH,RH,F
+2020-09-19,Halep S.,Putintseva Y.,,,RH,RH,F
+2020-09-19,Muguruza G.,Azarenka V.,,,RH,RH,F
+2020-09-19,Vondrousova M.,Svitolina E.,,,LH,RH,F
+2020-09-20,Halep S.,Muguruza G.,,,RH,RH,F
+2020-09-20,Pavlyuchenkova A.,Van Uytvanck A.,,,RH,RH,F
+2020-09-21,Diyas Z.,Mchale C.,,,RH,RH,F
+2020-09-21,Linette M.,Parmentier P.,,,RH,RH,F
+2020-09-21,Cornet A.,Hercog P.,,,RH,RH,F
+2020-09-21,Zhang S.,Tomljanovic A.,,,RH,RH,F
+2020-09-21,Ostapenko J.,Davis L.,,,RH,RH,F
+2020-09-22,Svitolina E.,Linette M.,,,RH,RH,F
+2020-09-23,Ostapenko J.,Bertens K.,,,RH,RH,F
+2020-09-27,Azarenka V.,Kovinic D.,,,RH,RH,F
+2020-09-27,Sakkari M.,Tomljanovic A.,,,RH,RH,F
+2020-09-27,Halep S.,Sorribes Tormo S.,,,RH,RH,F
+2020-09-27,Garcia C.,Kontaveit A.,,,RH,RH,F
+2020-09-27,Strycova B.,Lepchenko V.,,,RH,LH,F
+2020-09-27,Putintseva Y.,Flipkens K.,,,RH,RH,F
+2020-09-28,Kvitova P.,Dodin O.,,,LH,RH,F
+2020-09-28,Errani S.,Puig M.,,,RH,RH,F
+2020-09-28,Siniakova K.,Davis L.,,,RH,RH,F
+2020-09-28,Pironkova T.,Petkovic A.,,,RH,RH,F
+2020-09-28,Pavlyuchenkova A.,Kuznetsova S.,,,RH,RH,F
+2020-09-28,Zhang S.,Keys M.,,,RH,RH,F
+2020-09-29,Ostapenko J.,Brengle M.,,,RH,RH,F
+2020-09-29,Siegemund L.,Mladenovic K.,,,RH,RH,F
+2020-09-29,Jabeur O.,Diyas Z.,,,RH,RH,F
+2020-09-29,Stephens S.,Diatchenko V.,,,RH,RH,F
+2020-09-29,Martic P.,Doi M.,,,RH,LH,F
+2020-09-30,Bertens K.,Errani S.,,,RH,RH,F
+2020-09-30,Pironkova T.,Williams S.,,,RH,RH,F
+2020-09-30,Siniakova K.,Pavlyuchenkova A.,,,RH,RH,F
+2020-10-01,Badosa P.,Stephens S.,,,RH,RH,F
+2020-10-01,Siegemund L.,Goerges J.,,,RH,RH,F
+2020-10-01,Zhang S.,Cornet A.,,,RH,RH,F
+2020-10-02,Bertens K.,Siniakova K.,,,RH,RH,F
+2020-10-03,Siegemund L.,Martic P.,,,RH,RH,F
+2020-10-03,Badosa P.,Ostapenko J.,,,RH,RH,F
+2020-10-04,Svitolina E.,Garcia C.,,,RH,RH,F
+2020-10-05,Kvitova P.,Zhang S.,,,LH,RH,F
+2020-10-05,Siegemund L.,Badosa P.,,,RH,RH,F
+2020-10-07,Kvitova P.,Siegemund L.,,,LH,RH,F
+2020-10-19,Sorribes Tormo S.,Linette M.,,,RH,RH,F
+2020-10-20,Jabeur O.,Strycova B.,,,RH,RH,F
+2020-10-21,Ostapenko J.,Martic P.,,,RH,RH,F
+2020-10-21,Sakkari M.,Svitolina E.,,,RH,RH,F
+2020-10-21,Sorribes Tormo S.,Kontaveit A.,,,RH,RH,F
+2020-10-22,Jabeur O.,Ostapenko J.,,,RH,RH,F
+2020-10-23,Sakkari M.,Jabeur O.,,,RH,RH,F
+2020-10-24,Azarenka V.,Sakkari M.,,,RH,RH,F
