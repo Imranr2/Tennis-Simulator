@@ -1,213 +1,213 @@
 date,P1Name,P2Name,P1WinProb,P2WinProb,P1Hand,P2Hand,Gender
-2023-01-01,Giron M.,Gasquet R.,,,RH,RH,M
-2023-01-03,Bautista Agut R.,Rublev A.,,,RH,RH,M
-2023-01-02,Cecchinato M.,Basilashvili N.,,,RH,RH,M
-2023-01-04,Cilic M.,Carballes Baena R.,,,RH,RH,M
-2023-01-11,Bautista Agut R.,Haase R.,,,RH,RH,M
-2023-01-11,Kokkinakis T.,Rublev A.,,,RH,RH,M
-2023-01-13,Bautista Agut R.,Kokkinakis T.,,,RH,RH,M
-2023-01-11,Gasquet R.,Sousa J.,,,RH,RH,M
-2023-01-12,Gasquet R.,Goffin D.,,,RH,RH,M
-2023-01-17,Rublev A.,Thiem D.,,,RH,RH,M
-2023-01-17,Djokovic N.,Carballes Baena R.,,,RH,RH,M
-2023-01-18,Mannarino A.,Isner J.,,,LH,RH,M
-2023-01-18,Bautista Agut R.,Sousa J.,,,RH,RH,M
-2023-01-18,Kokkinakis T.,Fognini F.,,,RH,RH,M
-2023-01-19,Murray A.,Kokkinakis T.,,,RH,RH,M
-2023-01-21,Bautista Agut R.,Murray A.,,,RH,RH,M
-2023-01-21,Djokovic N.,Dimitrov G.,,,RH,RH,M
-2023-01-25,Djokovic N.,Rublev A.,,,RH,RH,M
-2023-02-08,Cecchinato M.,Bagnis F.,,,RH,LH,M
-2023-02-09,Sousa J.,Garin C.,,,RH,RH,M
-2023-02-07,Mannarino A.,Johnson S.,,,LH,RH,M
-2023-02-14,Albot R.,Verdasco F.,,,RH,LH,M
-2023-02-13,Gasquet R.,Carreno Busta P.,,,RH,RH,M
-2023-02-15,Wawrinka S.,Gasquet R.,,,RH,RH,M
-2023-02-21,Bautista Agut R.,Fucsovics M.,,,RH,RH,M
-2023-02-22,Murray A.,Zverev A.,,,RH,RH,M
-2023-02-22,Wawrinka S.,Gasquet R.,,,RH,RH,M
-2023-02-22,Lajovic D.,Schwartzman D.,,,RH,RH,M
-2023-02-28,Tiafoe F.,Nishioka Y.,,,RH,LH,M
-2023-03-01,Ymer E.,Mannarino A.,,,RH,LH,M
-2023-03-02,Tiafoe F.,Lopez F.,,,RH,LH,M
-2023-02-27,Rublev A.,Krajinovic F.,,,RH,RH,M
-2023-03-01,Coric B.,Kokkinakis T.,,,RH,RH,M
-2023-03-03,Rublev A.,Zverev A.,,,RH,RH,M
-2023-02-28,Cecchinato M.,Bagnis F.,,,RH,LH,M
-2023-02-28,Garin C.,Thiem D.,,,RH,RH,M
-2023-03-08,Daniel T.,Carballes Baena R.,,,RH,RH,M
-2023-03-10,Mannarino A.,Thiem D.,,,LH,RH,M
-2023-03-10,Garin C.,Nishioka Y.,,,RH,LH,M
-2023-03-10,Kubler J.,Dimitrov G.,,,RH,RH,M
-2023-03-11,Tiafoe F.,Giron M.,,,RH,RH,M
-2023-03-11,Murray A.,Albot R.,,,RH,RH,M
-2023-03-12,Tiafoe F.,Kubler J.,,,RH,RH,M
-2023-03-22,Lajovic D.,Murray A.,,,RH,RH,M
-2023-03-23,Garin C.,Giron M.,,,RH,RH,M
-2023-03-25,Daniel T.,Zverev A.,,,RH,RH,M
-2023-04-03,Cecchinato M.,Schwartzman D.,,,RH,RH,M
-2023-04-05,Cecchinato M.,Fognini F.,,,RH,RH,M
-2023-04-04,Kubler J.,Verdasco F.,,,RH,LH,M
-2023-04-04,Johnson S.,Bagnis F.,,,RH,LH,M
-2023-04-08,Tiafoe F.,Johnson S.,,,RH,RH,M
-2023-04-08,Tiafoe F.,Kubler J.,,,RH,RH,M
-2023-04-10,Schwartzman D.,Goffin D.,,,RH,RH,M
-2023-04-10,Bautista Agut R.,Krajinovic F.,,,RH,RH,M
-2023-04-10,Thiem D.,Gasquet R.,,,RH,RH,M
-2023-04-12,Zverev A.,Bautista Agut R.,,,RH,RH,M
-2023-04-18,Goffin D.,Lopez F.,,,RH,LH,M
-2023-04-19,Nishioka Y.,Goffin D.,,,LH,RH,M
-2023-04-18,Lajovic D.,Krajinovic F.,,,RH,RH,M
-2023-04-20,Dzumhur D.,Gasquet R.,,,RH,RH,M
-2023-04-21,Rublev A.,Dzumhur D.,,,RH,RH,M
-2023-04-21,Lajovic D.,Djokovic N.,,,RH,RH,M
-2023-04-23,Lajovic D.,Rublev A.,,,RH,RH,M
-2023-04-17,Giron M.,Carballes Baena R.,,,RH,RH,M
-2023-04-26,Carballes Baena R.,Goffin D.,,,RH,RH,M
-2023-04-27,Thiem D.,Edmund K.,,,RH,RH,M
-2023-04-27,Cecchinato M.,Fucsovics M.,,,RH,RH,M
-2023-04-27,Lajovic D.,Kubler J.,,,RH,RH,M
-2023-04-28,Rublev A.,Wawrinka S.,,,RH,RH,M
-2023-04-28,Zverev A.,Carballes Baena R.,,,RH,RH,M
-2023-04-30,Rublev A.,Nishioka Y.,,,RH,LH,M
-2023-05-10,Fucsovics M.,Krajinovic F.,,,RH,RH,M
-2023-05-10,Fognini F.,Murray A.,,,RH,RH,M
-2023-05-12,Dimitrov G.,Wawrinka S.,,,RH,RH,M
-2023-05-14,Cecchinato M.,Bautista Agut R.,,,RH,RH,M
-2023-05-14,Zverev A.,Goffin D.,,,RH,RH,M
-2023-05-14,Djokovic N.,Dimitrov G.,,,RH,RH,M
-2023-05-15,Coric B.,Carballes Baena R.,,,RH,RH,M
-2023-01-04,Vondrousova M.,Kanepi K.,,,LH,RH,F
-2023-01-05,Jabeur O.,Cirstea S.,,,RH,RH,F
-2023-01-02,Zhu L.,Brengle M.,,,RH,RH,F
-2023-01-04,Zhu L.,Williams V.,,,RH,RH,F
-2023-01-05,Kovinic D.,Davis L.,,,RH,RH,F
-2023-01-09,Bencic B.,Muguruza G.,,,RH,RH,F
-2023-01-10,Badosa P.,Kontaveit A.,,,RH,RH,F
-2023-01-11,Badosa P.,Kanepi K.,,,RH,RH,F
-2023-01-11,Garcia C.,Siniakova K.,,,RH,RH,F
-2023-01-12,Kasatkina D.,Kvitova P.,,,RH,LH,F
-2023-01-12,Bencic B.,Garcia C.,,,RH,RH,F
-2023-01-13,Kasatkina D.,Badosa P.,,,RH,RH,F
-2023-01-14,Bencic B.,Kasatkina D.,,,RH,RH,F
-2023-01-09,Davis L.,Stephens S.,,,RH,RH,F
-2023-01-10,Van Uytvanck A.,Linette M.,,,RH,RH,F
-2023-01-16,Kvitova P.,Van Uytvanck A.,,,LH,RH,F
-2023-01-16,Ostapenko J.,Yastremska D.,,,RH,RH,F
-2023-01-17,Giorgi C.,Pavlyuchenkova A.,,,RH,RH,F
-2023-01-17,Putintseva Y.,Cirstea S.,,,RH,RH,F
-2023-01-18,Davis L.,Kovinic D.,,,RH,RH,F
-2023-01-19,Linette M.,Kontaveit A.,,,RH,RH,F
-2023-01-19,Zhang S.,Martic P.,,,RH,RH,F
-2023-01-19,Vondrousova M.,Jabeur O.,,,LH,RH,F
-2023-01-20,Ostapenko J.,Baindl K.,,,RH,RH,F
-2023-01-20,Azarenka V.,Keys M.,,,RH,RH,F
-2023-01-20,Zhu L.,Sakkari M.,,,RH,RH,F
-2023-01-21,Bencic B.,Giorgi C.,,,RH,RH,F
-2023-01-21,Garcia C.,Siegemund L.,,,RH,RH,F
-2023-01-22,Azarenka V.,Zhu L.,,,RH,RH,F
-2023-01-23,Linette M.,Garcia C.,,,RH,RH,F
-2023-01-24,Azarenka V.,Pegula J.,,,RH,RH,F
-2023-01-31,Watson H.,Putintseva Y.,,,RH,RH,F
-2023-02-02,Maria T.,Yastremska D.,,,RH,RH,F
-2023-02-03,Tsurenko L.,Maria T.,,,RH,RH,F
-2023-02-05,Zhu L.,Tsurenko L.,,,RH,RH,F
-2023-01-30,Martic P.,Mladenovic K.,,,RH,RH,F
-2023-01-31,Zhang S.,Brengle M.,,,RH,RH,F
-2023-02-02,Garcia C.,Van Uytvanck A.,,,RH,RH,F
-2023-02-06,Kontaveit A.,Zhang S.,,,RH,RH,F
-2023-02-08,Rogers S.,Kontaveit A.,,,RH,RH,F
-2023-02-10,Bencic B.,Rogers S.,,,RH,RH,F
-2023-02-09,Vekic D.,Brengle M.,,,RH,RH,F
-2023-02-09,Martic P.,Van Uytvanck A.,,,RH,RH,F
-2023-02-10,Sakkari M.,Vekic D.,,,RH,RH,F
-2023-02-11,Martic P.,Sakkari M.,,,RH,RH,F
-2023-02-14,Kvitova P.,Zhang S.,,,LH,RH,F
-2023-02-14,Ostapenko J.,Keys M.,,,RH,RH,F
-2023-02-15,Bencic B.,Azarenka V.,,,RH,RH,F
-2023-02-15,Pegula J.,Ostapenko J.,,,RH,RH,F
-2023-02-16,Sakkari M.,Garcia C.,,,RH,RH,F
-2023-02-17,Pegula J.,Sakkari M.,,,RH,RH,F
-2023-02-19,Yastremska D.,Cornet A.,,,RH,RH,F
-2023-02-20,Azarenka V.,Pavlyuchenkova A.,,,RH,RH,F
-2023-02-20,Putintseva Y.,Martic P.,,,RH,RH,F
-2023-02-21,Keys M.,Garcia C.,,,RH,RH,F
-2023-02-21,Kvitova P.,Putintseva Y.,,,LH,RH,F
-2023-02-22,Keys M.,Azarenka V.,,,RH,RH,F
-2023-02-21,Siniakova K.,Tsurenko L.,,,RH,RH,F
-2023-02-25,Giorgi C.,Stephens S.,,,RH,RH,F
-2023-02-26,Giorgi C.,Siniakova K.,,,RH,RH,F
-2023-02-27,Watson H.,Kovinic D.,,,RH,RH,F
-2023-02-28,Brengle M.,Chirico L.,,,RH,RH,F
-2023-02-28,Stephens S.,Townsend T.,,,RH,LH,F
-2023-03-01,Stephens S.,Watson H.,,,RH,RH,F
-2023-02-28,Vekic D.,Tsurenko L.,,,RH,RH,F
-2023-03-04,Vekic D.,Zhu L.,,,RH,RH,F
-2023-03-05,Vekic D.,Garcia C.,,,RH,RH,F
-2023-03-08,Rodina E.,Cornet A.,,,RH,RH,F
-2023-03-08,Tsurenko L.,Zhu L.,,,RH,RH,F
-2023-03-09,Brengle M.,Siegemund L.,,,RH,RH,F
-2023-03-10,Tsurenko L.,Vekic D.,,,RH,RH,F
-2023-03-10,Sakkari M.,Rogers S.,,,RH,RH,F
-2023-03-11,Pegula J.,Giorgi C.,,,RH,RH,F
-2023-03-11,Kasatkina D.,Maria T.,,,RH,RH,F
-2023-03-12,Jabeur O.,Frech M.,,,RH,RH,F
-2023-03-12,Cirstea S.,Keys M.,,,RH,RH,F
-2023-03-13,Kvitova P.,Ostapenko J.,,,LH,RH,F
-2023-03-13,Vondrousova M.,Jabeur O.,,,LH,RH,F
-2023-03-14,Kvitova P.,Pegula J.,,,LH,RH,F
-2023-03-15,Cirstea S.,Garcia C.,,,RH,RH,F
-2023-03-16,Sakkari M.,Kvitova P.,,,RH,LH,F
-2023-03-21,Giorgi C.,Kanepi K.,,,RH,RH,F
-2023-03-22,Vondrousova M.,Maria T.,,,LH,RH,F
-2023-03-22,Rogers S.,Stephens S.,,,RH,RH,F
-2023-03-23,Badosa P.,Siegemund L.,,,RH,RH,F
-2023-03-23,Linette M.,Rodina E.,,,RH,RH,F
-2023-03-23,Azarenka V.,Giorgi C.,,,RH,RH,F
-2023-03-24,Cirstea S.,Garcia C.,,,RH,RH,F
-2023-03-24,Vekic D.,Brengle M.,,,RH,RH,F
-2023-03-25,Linette M.,Azarenka V.,,,RH,RH,F
-2023-03-26,Kvitova P.,Vekic D.,,,LH,RH,F
-2023-03-27,Pegula J.,Linette M.,,,RH,RH,F
-2023-03-27,Cirstea S.,Vondrousova M.,,,RH,LH,F
-2023-03-31,Kvitova P.,Cirstea S.,,,LH,RH,F
-2023-04-03,Brengle M.,Kanepi K.,,,RH,RH,F
-2023-04-03,Tsurenko L.,Ormaechea P.,,,RH,RH,F
-2023-04-03,Putintseva Y.,Svitolina E.,,,RH,RH,F
-2023-04-03,Stephens S.,Chirico L.,,,RH,RH,F
-2023-04-05,Azarenka V.,Stephens S.,,,RH,RH,F
-2023-04-05,Jabeur O.,Tsurenko L.,,,RH,RH,F
-2023-04-05,Kasatkina D.,Brengle M.,,,RH,RH,F
-2023-04-06,Bencic B.,Rogers S.,,,RH,RH,F
-2023-04-07,Keys M.,Linette M.,,,RH,RH,F
-2023-04-07,Kasatkina D.,Keys M.,,,RH,RH,F
-2023-04-08,Pegula J.,Badosa P.,,,RH,RH,F
-2023-04-08,Jabeur O.,Kasatkina D.,,,RH,RH,F
-2023-04-09,Bencic B.,Pegula J.,,,RH,RH,F
-2023-04-09,Jabeur O.,Bencic B.,,,RH,RH,F
-2023-04-18,Badosa P.,Kasatkina D.,,,RH,RH,F
-2023-04-19,Jabeur O.,Ostapenko J.,,,RH,RH,F
-2023-04-20,Garcia C.,Maria T.,,,RH,RH,F
-2023-04-25,Cirstea S.,Davis L.,,,RH,RH,F
-2023-04-26,Bouchard E.,Yastremska D.,,,RH,RH,F
-2023-04-26,Kovinic D.,Errani S.,,,RH,RH,F
-2023-04-27,Linette M.,Vondrousova M.,,,RH,LH,F
-2023-04-27,Garcia C.,Putintseva Y.,,,RH,RH,F
-2023-04-28,Kasatkina D.,Pavlyuchenkova A.,,,RH,RH,F
-2023-04-28,Martic P.,Siegemund L.,,,RH,RH,F
-2023-04-28,Pegula J.,Frech M.,,,RH,RH,F
-2023-04-30,Kasatkina D.,Tsurenko L.,,,RH,RH,F
-2023-05-01,Sakkari M.,Badosa P.,,,RH,RH,F
-2023-05-09,Vondrousova M.,Kanepi K.,,,LH,RH,F
-2023-05-10,Pavlyuchenkova A.,Errani S.,,,RH,RH,F
-2023-05-10,Tsurenko L.,Svitolina E.,,,RH,RH,F
-2023-05-11,Azarenka V.,Stephens S.,,,RH,RH,F
-2023-05-11,Keys M.,Frech M.,,,RH,RH,F
-2023-05-11,Townsend T.,Pegula J.,,,LH,RH,F
-2023-05-12,Sakkari M.,Strycova B.,,,RH,RH,F
-2023-05-12,Badosa P.,Jabeur O.,,,RH,RH,F
-2023-05-12,Ostapenko J.,Cirstea S.,,,RH,RH,F
-2023-05-14,Vondrousova M.,Sakkari M.,,,LH,RH,F
-2023-05-14,Keys M.,Azarenka V.,,,RH,RH,F
-2023-05-15,Ostapenko J.,Kasatkina D.,,,RH,RH,F
-2023-05-17,Ostapenko J.,Badosa P.,,,RH,RH,F
+01-01-23,Marcos Giron,Richard Gasquet,,,RH,RH,M
+03-01-23,Roberto Bautista Agut,Andrey Rublev,,,RH,RH,M
+02-01-23,Marco Cecchinato,Nikoloz Basilashvili,,,RH,RH,M
+04-01-23,Marin Cilic,Roberto Carballes Baena,,,RH,RH,M
+11-01-23,Roberto Bautista Agut,Robin Haase,,,RH,RH,M
+11-01-23,Thanasi Kokkinakis,Andrey Rublev,,,RH,RH,M
+13-01-23,Roberto Bautista Agut,Thanasi Kokkinakis,,,RH,RH,M
+11-01-23,Richard Gasquet,Joao Sousa,,,RH,RH,M
+12-01-23,Richard Gasquet,David Goffin,,,RH,RH,M
+17-01-23,Andrey Rublev,Dominic Thiem,,,RH,RH,M
+17-01-23,Novak Djokovic,Roberto Carballes Baena,,,RH,RH,M
+18-01-23,Adrian Mannarino,John Isner,,,LH,RH,M
+18-01-23,Roberto Bautista Agut,Joao Sousa,,,RH,RH,M
+18-01-23,Thanasi Kokkinakis,Fabio Fognini,,,RH,RH,M
+19-01-23,Andy Murray,Thanasi Kokkinakis,,,RH,RH,M
+21-01-23,Roberto Bautista Agut,Andy Murray,,,RH,RH,M
+21-01-23,Novak Djokovic,Grigor Dimitrov,,,RH,RH,M
+25-01-23,Novak Djokovic,Andrey Rublev,,,RH,RH,M
+08-02-23,Marco Cecchinato,Facundo Bagnis,,,RH,LH,M
+09-02-23,Joao Sousa,Cristian Garin,,,RH,RH,M
+07-02-23,Adrian Mannarino,Steve Johnson,,,LH,RH,M
+14-02-23,Radu Albot,Fernando Verdasco,,,RH,LH,M
+13-02-23,Richard Gasquet,Pablo Carreno Busta,,,RH,RH,M
+15-02-23,Stan Wawrinka,Richard Gasquet,,,RH,RH,M
+21-02-23,Roberto Bautista Agut,Marton Fucsovics,,,RH,RH,M
+22-02-23,Andy Murray,Alexander Zverev,,,RH,RH,M
+22-02-23,Stan Wawrinka,Richard Gasquet,,,RH,RH,M
+22-02-23,Dusan Lajovic,Diego Schwartzman,,,RH,RH,M
+28-02-23,Francis Tiafoe,Yoshihito Nishioka,,,RH,LH,M
+01-03-23,Elias Ymer,Adrian Mannarino,,,RH,LH,M
+02-03-23,Francis Tiafoe,Feliciano Lopez,,,RH,LH,M
+27-02-23,Andrey Rublev,Filip Krajinovic,,,RH,RH,M
+01-03-23,Borna Coric,Thanasi Kokkinakis,,,RH,RH,M
+03-03-23,Andrey Rublev,Alexander Zverev,,,RH,RH,M
+28-02-23,Marco Cecchinato,Facundo Bagnis,,,RH,LH,M
+28-02-23,Cristian Garin,Dominic Thiem,,,RH,RH,M
+08-03-23,Taro Daniel,Roberto Carballes Baena,,,RH,RH,M
+10-03-23,Adrian Mannarino,Dominic Thiem,,,LH,RH,M
+10-03-23,Cristian Garin,Yoshihito Nishioka,,,RH,LH,M
+10-03-23,Jason Kubler,Grigor Dimitrov,,,RH,RH,M
+11-03-23,Francis Tiafoe,Marcos Giron,,,RH,RH,M
+11-03-23,Andy Murray,Radu Albot,,,RH,RH,M
+12-03-23,Francis Tiafoe,Jason Kubler,,,RH,RH,M
+22-03-23,Dusan Lajovic,Andy Murray,,,RH,RH,M
+23-03-23,Cristian Garin,Marcos Giron,,,RH,RH,M
+25-03-23,Taro Daniel,Alexander Zverev,,,RH,RH,M
+03-04-23,Marco Cecchinato,Diego Schwartzman,,,RH,RH,M
+05-04-23,Marco Cecchinato,Fabio Fognini,,,RH,RH,M
+04-04-23,Jason Kubler,Fernando Verdasco,,,RH,LH,M
+04-04-23,Steve Johnson,Facundo Bagnis,,,RH,LH,M
+08-04-23,Francis Tiafoe,Steve Johnson,,,RH,RH,M
+08-04-23,Francis Tiafoe,Jason Kubler,,,RH,RH,M
+10-04-23,Diego Schwartzman,David Goffin,,,RH,RH,M
+10-04-23,Roberto Bautista Agut,Filip Krajinovic,,,RH,RH,M
+10-04-23,Dominic Thiem,Richard Gasquet,,,RH,RH,M
+12-04-23,Alexander Zverev,Roberto Bautista Agut,,,RH,RH,M
+18-04-23,David Goffin,Feliciano Lopez,,,RH,LH,M
+19-04-23,Yoshihito Nishioka,David Goffin,,,LH,RH,M
+18-04-23,Dusan Lajovic,Filip Krajinovic,,,RH,RH,M
+20-04-23,Damir Dzumhur,Richard Gasquet,,,RH,RH,M
+21-04-23,Andrey Rublev,Damir Dzumhur,,,RH,RH,M
+21-04-23,Dusan Lajovic,Novak Djokovic,,,RH,RH,M
+23-04-23,Dusan Lajovic,Andrey Rublev,,,RH,RH,M
+17-04-23,Marcos Giron,Roberto Carballes Baena,,,RH,RH,M
+26-04-23,Roberto Carballes Baena,David Goffin,,,RH,RH,M
+27-04-23,Dominic Thiem,Kyle Edmund,,,RH,RH,M
+27-04-23,Marco Cecchinato,Marton Fucsovics,,,RH,RH,M
+27-04-23,Dusan Lajovic,Jason Kubler,,,RH,RH,M
+28-04-23,Andrey Rublev,Stan Wawrinka,,,RH,RH,M
+28-04-23,Alexander Zverev,Roberto Carballes Baena,,,RH,RH,M
+30-04-23,Andrey Rublev,Yoshihito Nishioka,,,RH,LH,M
+10-05-23,Marton Fucsovics,Filip Krajinovic,,,RH,RH,M
+10-05-23,Fabio Fognini,Andy Murray,,,RH,RH,M
+12-05-23,Grigor Dimitrov,Stan Wawrinka,,,RH,RH,M
+14-05-23,Marco Cecchinato,Roberto Bautista Agut,,,RH,RH,M
+14-05-23,Alexander Zverev,David Goffin,,,RH,RH,M
+14-05-23,Novak Djokovic,Grigor Dimitrov,,,RH,RH,M
+15-05-23,Borna Coric,Roberto Carballes Baena,,,RH,RH,M
+04-01-23,Marketa Vondrousova,Kaia Kanepi,,,LH,RH,F
+05-01-23,Ons Jabeur,Sorana Cirstea,,,RH,RH,F
+02-01-23,Lin Zhu,Madison Brengle,,,RH,RH,F
+04-01-23,Lin Zhu,Venus Williams,,,RH,RH,F
+05-01-23,Danka Kovinic,Lauren Davis,,,RH,RH,F
+09-01-23,Belinda Bencic,Garbine Muguruza,,,RH,RH,F
+10-01-23,Paula Badosa,Anett Kontaveit,,,RH,RH,F
+11-01-23,Paula Badosa,Kaia Kanepi,,,RH,RH,F
+11-01-23,Caroline Garcia,Katerina Siniakova,,,RH,RH,F
+12-01-23,Daria Kasatkina,Petra Kvitova,,,RH,LH,F
+12-01-23,Belinda Bencic,Caroline Garcia,,,RH,RH,F
+13-01-23,Daria Kasatkina,Paula Badosa,,,RH,RH,F
+14-01-23,Belinda Bencic,Daria Kasatkina,,,RH,RH,F
+09-01-23,Lauren Davis,Sloane Stephens,,,RH,RH,F
+10-01-23,Alison Van Uytvanck,Magda Linette,,,RH,RH,F
+16-01-23,Petra Kvitova,Alison Van Uytvanck,,,LH,RH,F
+16-01-23,Jelena Ostapenko,Dayana Yastremska,,,RH,RH,F
+17-01-23,Camila Giorgi,Anastasia Pavlyuchenkova,,,RH,RH,F
+17-01-23,Yulia Putintseva,Sorana Cirstea,,,RH,RH,F
+18-01-23,Lauren Davis,Danka Kovinic,,,RH,RH,F
+19-01-23,Magda Linette,Anett Kontaveit,,,RH,RH,F
+19-01-23,Shuai Zhang,Petra Martic,,,RH,RH,F
+19-01-23,Marketa Vondrousova,Ons Jabeur,,,LH,RH,F
+20-01-23,Jelena Ostapenko,Kateryna Baindl,,,RH,RH,F
+20-01-23,Victoria Azarenka,Madison Keys,,,RH,RH,F
+20-01-23,Lin Zhu,Maria Sakkari,,,RH,RH,F
+21-01-23,Belinda Bencic,Camila Giorgi,,,RH,RH,F
+21-01-23,Caroline Garcia,Laura Siegemund,,,RH,RH,F
+22-01-23,Victoria Azarenka,Lin Zhu,,,RH,RH,F
+23-01-23,Magda Linette,Caroline Garcia,,,RH,RH,F
+24-01-23,Victoria Azarenka,Jessica Pegula,,,RH,RH,F
+31-01-23,Heather Watson,Yulia Putintseva,,,RH,RH,F
+02-02-23,Tatjana Maria,Dayana Yastremska,,,RH,RH,F
+03-02-23,Lesia Tsurenko,Tatjana Maria,,,RH,RH,F
+05-02-23,Lin Zhu,Lesia Tsurenko,,,RH,RH,F
+30-01-23,Petra Martic,Kristina Mladenovic,,,RH,RH,F
+31-01-23,Shuai Zhang,Madison Brengle,,,RH,RH,F
+02-02-23,Caroline Garcia,Alison Van Uytvanck,,,RH,RH,F
+06-02-23,Anett Kontaveit,Shuai Zhang,,,RH,RH,F
+08-02-23,Shelby Rogers,Anett Kontaveit,,,RH,RH,F
+10-02-23,Belinda Bencic,Shelby Rogers,,,RH,RH,F
+09-02-23,Donna Vekic,Madison Brengle,,,RH,RH,F
+09-02-23,Petra Martic,Alison Van Uytvanck,,,RH,RH,F
+10-02-23,Maria Sakkari,Donna Vekic,,,RH,RH,F
+11-02-23,Petra Martic,Maria Sakkari,,,RH,RH,F
+14-02-23,Petra Kvitova,Shuai Zhang,,,LH,RH,F
+14-02-23,Jelena Ostapenko,Madison Keys,,,RH,RH,F
+15-02-23,Belinda Bencic,Victoria Azarenka,,,RH,RH,F
+15-02-23,Jessica Pegula,Jelena Ostapenko,,,RH,RH,F
+16-02-23,Maria Sakkari,Caroline Garcia,,,RH,RH,F
+17-02-23,Jessica Pegula,Maria Sakkari,,,RH,RH,F
+19-02-23,Dayana Yastremska,Alize Cornet,,,RH,RH,F
+20-02-23,Victoria Azarenka,Anastasia Pavlyuchenkova,,,RH,RH,F
+20-02-23,Yulia Putintseva,Petra Martic,,,RH,RH,F
+21-02-23,Madison Keys,Caroline Garcia,,,RH,RH,F
+21-02-23,Petra Kvitova,Yulia Putintseva,,,LH,RH,F
+22-02-23,Madison Keys,Victoria Azarenka,,,RH,RH,F
+21-02-23,Katerina Siniakova,Lesia Tsurenko,,,RH,RH,F
+25-02-23,Camila Giorgi,Sloane Stephens,,,RH,RH,F
+26-02-23,Camila Giorgi,Katerina Siniakova,,,RH,RH,F
+27-02-23,Heather Watson,Danka Kovinic,,,RH,RH,F
+28-02-23,Madison Brengle,Louisa Chirico,,,RH,RH,F
+28-02-23,Sloane Stephens,Taylor Townsend,,,RH,LH,F
+01-03-23,Sloane Stephens,Heather Watson,,,RH,RH,F
+28-02-23,Donna Vekic,Lesia Tsurenko,,,RH,RH,F
+04-03-23,Donna Vekic,Lin Zhu,,,RH,RH,F
+05-03-23,Donna Vekic,Caroline Garcia,,,RH,RH,F
+08-03-23,Evgeniya Rodina,Alize Cornet,,,RH,RH,F
+08-03-23,Lesia Tsurenko,Lin Zhu,,,RH,RH,F
+09-03-23,Madison Brengle,Laura Siegemund,,,RH,RH,F
+10-03-23,Lesia Tsurenko,Donna Vekic,,,RH,RH,F
+10-03-23,Maria Sakkari,Shelby Rogers,,,RH,RH,F
+11-03-23,Jessica Pegula,Camila Giorgi,,,RH,RH,F
+11-03-23,Daria Kasatkina,Tatjana Maria,,,RH,RH,F
+12-03-23,Ons Jabeur,Magdalena Frech,,,RH,RH,F
+12-03-23,Sorana Cirstea,Madison Keys,,,RH,RH,F
+13-03-23,Petra Kvitova,Jelena Ostapenko,,,LH,RH,F
+13-03-23,Marketa Vondrousova,Ons Jabeur,,,LH,RH,F
+14-03-23,Petra Kvitova,Jessica Pegula,,,LH,RH,F
+15-03-23,Sorana Cirstea,Caroline Garcia,,,RH,RH,F
+16-03-23,Maria Sakkari,Petra Kvitova,,,RH,LH,F
+21-03-23,Camila Giorgi,Kaia Kanepi,,,RH,RH,F
+22-03-23,Marketa Vondrousova,Tatjana Maria,,,LH,RH,F
+22-03-23,Shelby Rogers,Sloane Stephens,,,RH,RH,F
+23-03-23,Paula Badosa,Laura Siegemund,,,RH,RH,F
+23-03-23,Magda Linette,Evgeniya Rodina,,,RH,RH,F
+23-03-23,Victoria Azarenka,Camila Giorgi,,,RH,RH,F
+24-03-23,Sorana Cirstea,Caroline Garcia,,,RH,RH,F
+24-03-23,Donna Vekic,Madison Brengle,,,RH,RH,F
+25-03-23,Magda Linette,Victoria Azarenka,,,RH,RH,F
+26-03-23,Petra Kvitova,Donna Vekic,,,LH,RH,F
+27-03-23,Jessica Pegula,Magda Linette,,,RH,RH,F
+27-03-23,Sorana Cirstea,Marketa Vondrousova,,,RH,LH,F
+31-03-23,Petra Kvitova,Sorana Cirstea,,,LH,RH,F
+03-04-23,Madison Brengle,Kaia Kanepi,,,RH,RH,F
+03-04-23,Lesia Tsurenko,Paula Ormaechea,,,RH,RH,F
+03-04-23,Yulia Putintseva,Elina Svitolina,,,RH,RH,F
+03-04-23,Sloane Stephens,Louisa Chirico,,,RH,RH,F
+05-04-23,Victoria Azarenka,Sloane Stephens,,,RH,RH,F
+05-04-23,Ons Jabeur,Lesia Tsurenko,,,RH,RH,F
+05-04-23,Daria Kasatkina,Madison Brengle,,,RH,RH,F
+06-04-23,Belinda Bencic,Shelby Rogers,,,RH,RH,F
+07-04-23,Madison Keys,Magda Linette,,,RH,RH,F
+07-04-23,Daria Kasatkina,Madison Keys,,,RH,RH,F
+08-04-23,Jessica Pegula,Paula Badosa,,,RH,RH,F
+08-04-23,Ons Jabeur,Daria Kasatkina,,,RH,RH,F
+09-04-23,Belinda Bencic,Jessica Pegula,,,RH,RH,F
+09-04-23,Ons Jabeur,Belinda Bencic,,,RH,RH,F
+18-04-23,Paula Badosa,Daria Kasatkina,,,RH,RH,F
+19-04-23,Ons Jabeur,Jelena Ostapenko,,,RH,RH,F
+20-04-23,Caroline Garcia,Tatjana Maria,,,RH,RH,F
+25-04-23,Sorana Cirstea,Lauren Davis,,,RH,RH,F
+26-04-23,Eugenie Bouchard,Dayana Yastremska,,,RH,RH,F
+26-04-23,Danka Kovinic,Sara Errani,,,RH,RH,F
+27-04-23,Magda Linette,Marketa Vondrousova,,,RH,LH,F
+27-04-23,Caroline Garcia,Yulia Putintseva,,,RH,RH,F
+28-04-23,Daria Kasatkina,Anastasia Pavlyuchenkova,,,RH,RH,F
+28-04-23,Petra Martic,Laura Siegemund,,,RH,RH,F
+28-04-23,Jessica Pegula,Magdalena Frech,,,RH,RH,F
+30-04-23,Daria Kasatkina,Lesia Tsurenko,,,RH,RH,F
+01-05-23,Maria Sakkari,Paula Badosa,,,RH,RH,F
+09-05-23,Marketa Vondrousova,Kaia Kanepi,,,LH,RH,F
+10-05-23,Anastasia Pavlyuchenkova,Sara Errani,,,RH,RH,F
+10-05-23,Lesia Tsurenko,Elina Svitolina,,,RH,RH,F
+11-05-23,Victoria Azarenka,Sloane Stephens,,,RH,RH,F
+11-05-23,Madison Keys,Magdalena Frech,,,RH,RH,F
+11-05-23,Taylor Townsend,Jessica Pegula,,,LH,RH,F
+12-05-23,Maria Sakkari,Barbora Strycova,,,RH,RH,F
+12-05-23,Paula Badosa,Ons Jabeur,,,RH,RH,F
+12-05-23,Jelena Ostapenko,Sorana Cirstea,,,RH,RH,F
+14-05-23,Marketa Vondrousova,Maria Sakkari,,,LH,RH,F
+14-05-23,Madison Keys,Victoria Azarenka,,,RH,RH,F
+15-05-23,Jelena Ostapenko,Daria Kasatkina,,,RH,RH,F
+17-05-23,Jelena Ostapenko,Paula Badosa,,,RH,RH,F
