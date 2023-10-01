@@ -15,7 +15,7 @@ def callPAT(patPath, count):
   header = ["date","P1Name","P2Name","P1WinProb","P2WinProb","P1Hand","P2Hand","Gender"]
   newMdpPred.writerow(header)
   for i in range(1, count + 1):
-    args = [patPath + "/PAT3.Console.exe", "-pcsp", f"./pcsp_files/{i}.pcsp", patOutputFile]
+    args = [patPath + "/PAT3.Console.exe", "-pcsp", f"./pcsp_files/{i}.pcsp", os.getcwd() + "/result.txt"]
     subprocess.call(args)
     
     p1Win = 0
@@ -23,6 +23,8 @@ def callPAT(patPath, count):
     fp = open(patOutputFile, 'r')
     for j, line in enumerate(fp):
       if j == 3:
+        if "NOT valid" in line:
+          continue
         probability = line.split("Probability")[1].strip()
         lowerBound, upperBound = probability[1:-2].split(',')
         p1Win = (float(lowerBound) + float(upperBound)) / 2

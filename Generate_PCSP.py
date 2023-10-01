@@ -5,10 +5,9 @@ from tqdm import tqdm as tqdm
 import warnings
 warnings.simplefilter("ignore")
 
-data = read_data_from_csv()
 
 # generate pcsp file
-def generate_pcsp(date, ply1_name, ply2_name, ply1_hand, ply2_hand, pcsp_filename):
+def generate_pcsp(data, date, ply1_name, ply2_name, ply1_hand, ply2_hand, pcsp_filename):
     params = get_params(
         data, date, ply1_name, ply2_name, ply1_hand, ply2_hand
     )

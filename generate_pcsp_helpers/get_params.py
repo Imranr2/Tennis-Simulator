@@ -127,7 +127,7 @@ def get_params_helper(df, hand):
 
 def get_params(data, date, ply1_name, ply2_name, ply1_hand, ply2_hand): 
     prev_date = (pd.to_datetime(date) -
-                 relativedelta(years=2)).strftime('%Y-%m-%d')
+                 relativedelta(years=5)).strftime('%Y-%m-%d')
 
     data_ply1 = data.query(
         'date>=@prev_date and date<@date and ply1_name==@ply1_name and ply2_name==@ply2_name')
