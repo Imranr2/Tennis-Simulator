@@ -24,18 +24,15 @@ def get_params_helper(df, hand):
     )
 
     # Stroke
-    De_Stroke_shallow = df.query(
-        'shot_type==4 and from_which_court==1 and prev_shot_depth==1')
-    Mid_Stroke_shallow = df.query(
-        'shot_type==4 and from_which_court==2 and prev_shot_depth==1')
-    Ad_Stroke_shallow = df.query(
-        'shot_type==4 and from_which_court==3 and prev_shot_depth==1')
-    De_Stroke_deep = df.query(
-        'shot_type==4 and from_which_court==1 and (prev_shot_depth==2 or prev_shot_depth==3)')
-    Mid_Stroke_deep = df.query(
-        'shot_type==4 and from_which_court==2 and (prev_shot_depth==2 or prev_shot_depth==3)')
-    Ad_Stroke_deep = df.query(
-        'shot_type==4 and from_which_court==3 and (prev_shot_depth==2 or prev_shot_depth==3)')
+    De_Stroke = df.query('shot_type==4 and from_which_court==1')
+    Mid_Stroke = df.query('shot_type==4 and from_which_court==2')
+    Ad_Stroke = df.query('shot_type==4 and from_which_court==3')
+    De_Stroke_A = df.query('shot_type==4 and from_which_court==1 and prev_shot_approach_shot==1')
+    Mid_Stroke_A = df.query('shot_type==4 and from_which_court==2 and prev_shot_approach_shot==1')
+    Ad_Stroke_A = df.query('shot_type==4 and from_which_court==3 and prev_shot_approach_shot==1')
+    De_Stroke_NLV = df.query('shot_type==4 and from_which_court==1 and prev_shot not in [5, 26, 11, 32, 15, 36]')
+    Mid_Stroke_NLV = df.query('shot_type==4 and from_which_court==2 and prev_shot not in [5, 26, 11, 32, 15, 36]')
+    Ad_Stroke_NLV = df.query('shot_type==4 and from_which_court==3 and prev_shot not in [5, 26, 11, 32, 15, 36]')
 
     results = []
     # Serve
@@ -65,16 +62,10 @@ def get_params_helper(df, hand):
                       [[[1], [1]], [[1], [3]], [[1], [2]]],
                       [[[2], [1]], [[3], [1]], [[2, 3], [3]], [[2, 3], [2]]]]  # BH_[CC, II, IO, DM]
     for i, Return in enumerate([De_ForeHandR, Ad_ForeHandR, De_BackHandR, Ad_BackHandR]):
-        shots_shallow = [Return.query(
-            'from_which_court in @dir[0] and to_which_court in @dir[1] and depth==1') for dir in directions[i]]
-        shots_deep = [Return.query(
-            'from_which_court in @dir[0] and to_which_court in @dir[1] and (depth==2 or depth==3)') for dir in directions[i]]
-        shots = shots_shallow + shots_deep
-
+        shots = [Return.query('from_which_court in @dir[0] and to_which_court in @dir[1]') for dir in directions[i]]
         return_in = [len(x.query('shot_outcome==7')) for x in shots]
         return_win = [len(Return.query('shot_outcome in [1, 5, 6]'))]
         return_err = [len(Return.query('shot_outcome in [2, 3, 4]'))]
-
         results.append(return_in + return_win + return_err)
 
     # Rally
@@ -89,36 +80,87 @@ def get_params_helper(df, hand):
                       # mid - FHIO, FHCC, FHDM, BHIO, BHCC, BHDM
                       [[1, 3, 2], [3, 1, 2]],
                       [[3, 1, 2], [1, 3, 2]]]  # ad - FHCC, FHDL, FHDM, BHII, BHIO, BHDM
-    for i, Stroke in enumerate([De_Stroke_shallow, Mid_Stroke_shallow, Ad_Stroke_shallow, De_Stroke_deep, Mid_Stroke_deep, Ad_Stroke_deep]):
-        FH_Stroke_shallow = Stroke.query('shot<=20 and depth==1')
-        BH_Stroke_shallow = Stroke.query('shot<=40 and shot>20 and depth==1')
+    for i, Stroke in enumerate([De_Stroke, Mid_Stroke, Ad_Stroke]):
+        FH_Stroke_NA = Stroke.query('shot<=20 and approach_shot!=1')
+        BH_Stroke_NA = Stroke.query('shot<=40 and shot>20 and approach_shot!=1')
 
-        FH_Stroke_deep = Stroke.query('shot<=20 and (depth==2 or depth==3)')
-        BH_Stroke_deep = Stroke.query(
-            'shot<=40 and shot>20 and (depth==2 or depth==3)')
+        FH_Stroke_A = Stroke.query('shot<=20 and approach_shot==1')
+        BH_Stroke_A = Stroke.query('shot<=40 and shot>20 and approach_shot==1')
 
-        FH_shots_shallow = [FH_Stroke_shallow.query('to_which_court==@to_dir')
+        FH_shots_NA = [FH_Stroke_NA.query('to_which_court==@to_dir')
                             for to_dir in directions[i % 3][0]]
-        BH_shots_shallow = [BH_Stroke_shallow.query('to_which_court==@to_dir')
+        BH_shots_NA = [BH_Stroke_NA.query('to_which_court==@to_dir')
                             for to_dir in directions[i % 3][1]]
-        FH_shots_deep = [FH_Stroke_deep.query('to_which_court==@to_dir')
+        FH_shots_A = [FH_Stroke_A.query('to_which_court==@to_dir')
                          for to_dir in directions[i % 3][0]]
-        BH_shots_deep = [BH_Stroke_deep.query('to_which_court==@to_dir')
+        BH_shots_A = [BH_Stroke_A.query('to_which_court==@to_dir')
                          for to_dir in directions[i % 3][1]]
 
-        FH_stroke_in_shallow = [len(x.query('shot_outcome==7'))
-                                for x in FH_shots_shallow]
-        BH_stroke_in_shallow = [len(x.query('shot_outcome==7'))
-                                for x in BH_shots_shallow]
-        FH_stroke_in_deep = [len(x.query('shot_outcome==7'))
-                             for x in FH_shots_deep]
-        BH_stroke_in_deep = [len(x.query('shot_outcome==7'))
-                             for x in BH_shots_deep]
+        FH_stroke_in_NA = [len(x.query('shot_outcome==7'))
+                                for x in FH_shots_NA]
+        BH_stroke_in_NA = [len(x.query('shot_outcome==7'))
+                                for x in BH_shots_NA]
+        FH_stroke_in_A = [len(x.query('shot_outcome==7'))
+                             for x in FH_shots_A]
+        BH_stroke_in_A = [len(x.query('shot_outcome==7'))
+                             for x in BH_shots_A]
 
         stroke_win = [len(Stroke.query('shot_outcome in [1, 5, 6]'))]
         stroke_err = [len(Stroke.query('shot_outcome in [2, 3, 4]'))]
-        result = FH_stroke_in_shallow + BH_stroke_in_shallow + \
-            FH_stroke_in_deep + BH_stroke_in_deep + stroke_win + stroke_err
+        result = FH_stroke_in_NA + BH_stroke_in_NA + \
+            FH_stroke_in_A + BH_stroke_in_A + stroke_win + stroke_err
+
+        results.append(result)
+    
+    for i, Stroke in enumerate([De_Stroke_A, Mid_Stroke_A, Ad_Stroke_A]):
+        FH_Stroke_LV = Stroke.query('shot<=20 and shot in [5, 15, 11]')
+        BH_Stroke_LV = Stroke.query('shot<=40 and shot in [26, 32, 36]')
+
+        FH_Stroke_NLV = Stroke.query('shot<=20 and shot not in [5, 11, 15]')
+        BH_Stroke_NLV = Stroke.query('shot<=40 and shot>20 and shot not in [26, 32, 36]')
+
+        FH_shots_LV  = [FH_Stroke_LV.query('to_which_court==@to_dir')
+                            for to_dir in directions[i % 3][0]]
+        BH_shots_LV  = [BH_Stroke_LV.query('to_which_court==@to_dir')
+                            for to_dir in directions[i % 3][1]]
+        FH_shots_NLV = [FH_Stroke_NLV.query('to_which_court==@to_dir')
+                         for to_dir in directions[i % 3][0]]
+        BH_shots_NLV = [BH_Stroke_NLV.query('to_which_court==@to_dir')
+                         for to_dir in directions[i % 3][1]]
+
+        FH_stroke_in_LV = [len(x.query('shot_outcome==7'))
+                                for x in FH_shots_LV]
+        BH_stroke_in_LV = [len(x.query('shot_outcome==7'))
+                                for x in BH_shots_LV]
+        FH_stroke_in_NLV = [len(x.query('shot_outcome==7'))
+                             for x in FH_shots_NLV]
+        BH_stroke_in_NLV = [len(x.query('shot_outcome==7'))
+                             for x in BH_shots_NLV]
+
+        stroke_win = [len(Stroke.query('shot_outcome in [1, 5, 6]'))]
+        stroke_err = [len(Stroke.query('shot_outcome in [2, 3, 4]'))]
+        result = FH_stroke_in_LV + BH_stroke_in_LV + \
+            FH_stroke_in_NLV + BH_stroke_in_NLV + stroke_win + stroke_err
+
+        results.append(result)
+
+    for i, Stroke in enumerate([De_Stroke_NLV, Mid_Stroke_NLV, Ad_Stroke_NLV]):
+        FH_Stroke_V = Stroke.query('shot<=20 and shot in [5, 15]')
+        BH_Stroke_V = Stroke.query('shot<=40 and shot>20 and shot in [26, 36]')
+
+        FH_shots_V = [FH_Stroke_V.query('to_which_court==@to_dir')
+                            for to_dir in directions[i % 3][0]]
+        BH_shots_V = [BH_Stroke_V.query('to_which_court==@to_dir')
+                            for to_dir in directions[i % 3][1]]
+
+        FH_stroke_in_V = [len(x.query('shot_outcome==7'))
+                                for x in FH_shots_V]
+        BH_stroke_in_V = [len(x.query('shot_outcome==7'))
+                                for x in BH_shots_V]
+
+        stroke_win = [len(Stroke.query('shot_outcome in [1, 5, 6]'))]
+        stroke_err = [len(Stroke.query('shot_outcome in [2, 3, 4]'))]
+        result = FH_stroke_in_V + BH_stroke_in_V + stroke_win + stroke_err
 
         results.append(result)
 
