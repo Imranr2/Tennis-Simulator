@@ -32,6 +32,8 @@ def callPAT(patPath, count):
     
     curLine = mdpPredLines[i]
     curLine[3], curLine[4] = p1Win, p2Win
+    if p1Win == 0 or p2Win == 0:
+      continue
     newMdpPred.writerow(curLine)
 
 args = sys.argv

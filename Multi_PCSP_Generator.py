@@ -13,7 +13,6 @@ with open('MDP_pred.csv', newline='') as pred_file:
 
     for i, row in enumerate(pred_reader):
         if start_line <= i + 1 <= end_line:
-            print(row['date'])
             date_obj = datetime.datetime.strptime(row['date'], '%Y-%m-%d')
             end_date = date_obj - datetime.timedelta(days=1)
             pcsp_filename = f"{i + 1}.pcsp"
