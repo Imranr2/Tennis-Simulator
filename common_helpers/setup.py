@@ -12,14 +12,14 @@ def get_args():
             f"Usage: python3 {program_name} <date> <ply1_name> <ply2_name> <ply1_hand> ply2_hand> <gender> <pcsp_filename>")
         print("------------------------------------------------------------------------------------------------------------------------")
         print(
-            f"Falling back to default values:\n  date: {date}\n  ply1_name: {ply1_name}\n  ply2_name: {ply2_name}\n  ply1_hand: {ply1_hand}\n  ply2_hand: {ply2_hand}\n  gender: {gender}\n pcsp_filename: {pcsp_filename}"
+            f"Falling back to default values:\n  date: {date}\n  ply1_name: {ply1_name}\n  ply2_name: {ply2_name}\n  ply1_hand: {ply1_hand}\n  ply2_hand: {ply2_hand}\n  gender: {gender}\n  pcsp_filename: {pcsp_filename}"
         )
         print("------------------------------------------------------------------------------------------------------------------------")
     else:
         date, ply1_name, ply2_name, ply1_hand, ply2_hand, gender, pcsp_filename = sys.argv[1:]
         print("------------------------------------------------------------------------------------------------------------------------")
         print(
-            f"Using values:\n  date: {date}\n  ply1_name: {ply1_name}\n  ply2_name: {ply2_name}\n  ply1_hand: {ply1_hand}\n  ply2_hand: {ply2_hand}\n  gender: {gender}\n pcsp_filename: {pcsp_filename}"
+            f"Using values:\n  date: {date}\n  ply1_name: {ply1_name}\n  ply2_name: {ply2_name}\n  ply1_hand: {ply1_hand}\n  ply2_hand: {ply2_hand}\n  gender: {gender}\n  pcsp_filename: {pcsp_filename}"
         )
         print("------------------------------------------------------------------------------------------------------------------------")
 
