@@ -11,7 +11,7 @@ def generate_pcsp_prev_shots(data, date, ply1_name, ply2_name, ply1_hand, ply2_h
     params = get_params(
         data, date, ply1_name, ply2_name, ply1_hand, ply2_hand
     )
-    VAR = 'var.txt'
+    VAR = 'generate_pcsp_helpers_prev_shots/var.txt'
     HAND = 'generate_pcsp_helpers_prev_shots/%s_%s.txt' % (ply1_hand, ply2_hand)
     # Keeping it here in case its needed
     # file_name = '%s_%s_' % (hand1, hand2)
@@ -30,8 +30,3 @@ def generate_pcsp_prev_shots(data, date, ply1_name, ply2_name, ply1_hand, ply2_h
     with open(pcsp_filename, 'w') as f:
         for line in lines:
             f.write(line)
-
-
-# date, ply1_name, ply2_name, ply1_hand, ply2_hand, gender, pcsp_filename = get_args()
-
-# generate_pcsp(data, date, ply1_name, ply2_name, ply1_hand, ply2_hand, pcsp_filename)

@@ -28,9 +28,3 @@ def generate_pcsp_extra_shots(data, date, ply1_name, ply2_name, ply1_hand, ply2_
     with open(pcsp_filename, 'w') as f:
         for line in lines:
             f.write(line)
-
-
-# date, ply1_name, ply2_name, ply1_hand, ply2_hand, gender, pcsp_filename = get_args()
-
-
-# generate_pcsp(date, ply1_name, ply2_name, ply1_hand, ply2_hand, pcsp_filename)
