@@ -1,6 +1,7 @@
 from csv import DictReader
 import datetime
 from Generate_PCSP import generate_pcsp
+from Generate_PCSP_extra_shots import generate_pcsp_extra_shots
 from generate_pcsp_helpers.read_file import read_data_from_csv
 import sys
 
@@ -15,8 +16,12 @@ with open('MDP_pred.csv', newline='') as pred_file:
         if start_line <= i + 1 <= end_line:
             date_obj = datetime.datetime.strptime(row['date'], '%Y-%m-%d')
             end_date = date_obj - datetime.timedelta(days=1)
-            pcsp_filename = f"{i + 1}.pcsp"
             generate_pcsp(
-                data, end_date.strftime('%Y-%m-%d'), row['P1Name'], row['P2Name'], row['P1Hand'], row['P2Hand'], "./pcsp_files/" + pcsp_filename
+                data, end_date.strftime('%Y-%m-%d'), row['P1Name'], row['P2Name'],
+                row['P1Hand'], row['P2Hand'], "./pcsp_files/" + f"{i + 1}.pcsp"
             )
-            print(f"Generated {pcsp_filename}")
+            generate_pcsp_extra_shots(
+                data, end_date.strftime('%Y-%m-%d'), row['P1Name'], row['P2Name'],
+                row['P1Hand'], row['P2Hand'], "./pcsp_files/" + f"{i + 1}_EXTRA_SHOTS.pcsp"
+            )
+            print(f"Generated {i + 1}.pcsp and {i + 1}_EXTRA_SHOTS.pcsp")
