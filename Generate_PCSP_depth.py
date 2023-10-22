@@ -1,18 +1,18 @@
-from generate_pcsp_helpers.setup import get_args
-from generate_pcsp_helpers.read_file import read_data_from_csv
-from generate_pcsp_helpers.get_params import get_params
+from common_helpers.setup import get_args
+from common_helpers.read_file import read_data_from_csv
+from generate_pcsp_helpers_depth.get_params import get_params
 from tqdm import tqdm as tqdm
 import warnings
 warnings.simplefilter("ignore")
 
 
 # generate pcsp file
-def generate_pcsp(data, date, ply1_name, ply2_name, ply1_hand, ply2_hand, pcsp_filename):
+def generate_pcsp_depth(data, date, ply1_name, ply2_name, ply1_hand, ply2_hand, pcsp_filename):
     params = get_params(
         data, date, ply1_name, ply2_name, ply1_hand, ply2_hand
     )
-    VAR = 'var.txt'
-    HAND = '%s_%s.txt' % (ply1_hand, ply2_hand)
+    VAR = 'generate_pcsp_helpers_depth/var.txt'
+    HAND = 'generate_pcsp_helpers_depth/%s_%s.txt' % (ply1_hand, ply2_hand)
     # Keeping it here in case its needed
     # file_name = '%s_%s_' % (hand1, hand2)
     # file_name += '%s_%s_%s.pcsp' % (date, ply1_name.replace(' ',

@@ -3,7 +3,7 @@ import pandas as pd
 
 def read_data_from_csv():
     # obtain shot-by-shot data
-    file = './generate_pcsp_helpers/tennisabstract-v2-combined.csv'
+    file = './common_helpers/tennisabstract-v2-combined.csv'
     data = pd.read_csv(file, names=['ply1_name', 'ply2_name', 'ply1_hand', 'ply2_hand', 'ply1_points',
                                     'ply2_points', 'ply1_games', 'ply2_games', 'ply1_sets', 'ply2_sets', 'date',
                                     'tournament_name', 'shot_type', 'from_which_court', 'shot', 'direction',

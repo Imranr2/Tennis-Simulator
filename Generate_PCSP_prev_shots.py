@@ -1,5 +1,5 @@
-from generate_pcsp_helpers.setup import get_args
-from generate_pcsp_helpers.read_file import read_data_from_csv
+from common_helpers.setup import get_args
+from common_helpers.read_file import read_data_from_csv
 from generate_pcsp_helpers_prev_shots.get_params import get_params
 from tqdm import tqdm as tqdm
 import warnings
