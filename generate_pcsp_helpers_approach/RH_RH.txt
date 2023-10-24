@@ -342,7 +342,7 @@ Ply2_de_stroke = pcase { // if already
    p200: FH_A_DownMid{ball=5} -> Ply1_mid_stroke_ap
    p201: BH_A_InsideIn{ball=4} -> Ply1_ad_stroke_ap
    p202: BH_A_InsideOut{ball=6} -> Ply1_de_stroke_ap
-   p203: BH_A_DownMid{ball=5} -> Ply1	_mid_stroke_ap
+   p203: BH_A_DownMid{ball=5} -> Ply1_mid_stroke_ap
    p204: Winner{ ball = 9} -> {nscore++; if (nscore == points) {won = player2}
                                                              else { turn = (turn+1)%4} }-> NextPt
    p205: Error { ball = 9} -> {fscore++; if (fscore == points) {won = player1}

@@ -169,7 +169,7 @@ def get_params_helper(df, hand):
 
 def get_params(data, date, ply1_name, ply2_name, ply1_hand, ply2_hand): 
     prev_date = (pd.to_datetime(date) -
-                 relativedelta(years=5)).strftime('%Y-%m-%d')
+                 relativedelta(years=2)).strftime('%Y-%m-%d')
 
     data_ply1 = data.query(
         'date>=@prev_date and date<@date and ply1_name==@ply1_name and ply2_name==@ply2_name')
@@ -179,6 +179,14 @@ def get_params(data, date, ply1_name, ply2_name, ply1_hand, ply2_hand):
     # number of matches played
     num_ply1_prev_n = len(data_ply1.date.unique())
     num_ply2_prev_n = len(data_ply2.date.unique())
+
+    if num_ply1_prev_n == 0:
+        data_ply1 = data.query(
+            'date>=@prev_date and date<@date and ply1_name==@ply1_name and ply2_hand==@ply2_hand')
+        
+    if num_ply2_prev_n == 0:
+        data_ply2 = data.query(
+            'date>=@prev_date and date<@date and ply1_hand==@ply2_hand and ply2_name==@ply1_name')
 
     # get players params
     ply1_params = get_params_helper(data_ply1, ply1_hand)
