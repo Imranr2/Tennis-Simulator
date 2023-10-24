@@ -1,0 +1,580 @@
+date,P1Name,P2Name,P1WinProb,P2WinProb,P1Hand,P2Hand,Gender
+2018-01-06,Nick Kyrgios,Grigor Dimitrov,0.294505,0.705495,RH,RH
+2018-01-02,Borna Coric,Pablo Carreno Busta,0.46588,0.5341199999999999,RH,RH
+2018-01-06,Gael Monfils,Andrey Rublev,0.5299,0.47009999999999996,RH,RH
+2018-01-09,Robin Haase,Casper Ruud,0.5418000000000001,0.45819999999999994,RH,RH
+2018-01-10,Karen Khachanov,Pablo Cuevas,0.46864,0.53136,RH,RH
+2018-01-12,Juan Martin Del Potro,David Ferrer,0.5040199999999999,0.4959800000000001,RH,RH
+2018-01-13,Roberto Bautista Agut,Juan Martin Del Potro,0.456505,0.5434950000000001,RH,RH
+2018-01-15,Damir Dzumhur,Paolo Lorenzi,0.41833,0.58167,RH,RH
+2018-01-17,Pablo Carreno Busta,Gilles Simon,0.393515,0.6064849999999999,RH,RH
+2018-01-19,Grigor Dimitrov,Andrey Rublev,0.44437499999999996,0.555625,RH,RH
+2018-01-20,Tomas Berdych,Juan Martin Del Potro,0.35049,0.64951,RH,RH
+2018-01-21,Marin Cilic,Pablo Carreno Busta,0.48055000000000003,0.51945,RH,RH
+2018-01-21,Grigor Dimitrov,Nick Kyrgios,0.53793,0.46207,RH,RH
+2018-01-22,Tomas Berdych,Fabio Fognini,0.35049,0.64951,RH,RH
+2018-01-22,Hyeon Chung,Novak Djokovic,0.490445,0.509555,RH,RH
+2018-01-23,Kyle Edmund,Grigor Dimitrov,0.52779,0.47221,RH,RH
+2018-01-24,Roger Federer,Tomas Berdych,0.59369,0.40630999999999995,RH,RH
+2018-01-26,Roger Federer,Hyeon Chung,0.5609949999999999,0.4390050000000001,RH,RH
+2018-02-07,David Goffin,Gilles Simon,0.482195,0.5178050000000001,RH,RH
+2018-02-09,Jo Wilfried Tsonga,Andrey Rublev,0.532,0.46799999999999997,RH,RH
+2018-02-10,Richard Gasquet,David Goffin,0.44314,0.55686,RH,RH
+2018-02-10,Lucas Pouille,Jo Wilfried Tsonga,0.374155,0.625845,RH,RH
+2018-02-15,Roger Federer,Philipp Kohlschreiber,0.573565,0.426435,RH,RH
+2018-02-16,Grigor Dimitrov,Andrey Rublev,0.447005,0.552995,RH,RH
+2018-02-17,Grigor Dimitrov,David Goffin,0.49837,0.50163,RH,RH
+2018-02-23,Tomas Berdych,Damir Dzumhur,0.37387499999999996,0.626125,RH,RH
+2018-02-23,Lucas Pouille,Filip Krajinovic,0.455495,0.544505,RH,RH
+2018-02-22,Aljaz Bedene,Pablo Carreno Busta,0.3679,0.6321,RH,RH
+2018-02-27,Ryan Harrison,John Isner,0.37815,0.62185,RH,RH
+2018-02-28,Ryan Harrison,Diego Schwartzman,0.49254,0.50746,RH,RH
+2018-03-01,Juan Martin Del Potro,David Ferrer,0.49716,0.50284,RH,RH
+2018-03-02,Juan Martin Del Potro,Dominic Thiem,0.505905,0.49409499999999995,RH,RH
+2018-03-04,Juan Martin Del Potro,Kevin Anderson,0.49993,0.50007,RH,RH
+2018-03-02,Roberto Bautista Agut,Malek Jaziri,0.46572,0.53428,RH,RH
+2018-03-12,Juan Martin Del Potro,Alex De Minaur,0.502315,0.49768500000000004,RH,RH
+2018-03-12,Roger Federer,Filip Krajinovic,0.578655,0.42134499999999997,RH,RH
+2018-03-12,Pablo Carreno Busta,Daniil Medvedev,0.38295999999999997,0.61704,RH,RH
+2018-03-12,Borna Coric,Roberto Bautista Agut,0.495625,0.504375,RH,RH
+2018-03-13,Juan Martin Del Potro,David Ferrer,0.42052999999999996,0.57947,RH,RH
+2018-03-14,Kevin Anderson,Pablo Carreno Busta,0.68181,0.31819,RH,RH
+2018-03-16,Juan Martin Del Potro,Philipp Kohlschreiber,0.509025,0.49097500000000005,RH,RH
+2018-03-17,Juan Martin Del Potro,Milos Raonic,0.28885500000000003,0.7111449999999999,RH,RH
+2018-03-18,Juan Martin Del Potro,Roger Federer,0.40097499999999997,0.599025,RH,RH
+2018-03-24,Alexander Zverev,Daniil Medvedev,0.47771,0.5222899999999999,RH,RH
+2018-03-25,Juan Martin Del Potro,Kei Nishikori,0.51702,0.48297999999999996,RH,RH
+2018-03-26,Milos Raonic,Diego Schwartzman,0.42728,0.57272,RH,RH
+2018-03-26,Pablo Carreno Busta,Steve Johnson,0.394295,0.6057049999999999,RH,RH
+2018-03-28,Alexander Zverev,Nick Kyrgios,0.393195,0.606805,RH,RH
+2018-03-29,Juan Martin Del Potro,Milos Raonic,0.47108,0.5289200000000001,RH,RH
+2018-03-29,Pablo Carreno Busta,Kevin Anderson,0.279165,0.720835,RH,RH
+2018-03-30,Alexander Zverev,Borna Coric,0.47902500000000003,0.520975,RH,RH
+2018-03-30,John Isner,Juan Martin Del Potro,0.5603199999999999,0.43968000000000007,RH,RH
+2018-04-16,Kei Nishikori,Tomas Berdych,0.444345,0.555655,RH,RH
+2018-04-17,Jan Lennard Struff,Yuichi Sugita,0.481415,0.5185850000000001,RH,RH
+2018-04-17,Dominic Thiem,Andrey Rublev,0.453685,0.546315,RH,RH
+2018-04-19,David Goffin,Roberto Bautista Agut,0.48749,0.51251,RH,RH
+2018-04-19,Dominic Thiem,Novak Djokovic,0.34423000000000004,0.65577,RH,RH
+2018-04-20,Grigor Dimitrov,David Goffin,0.49837,0.50163,RH,RH
+2018-04-21,Kei Nishikori,Alexander Zverev,0.444345,0.555655,RH,RH
+2018-04-25,Grigor Dimitrov,Gilles Simon,0.43615499999999996,0.563845,RH,RH
+2018-04-25,Pablo Carreno Busta,Benoit Paire,0.385255,0.614745,RH,RH
+2018-04-27,Pablo Carreno Busta,Grigor Dimitrov,0.11804,0.88196,RH,RH
+2018-04-27,David Goffin,Roberto Bautista Agut,0.48749,0.51251,RH,RH
+2018-05-01,Mirza Basic,Gael Monfils,0.48075999999999997,0.51924,RH,RH
+2018-05-06,Richard Gasquet,Tomas Berdych,0.42796,0.57204,RH,RH
+2018-05-07,Novak Djokovic,Kei Nishikori,0.5922149999999999,0.40778500000000006,RH,RH
+2018-05-08,Borna Coric,Pablo Carreno Busta,0.457955,0.542045,RH,RH
+2018-05-08,Milos Raonic,Grigor Dimitrov,0.43052500000000005,0.569475,RH,RH
+2018-05-08,Juan Martin Del Potro,Damir Dzumhur,0.51226,0.48773999999999995,RH,RH
+2018-05-13,Alexander Zverev,Dominic Thiem,0.358715,0.641285,RH,RH
+2018-05-14,Philipp Kohlschreiber,Karen Khachanov,0.468415,0.531585,RH,RH
+2018-05-15,David Goffin,Marco Cecchinato,0.501565,0.49843499999999996,RH,RH
+2018-05-16,Pablo Carreno Busta,Steve Johnson,0.408605,0.591395,RH,RH
+2018-05-17,Pablo Carreno Busta,Aljaz Bedene,0.408605,0.591395,RH,RH
+2018-05-17,David Goffin,Juan Martin Del Potro,0.501565,0.49843499999999996,RH,RH
+2018-05-18,Marin Cilic,Pablo Carreno Busta,0.47623499999999996,0.523765,RH,RH
+2018-05-18,Novak Djokovic,Kei Nishikori,0.7039850000000001,0.2960149999999999,RH,RH
+2018-05-18,Alexander Zverev,David Goffin,0.31888000000000005,0.68112,RH,RH
+2018-05-26,Dominic Thiem,Gilles Simon,0.450715,0.549285,RH,RH
+2018-05-30,Kei Nishikori,Benoit Paire,0.427325,0.572675,RH,RH
+2018-06-02,Karen Khachanov,Lucas Pouille,0.522775,0.477225,RH,RH
+2018-06-04,Diego Schwartzman,Kevin Anderson,0.47924,0.52076,RH,RH
+2018-06-04,Juan Martin Del Potro,John Isner,0.36692,0.63308,RH,RH
+2018-06-05,Marco Cecchinato,Novak Djokovic,0.52365,0.47635000000000005,RH,RH
+2018-06-07,Juan Martin Del Potro,Marin Cilic,0.448585,0.551415,RH,RH
+2018-06-10,Rafael Nadal,Dominic Thiem,0.428515,0.571485,RH,RH
+2018-06-13,Milos Raonic,Mirza Basic,0.43706999999999996,0.56293,RH,RH
+2018-06-16,Roger Federer,Nick Kyrgios,0.5243800000000001,0.47561999999999993,RH,RH
+2018-06-17,Roger Federer,Milos Raonic,0.453395,0.546605,RH,RH
+2018-06-21,Roger Federer,Benoit Paire,0.59441,0.40559,RH,RH
+2018-06-22,Roger Federer,Matthew Ebden,0.59441,0.40559,RH,RH
+2018-06-23,Borna Coric,Roberto Bautista Agut,0.505235,0.494765,RH,RH
+2018-06-19,Nick Kyrgios,Andy Murray,0.501695,0.498305,RH,RH
+2018-06-22,Marin Cilic,Sam Querrey,0.714075,0.285925,RH,RH
+2018-06-23,Marin Cilic,Nick Kyrgios,0.463185,0.536815,RH,RH
+2018-06-24,Marin Cilic,Novak Djokovic,0.463185,0.536815,RH,RH
+2018-06-25,Andy Murray,Stan Wawrinka,0.46027,0.53973,RH,RH
+2018-07-03,Juan Martin Del Potro,Peter Gojowczyk,0.51398,0.48602,RH,RH
+2018-07-07,Juan Martin Del Potro,Benoit Paire,0.51398,0.48602,RH,RH
+2018-07-09,Novak Djokovic,Karen Khachanov,0.52871,0.47129,RH,RH
+2018-07-10,Juan Martin Del Potro,Gilles Simon,0.51539,0.48461,RH,RH
+2018-07-11,Novak Djokovic,Kei Nishikori,0.7039850000000001,0.2960149999999999,RH,RH
+2018-07-11,Kevin Anderson,Roger Federer,0.486015,0.513985,RH,RH
+2018-07-13,Kevin Anderson,John Isner,0.47416,0.52584,RH,RH
+2018-07-26,John Isner,Alex De Minaur,0.4939,0.5061,RH,RH
+2018-07-29,John Isner,Ryan Harrison,0.55579,0.44421,RH,RH
+2018-07-26,Pablo Carreno Busta,Aljaz Bedene,0.408605,0.591395,RH,RH
+2018-07-27,Nicolas Jarry,Dominic Thiem,0.51223,0.48777000000000004,RH,RH
+2018-07-27,Nikoloz Basilashvili,Pablo Carreno Busta,0.423515,0.576485,RH,RH
+2018-08-04,Juan Martin Del Potro,Damir Dzumhur,0.518545,0.48145499999999997,RH,RH
+2018-08-05,Fabio Fognini,Juan Martin Del Potro,0.423325,0.576675,RH,RH
+2018-08-02,Alexander Zverev,Malek Jaziri,0.521415,0.47858500000000004,RH,RH
+2018-08-04,Alexander Zverev,Kei Nishikori,0.38548499999999997,0.614515,RH,RH
+2018-08-05,Alex De Minaur,Andrey Rublev,0.450355,0.5496449999999999,RH,RH
+2018-08-07,Stan Wawrinka,Nick Kyrgios,0.45596000000000003,0.54404,RH,RH
+2018-08-07,Stefanos Tsitsipas,Damir Dzumhur,0.452965,0.5470349999999999,RH,RH
+2018-08-08,Karen Khachanov,Pablo Carreno Busta,0.459945,0.540055,RH,RH
+2018-08-09,Stefanos Tsitsipas,Novak Djokovic,0.452965,0.5470349999999999,RH,RH
+2018-08-09,Marin Cilic,Diego Schwartzman,0.39203,0.60797,RH,RH
+2018-08-13,Pablo Carreno Busta,Richard Gasquet,0.408605,0.591395,RH,RH
+2018-08-14,David Goffin,Stefanos Tsitsipas,0.4889,0.5111,RH,RH
+2018-08-15,Roger Federer,Peter Gojowczyk,0.60811,0.39188999999999996,RH,RH
+2018-08-15,Karen Khachanov,Sam Querrey,0.459945,0.540055,RH,RH
+2018-08-16,Stan Wawrinka,Kei Nishikori,0.45345,0.54655,RH,RH
+2018-08-17,Juan Martin Del Potro,Nick Kyrgios,0.520135,0.479865,RH,RH
+2018-08-17,David Goffin,Kevin Anderson,0.4889,0.5111,RH,RH
+2018-08-17,Novak Djokovic,Grigor Dimitrov,0.768715,0.23128499999999996,RH,RH
+2018-08-17,Roger Federer,Leonardo Mayer,0.60811,0.39188999999999996,RH,RH
+2018-08-17,Marin Cilic,Pablo Carreno Busta,0.46796499999999996,0.532035,RH,RH
+2018-08-18,David Goffin,Juan Martin Del Potro,0.48422,0.51578,RH,RH
+2018-08-18,Roger Federer,Stan Wawrinka,0.555615,0.44438500000000003,RH,RH
+2018-08-18,Novak Djokovic,Marin Cilic,0.46389,0.53611,RH,RH
+2018-08-25,Steve Johnson,Pablo Carreno Busta,0.41916,0.58084,RH,RH
+2018-08-27,Stan Wawrinka,Grigor Dimitrov,0.45145,0.54855,RH,RH
+2018-08-27,Kevin Anderson,Ryan Harrison,0.482325,0.517675,RH,RH
+2018-09-01,Milos Raonic,Stan Wawrinka,0.438065,0.5619350000000001,RH,RH
+2018-09-01,Juan Martin Del Potro,Fernando Verdasco,0.53053,0.46947000000000005,RH,RH
+2018-09-01,Roger Federer,Nick Kyrgios,0.576565,0.423435,RH,RH
+2018-09-02,Dominic Thiem,Kevin Anderson,0.793265,0.206735,RH,RH
+2018-09-03,Juan Martin Del Potro,Borna Coric,0.53053,0.46947000000000005,RH,RH
+2018-09-03,Marin Cilic,David Goffin,0.4622,0.5378000000000001,RH,RH
+2018-09-04,Juan Martin Del Potro,John Isner,0.441785,0.558215,RH,RH
+2018-09-05,Rafael Nadal,Dominic Thiem,0.443785,0.556215,RH,RH
+2018-09-08,Novak Djokovic,Kei Nishikori,0.7060150000000001,0.29398499999999994,RH,RH
+2018-09-09,Novak Djokovic,Juan Martin Del Potro,0.5456749999999999,0.4543250000000001,RH,RH
+2018-09-18,Peter Gojowczyk,Jo Wilfried Tsonga,0.32728,0.67272,RH,RH
+2018-09-21,Gilles Simon,Richard Gasquet,0.44697,0.55303,RH,RH
+2018-09-21,Kei Nishikori,Nikoloz Basilashvili,0.39299,0.60701,RH,RH
+2018-09-22,Dominic Thiem,Roberto Bautista Agut,0.48656,0.51344,RH,RH
+2018-09-25,Alex De Minaur,Yuichi Sugita,0.44935,0.55065,RH,RH
+2018-09-27,Andy Murray,David Goffin,0.516815,0.483185,RH,RH
+2018-09-28,Alex De Minaur,Damir Dzumhur,0.44935,0.55065,RH,RH
+2018-10-01,Karen Khachanov,Sam Querrey,0.46448999999999996,0.53551,RH,RH
+2018-10-02,Andrey Rublev,Joao Sousa,0.47650000000000003,0.5235,RH,RH
+2018-10-03,Juan Martin Del Potro,Karen Khachanov,0.52386,0.47614,RH,RH
+2018-10-04,Fabio Fognini,Andrey Rublev,0.2962,0.7038,RH,RH
+2018-10-06,Juan Martin Del Potro,Fabio Fognini,0.33058,0.66942,RH,RH
+2018-10-07,Nikoloz Basilashvili,Juan Martin Del Potro,0.45893,0.5410699999999999,RH,RH
+2018-10-04,Richard Gasquet,Nick Kyrgios,0.46267,0.53733,RH,RH
+2018-10-05,Kei Nishikori,Stefanos Tsitsipas,0.39299,0.60701,RH,RH
+2018-10-09,Benoit Paire,Pablo Carreno Busta,0.303825,0.696175,RH,RH
+2018-10-10,Alexander Zverev,Nikoloz Basilashvili,0.533335,0.466665,RH,RH
+2018-10-10,Alex De Minaur,Benoit Paire,0.45301,0.54699,RH,RH
+2018-10-10,Juan Martin Del Potro,Richard Gasquet,0.54336,0.45664000000000005,RH,RH
+2018-10-10,Roger Federer,Daniil Medvedev,0.597425,0.402575,RH,RH
+2018-10-11,Alexander Zverev,Alex De Minaur,0.54097,0.45903000000000005,RH,RH
+2018-10-11,Kevin Anderson,Stefanos Tsitsipas,0.54369,0.45631,RH,RH
+2018-10-11,Borna Coric,Juan Martin Del Potro,0.25726499999999997,0.742735,RH,RH
+2018-10-12,Roger Federer,Kei Nishikori,0.595615,0.404385,RH,RH
+2018-10-13,Novak Djokovic,Alexander Zverev,0.21206999999999998,0.78793,RH,RH
+2018-10-14,Novak Djokovic,Borna Coric,0.568365,0.431635,RH,RH
+2018-10-19,Richard Gasquet,Jan Lennard Struff,0.46052000000000004,0.53948,RH,RH
+2018-10-18,Mirza Basic,Nick Kyrgios,0.48075999999999997,0.51924,RH,RH
+2018-10-19,Karen Khachanov,Mirza Basic,0.46963,0.53037,RH,RH
+2018-10-26,Roger Federer,Gilles Simon,0.594465,0.405535,RH,RH
+2018-10-26,Daniil Medvedev,Stefanos Tsitsipas,0.451335,0.548665,RH,RH
+2018-10-27,Roger Federer,Daniil Medvedev,0.594465,0.405535,RH,RH
+2018-10-28,Roger Federer,Marius Copil,0.594465,0.405535,RH,RH
+2018-10-23,Sam Querrey,Jo Wilfried Tsonga,0.43513,0.56487,RH,RH
+2018-10-26,Kei Nishikori,Dominic Thiem,0.38256500000000004,0.617435,RH,RH
+2018-10-28,Kevin Anderson,Kei Nishikori,0.476865,0.523135,RH,RH
+2018-10-29,Nikoloz Basilashvili,John Millman,0.47860500000000006,0.5213949999999999,RH,RH
+2018-10-29,Joao Sousa,Marco Cecchinato,0.47302500000000003,0.526975,RH,RH
+2018-10-30,Daniil Medvedev,Pablo Carreno Busta,0.451335,0.548665,RH,RH
+2018-10-30,Damir Dzumhur,Stefanos Tsitsipas,0.420855,0.579145,RH,RH
+2018-10-30,Marin Cilic,Philipp Kohlschreiber,0.467725,0.532275,RH,RH
+2018-10-31,Dominic Thiem,Gilles Simon,0.523,0.477,RH,RH
+2018-11-01,Alexander Zverev,Diego Schwartzman,0.53558,0.46442000000000005,RH,RH
+2018-11-01,Dominic Thiem,Borna Coric,0.48656,0.51344,RH,RH
+2018-11-01,Roger Federer,Fabio Fognini,0.5949450000000001,0.40505499999999994,RH,RH
+2018-11-01,Kei Nishikori,Kevin Anderson,0.366115,0.633885,RH,RH
+2018-11-02,Dominic Thiem,Jack Sock,0.48656,0.51344,RH,RH
+2018-11-02,Novak Djokovic,Marin Cilic,0.46065,0.53935,RH,RH
+2018-11-02,Roger Federer,Kei Nishikori,0.595615,0.404385,RH,RH
+2018-11-03,Karen Khachanov,Dominic Thiem,0.464905,0.535095,RH,RH
+2018-11-04,Karen Khachanov,Novak Djokovic,0.480655,0.519345,RH,RH
+2018-11-11,Kevin Anderson,Dominic Thiem,0.26614499999999996,0.733855,RH,RH
+2018-11-11,Kei Nishikori,Roger Federer,0.348295,0.651705,RH,RH
+2018-11-12,Novak Djokovic,John Isner,0.546975,0.453025,RH,RH
+2018-11-13,Kevin Anderson,Kei Nishikori,0.569805,0.430195,RH,RH
+2018-11-14,Novak Djokovic,Alexander Zverev,0.43804,0.56196,RH,RH
+2018-11-15,Dominic Thiem,Kei Nishikori,0.49109,0.50891,RH,RH
+2018-11-16,Alexander Zverev,John Isner,0.591655,0.40834499999999996,RH,RH
+2018-11-16,Novak Djokovic,Marin Cilic,0.46065,0.53935,RH,RH
+2018-11-17,Alexander Zverev,Roger Federer,0.294975,0.705025,RH,RH
+2018-11-18,Alexander Zverev,Novak Djokovic,0.38491,0.61509,RH,RH
+2018-01-01,Elina Svitolina,Carla Suarez Navarro,0.5508299999999999,0.44917000000000007,RH,RH
+2018-01-01,Anett Kontaveit,Heather Watson,0.497625,0.502375,RH,RH
+2018-01-02,Anastasija Sevastova,Sorana Cirstea,0.484795,0.515205,RH,RH
+2018-01-03,Karolina Pliskova,Catherine Cartan Bellis,0.51671,0.48329,RH,RH
+2018-01-04,Aliaksandra Sasnovich,Alize Cornet,0.5090749999999999,0.49092500000000006,RH,RH
+2018-01-04,Elina Svitolina,Johanna Konta,0.5394950000000001,0.46050499999999994,RH,RH
+2018-01-05,Elina Svitolina,Karolina Pliskova,0.6368199999999999,0.36318000000000006,RH,RH
+2017-12-31,Alison Riske Amritraj,Qiang Wang,0.36601,0.63399,RH,RH
+2017-12-31,Aryna Sabalenka,Monica Niculescu,0.51481,0.48519,RH,RH
+2018-01-01,Simona Halep,Nicole Gibbs,0.56941,0.43059000000000003,RH,RH
+2018-01-02,Karolina Pliskova,Jelena Ostapenko,0.55426,0.44574,RH,RH
+2018-01-02,Zarina Diyas,Shuai Zhang,0.44753,0.55247,RH,RH
+2018-01-02,Aryna Sabalenka,Danka Kovinic,0.518485,0.481515,RH,RH
+2018-01-04,Katerina Siniakova,Karolina Pliskova,0.320415,0.679585,RH,RH
+2018-01-06,Simona Halep,Katerina Siniakova,0.47367000000000004,0.52633,RH,RH
+2018-01-08,Lesia Tsurenko,Timea Babos,0.6154900000000001,0.3845099999999999,RH,RH
+2018-01-08,Aryna Sabalenka,Eugenie Bouchard,0.515295,0.48470500000000005,RH,RH
+2018-01-09,Alison Riske Amritraj,Katerina Siniakova,0.36601,0.63399,RH,RH
+2018-01-10,Aryna Sabalenka,Shuai Zhang,0.352255,0.647745,RH,RH
+2018-01-11,Elise Mertens,Monica Niculescu,0.47413,0.5258700000000001,RH,RH
+2018-01-08,Dominika Cibulkova,Anastasija Sevastova,0.5053300000000001,0.49466999999999994,RH,RH
+2018-01-08,Catherine Cartan Bellis,Magdalena Rybarikova,0.48758999999999997,0.51241,RH,RH
+2018-01-09,Agnieszka Radwanska,Johanna Konta,0.544605,0.455395,RH,RH
+2018-01-10,Garbine Muguruza,Kiki Bertens,0.53076,0.46924,RH,RH
+2018-01-11,Angelique Kerber,Dominika Cibulkova,0.094685,0.905315,RH,RH
+2018-01-15,Kiki Bertens,Catherine Cartan Bellis,0.445535,0.554465,RH,RH
+2018-01-15,Monica Puig,Samantha Stosur,0.46104500000000004,0.538955,RH,RH
+2018-01-16,Lesia Tsurenko,Natalia Vikhlyantseva,0.447395,0.552605,RH,RH
+2018-01-16,Agnieszka Radwanska,Karolina Pliskova,0.55467,0.44533,RH,RH
+2018-01-17,Elina Svitolina,Katerina Siniakova,0.5617650000000001,0.43823499999999993,RH,RH
+2018-01-17,Carla Suarez Navarro,Timea Babos,0.4572,0.5428,RH,RH
+2018-01-18,Agnieszka Radwanska,Lesia Tsurenko,0.50016,0.49983999999999995,RH,RH
+2018-01-19,Caroline Wozniacki,Kiki Bertens,0.51595,0.48405,RH,RH
+2018-01-22,Madison Keys,Caroline Garcia,0.45674499999999996,0.543255,RH,RH
+2018-01-22,Simona Halep,Naomi Osaka,0.585895,0.41410499999999995,RH,RH
+2018-01-22,Karolina Pliskova,Barbora Strycova,0.525145,0.474855,RH,RH
+2018-01-24,Simona Halep,Karolina Pliskova,0.52879,0.47121,RH,RH
+2018-01-25,Simona Halep,Angelique Kerber,0.52204,0.47796000000000005,RH,RH
+2018-01-27,Caroline Wozniacki,Simona Halep,0.717865,0.282135,RH,RH
+2018-01-30,Dominika Cibulkova,Sorana Cirstea,0.559885,0.44011500000000003,RH,RH
+2018-02-01,Kristina Mladenovic,Dominika Cibulkova,0.497315,0.502685,RH,RH
+2018-02-02,Daria Kasatkina,Caroline Wozniacki,0.494225,0.505775,RH,RH
+2018-02-03,Kristina Mladenovic,Daria Kasatkina,0.497315,0.502685,RH,RH
+2018-01-30,Nao Hibino,Samantha Stosur,0.20114500000000002,0.798855,RH,RH
+2018-02-12,Catherine Cartan Bellis,Daria Kasatkina,0.48758999999999997,0.51241,RH,RH
+2018-02-13,Samantha Stosur,Irina Camelia Begu,0.39987,0.60013,RH,RH
+2018-02-13,Carla Suarez Navarro,Kateryna Bondarenko,0.46642,0.5335799999999999,RH,RH
+2018-02-14,Catherine Cartan Bellis,Madison Keys,0.48758999999999997,0.51241,RH,RH
+2018-02-14,Sorana Cirstea,Elise Mertens,0.42767,0.57233,RH,RH
+2018-02-15,Garbine Muguruza,Sorana Cirstea,0.811145,0.188855,RH,RH
+2018-02-15,Catherine Cartan Bellis,Karolina Pliskova,0.13534000000000002,0.86466,RH,RH
+2018-02-15,Simona Halep,Anastasija Sevastova,0.7255100000000001,0.2744899999999999,RH,RH
+2018-02-16,Garbine Muguruza,Caroline Garcia,0.64534,0.35466,RH,RH
+2018-02-19,Elena Vesnina,Shuai Peng,0.446965,0.5530349999999999,RH,RH
+2018-02-19,Daria Kasatkina,Agnieszka Radwanska,0.49021000000000003,0.50979,RH,RH
+2018-02-20,Catherine Cartan Bellis,Elise Mertens,0.47587,0.52413,RH,RH
+2018-02-20,Anett Kontaveit,Samantha Stosur,0.493765,0.506235,RH,RH
+2018-02-21,Naomi Osaka,Anett Kontaveit,0.40842999999999996,0.59157,RH,RH
+2018-02-21,Elena Vesnina,Jelena Ostapenko,0.446965,0.5530349999999999,RH,RH
+2018-02-21,Daria Kasatkina,Johanna Konta,0.49021000000000003,0.50979,RH,RH
+2018-02-21,Garbine Muguruza,Catherine Cartan Bellis,0.53076,0.46924,RH,RH
+2018-02-22,Elina Svitolina,Naomi Osaka,0.563555,0.43644499999999997,RH,RH
+2018-02-22,Garbine Muguruza,Caroline Garcia,0.64534,0.35466,RH,RH
+2018-02-22,Daria Kasatkina,Elena Vesnina,0.377305,0.622695,RH,RH
+2018-02-23,Daria Kasatkina,Garbine Muguruza,0.495125,0.504875,RH,RH
+2018-02-24,Elina Svitolina,Daria Kasatkina,0.569845,0.43015499999999995,RH,RH
+2018-03-02,Lesia Tsurenko,Kristina Mladenovic,0.479615,0.520385,RH,RH
+2018-03-07,Qiang Wang,Timea Bacsinszky,0.43173,0.56827,RH,RH
+2018-03-08,Sorana Cirstea,Monica Niculescu,0.24247,0.75753,RH,RH
+2018-03-09,Serena Williams,Zarina Diyas,0.64838,0.35162000000000004,RH,RH
+2018-03-09,Qiang Wang,Elise Mertens,0.43173,0.56827,RH,RH
+2018-03-09,Aryna Sabalenka,Svetlana Kuznetsova,0.511385,0.488615,RH,RH
+2018-03-09,Simona Halep,Karolina Pliskova,0.658465,0.34153500000000003,RH,RH
+2018-03-10,Daria Kasatkina,Katerina Siniakova,0.48652999999999996,0.5134700000000001,RH,RH
+2018-03-10,Elena Vesnina,Catherine Cartan Bellis,0.43240999999999996,0.56759,RH,RH
+2018-03-12,Anastasija Sevastova,Julia Goerges,0.49849,0.50151,RH,RH
+2018-03-13,Carla Suarez Navarro,Elina Svitolina,0.394505,0.605495,RH,RH
+2018-03-13,Venus Williams,Anastasija Sevastova,0.519875,0.480125,RH,RH
+2018-03-14,Daria Kasatkina,Caroline Wozniacki,0.48058500000000004,0.519415,RH,RH
+2018-03-16,Venus Williams,Carla Suarez Navarro,0.528685,0.47131500000000004,RH,RH
+2018-03-17,Daria Kasatkina,Venus Williams,0.471125,0.528875,RH,RH
+2018-03-17,Naomi Osaka,Simona Halep,0.384835,0.615165,RH,RH
+2018-03-20,Aliaksandra Sasnovich,Karolina Pliskova,0.48407,0.51593,RH,RH
+2018-03-21,Monica Niculescu,Yulia Putintseva,0.399155,0.6008450000000001,RH,RH
+2018-03-21,Naomi Osaka,Serena Williams,0.493475,0.506525,RH,RH
+2018-03-22,Monica Puig,Samantha Stosur,0.44453,0.55547,RH,RH
+2018-03-22,Zarina Diyas,Svetlana Kuznetsova,0.49297499999999994,0.5070250000000001,RH,RH
+2018-03-23,Elina Svitolina,Naomi Osaka,0.5673600000000001,0.4326399999999999,RH,RH
+2018-03-23,Johanna Konta,Kirsten Flipkens,0.49707500000000004,0.502925,RH,RH
+2018-03-24,Monica Puig,Caroline Wozniacki,0.44453,0.55547,RH,RH
+2018-03-24,Agnieszka Radwanska,Simona Halep,0.303125,0.696875,RH,RH
+2018-03-26,Elina Svitolina,Ashleigh Barty,0.58737,0.41263000000000005,RH,RH
+2018-03-26,Venus Williams,Johanna Konta,0.5534,0.4466,RH,RH
+2018-03-28,Jelena Ostapenko,Elina Svitolina,0.57303,0.42696999999999996,RH,RH
+2018-03-31,Sloane Stephens,Jelena Ostapenko,0.49591,0.5040899999999999,RH,RH
+2018-04-03,Karolina Pliskova,Katerina Siniakova,0.67877,0.32123,RH,RH
+2018-04-04,Naomi Osaka,Laura Siegemund,0.49966,0.50034,RH,RH
+2018-04-04,Kiki Bertens,Aleksandra Krunic,0.51033,0.48967000000000005,RH,RH
+2018-04-05,Julia Goerges,Naomi Osaka,0.5338700000000001,0.46612999999999993,RH,RH
+2018-04-05,Anastasija Sevastova,Ashleigh Barty,0.496965,0.503035,RH,RH
+2018-04-05,Karolina Pliskova,Elena Vesnina,0.5092099999999999,0.49079000000000006,RH,RH
+2018-04-06,Julia Goerges,Daria Kasatkina,0.5338700000000001,0.46612999999999993,RH,RH
+2018-04-06,Anastasija Sevastova,Karolina Pliskova,0.57978,0.42022000000000004,RH,RH
+2018-04-08,Kiki Bertens,Madison Keys,0.55087,0.44913000000000003,RH,RH
+2018-04-08,Julia Goerges,Anastasija Sevastova,0.426895,0.573105,RH,RH
+2018-04-14,Aryna Sabalenka,Stefanie Voegele,0.519685,0.48031500000000005,RH,RH
+2018-04-23,Svetlana Kuznetsova,Qiang Wang,0.452555,0.547445,RH,RH
+2018-04-24,Karolina Pliskova,Kiki Bertens,0.509055,0.49094499999999996,RH,RH
+2018-04-25,Coco Vandeweghe,Sloane Stephens,0.473965,0.526035,RH,RH
+2018-04-26,Jelena Ostapenko,Zarina Diyas,0.496535,0.503465,RH,RH
+2018-04-26,Anastasia Pavlyuchenkova,Garbine Muguruza,0.36167000000000005,0.63833,RH,RH
+2018-04-27,Coco Vandeweghe,Simona Halep,0.1865,0.8135,RH,RH
+2018-04-27,Caroline Garcia,Elina Svitolina,0.459155,0.540845,RH,RH
+2018-04-27,Anett Kontaveit,Anastasia Pavlyuchenkova,0.493765,0.506235,RH,RH
+2018-04-27,Karolina Pliskova,Jelena Ostapenko,0.55426,0.44574,RH,RH
+2018-04-28,Coco Vandeweghe,Caroline Garcia,0.473965,0.526035,RH,RH
+2018-04-28,Karolina Pliskova,Anett Kontaveit,0.5123300000000001,0.48766999999999994,RH,RH
+2018-04-29,Karolina Pliskova,Coco Vandeweghe,0.416595,0.583405,RH,RH
+2018-05-01,Karolina Pliskova,Aliaksandra Sasnovich,0.5113449999999999,0.48865500000000006,RH,RH
+2018-05-05,Kristina Mladenovic,Coco Vandeweghe,0.34377,0.65623,RH,RH
+2018-05-06,Ashleigh Barty,Sara Errani,0.52894,0.47106000000000003,RH,RH
+2018-05-06,Karolina Pliskova,Natalia Vikhlyantseva,0.5113449999999999,0.48865500000000006,RH,RH
+2018-05-06,Johanna Konta,Magdalena Rybarikova,0.48077000000000003,0.51923,RH,RH
+2018-05-07,Caroline Wozniacki,Ashleigh Barty,0.5187299999999999,0.4812700000000001,RH,RH
+2018-05-07,Kiki Bertens,Anastasija Sevastova,0.51699,0.48301000000000005,RH,RH
+2018-05-08,Simona Halep,Elise Mertens,0.5808599999999999,0.41914000000000007,RH,RH
+2018-05-08,Daria Kasatkina,Sorana Cirstea,0.47633000000000003,0.52367,RH,RH
+2018-05-08,Carla Suarez Navarro,Elina Svitolina,0.394505,0.605495,RH,RH
+2018-05-09,Simona Halep,Karolina Pliskova,0.658465,0.34153500000000003,RH,RH
+2018-05-09,Kiki Bertens,Caroline Wozniacki,0.51699,0.48301000000000005,RH,RH
+2018-05-09,Caroline Garcia,Julia Goerges,0.47064,0.52936,RH,RH
+2018-05-09,Daria Kasatkina,Garbine Muguruza,0.5402199999999999,0.4597800000000001,RH,RH
+2018-05-10,Caroline Garcia,Carla Suarez Navarro,0.47064,0.52936,RH,RH
+2018-05-10,Karolina Pliskova,Simona Halep,0.297385,0.702615,RH,RH
+2018-05-11,Kiki Bertens,Caroline Garcia,0.5253950000000001,0.47460499999999994,RH,RH
+2018-05-14,Johanna Konta,Magdalena Rybarikova,0.48077000000000003,0.51923,RH,RH
+2018-05-14,Petra Martic,Lesia Tsurenko,0.52505,0.47495,RH,RH
+2018-05-15,Irina Camelia Begu,Shuai Peng,0.49688,0.50312,RH,RH
+2018-05-16,Simona Halep,Naomi Osaka,0.54223,0.45777,RH,RH
+2018-05-17,Elina Svitolina,Daria Kasatkina,0.6346350000000001,0.36536499999999994,RH,RH
+2018-05-17,Jelena Ostapenko,Johanna Konta,0.5305599999999999,0.4694400000000001,RH,RH
+2018-05-17,Simona Halep,Madison Keys,0.618335,0.38166500000000003,RH,RH
+2018-05-17,Anett Kontaveit,Venus Williams,0.493765,0.506235,RH,RH
+2018-05-17,Caroline Garcia,Sloane Stephens,0.45208,0.54792,RH,RH
+2018-05-17,Caroline Wozniacki,Anastasija Sevastova,0.559525,0.44047499999999995,RH,RH
+2018-05-18,Anett Kontaveit,Caroline Wozniacki,0.41922000000000004,0.58078,RH,RH
+2018-05-18,Simona Halep,Caroline Garcia,0.60699,0.39300999999999997,RH,RH
+2018-05-19,Elina Svitolina,Anett Kontaveit,0.5758300000000001,0.42416999999999994,RH,RH
+2018-05-20,Elina Svitolina,Simona Halep,0.5880799999999999,0.41192000000000006,RH,RH
+2018-05-23,Yulia Putintseva,Sloane Stephens,0.435855,0.564145,RH,RH
+2018-05-24,Johanna Larsson,Karolina Pliskova,0.496135,0.503865,RH,RH
+2018-05-21,Samantha Stosur,Sofia Kenin,0.44523999999999997,0.55476,RH,RH
+2018-05-23,Anastasia Pavlyuchenkova,Natalia Vikhlyantseva,0.36167000000000005,0.63833,RH,RH
+2018-05-24,Anastasia Pavlyuchenkova,Zarina Diyas,0.36167000000000005,0.63833,RH,RH
+2018-05-25,Dominika Cibulkova,Mihaela Buzarnescu,0.492985,0.507015,RH,RH
+2018-05-25,Anastasia Pavlyuchenkova,Ashleigh Barty,0.36167000000000005,0.63833,RH,RH
+2018-05-27,Yulia Putintseva,Johanna Konta,0.435855,0.564145,RH,RH
+2018-05-29,Garbine Muguruza,Svetlana Kuznetsova,0.500895,0.499105,RH,RH
+2018-05-29,Kiki Bertens,Aryna Sabalenka,0.53487,0.46513000000000004,RH,RH
+2018-05-29,Julia Goerges,Dominika Cibulkova,0.5164150000000001,0.48358499999999993,RH,RH
+2018-05-31,Kiki Bertens,Aliaksandra Sasnovich,0.34682,0.65318,RH,RH
+2018-05-31,Serena Williams,Ashleigh Barty,0.58361,0.41639000000000004,RH,RH
+2018-06-01,Daria Kasatkina,Maria Sakkari,0.473915,0.526085,RH,RH
+2018-06-01,Madison Keys,Naomi Osaka,0.46434,0.53566,RH,RH
+2018-06-02,Caroline Garcia,Irina Camelia Begu,0.437305,0.562695,RH,RH
+2018-06-02,Serena Williams,Julia Goerges,0.58361,0.41639000000000004,RH,RH
+2018-06-03,Yulia Putintseva,Barbora Strycova,0.39409,0.60591,RH,RH
+2018-06-03,Sloane Stephens,Anett Kontaveit,0.50407,0.49593,RH,RH
+2018-06-04,Simona Halep,Elise Mertens,0.796295,0.20370500000000002,RH,RH
+2018-06-04,Daria Kasatkina,Caroline Wozniacki,0.473915,0.526085,RH,RH
+2018-06-05,Sloane Stephens,Daria Kasatkina,0.50407,0.49593,RH,RH
+2018-06-06,Simona Halep,Angelique Kerber,0.6049,0.3951,RH,RH
+2018-06-06,Garbine Muguruza,Maria Sharapova,0.5026999999999999,0.4973000000000001,RH,RH
+2018-06-07,Simona Halep,Garbine Muguruza,0.09714,0.90286,RH,RH
+2018-06-07,Sloane Stephens,Madison Keys,0.78989,0.21011000000000002,RH,RH
+2018-06-11,Coco Vandeweghe,Aliaksandra Sasnovich,0.63688,0.36312,RH,RH
+2018-06-12,Alison Riske Amritraj,Tatjana Maria,0.3611,0.6389,RH,RH
+2018-06-15,Coco Vandeweghe,Alison Riske Amritraj,0.491165,0.5088349999999999,RH,RH
+2018-06-16,Ashleigh Barty,Naomi Osaka,0.52894,0.47106000000000003,RH,RH
+2018-06-17,Ashleigh Barty,Johanna Konta,0.52532,0.47468,RH,RH
+2018-06-18,Magdalena Rybarikova,Karolina Pliskova,0.39285,0.6071500000000001,RH,RH
+2018-06-19,Julia Goerges,Maria Sakkari,0.5164150000000001,0.48358499999999993,RH,RH
+2018-06-19,Daria Kasatkina,Karolina Pliskova,0.46604,0.53396,RH,RH
+2018-06-19,Garbine Muguruza,Anastasia Pavlyuchenkova,0.502965,0.497035,RH,RH
+2018-06-21,Julia Goerges,Ashleigh Barty,0.5164150000000001,0.48358499999999993,RH,RH
+2018-06-18,Tatjana Maria,Anett Kontaveit,0.35153999999999996,0.64846,RH,RH
+2018-06-18,Lara Arruabarrena,Carla Suarez Navarro,0.45033,0.54967,RH,RH
+2018-06-19,Anastasija Sevastova,Svetlana Kuznetsova,0.49697,0.50303,RH,RH
+2018-06-20,Caroline Garcia,Johanna Larsson,0.45620499999999997,0.543795,RH,RH
+2018-06-24,Anastasia Pavlyuchenkova,Sorana Cirstea,0.39416,0.6058399999999999,RH,RH
+2018-06-24,Camila Giorgi,Irina Camelia Begu,0.52684,0.47316,RH,RH
+2018-06-25,Karolina Pliskova,Anastasia Pavlyuchenkova,0.654905,0.34509500000000004,RH,RH
+2018-06-26,Danielle Collins,Carla Suarez Navarro,0.5167200000000001,0.48327999999999993,RH,RH
+2018-06-26,Aryna Sabalenka,Julia Goerges,0.507105,0.49289499999999997,RH,RH
+2018-06-26,Su Wei Hsieh,Magdalena Rybarikova,0.40244,0.59756,RH,RH
+2018-06-26,Elise Mertens,Svetlana Kuznetsova,0.514985,0.485015,RH,RH
+2018-06-27,Daria Kasatkina,Anastasija Sevastova,0.46604,0.53396,RH,RH
+2018-06-27,Aryna Sabalenka,Elise Mertens,0.285335,0.714665,RH,RH
+2018-06-27,Caroline Wozniacki,Johanna Konta,0.31472500000000003,0.685275,RH,RH
+2018-06-28,Agnieszka Radwanska,Jelena Ostapenko,0.489985,0.510015,RH,RH
+2018-06-28,Aryna Sabalenka,Karolina Pliskova,0.5108600000000001,0.4891399999999999,RH,RH
+2018-06-28,Caroline Wozniacki,Ashleigh Barty,0.506615,0.49338499999999996,RH,RH
+2018-06-29,Aryna Sabalenka,Agnieszka Radwanska,0.507495,0.49250499999999997,RH,RH
+2018-06-30,Caroline Wozniacki,Aryna Sabalenka,0.506615,0.49338499999999996,RH,RH
+2018-07-03,Su Wei Hsieh,Anastasia Pavlyuchenkova,0.40244,0.59756,RH,RH
+2018-07-05,Ashleigh Barty,Eugenie Bouchard,0.5433399999999999,0.45666000000000007,RH,RH
+2018-07-05,Su Wei Hsieh,Lara Arruabarrena,0.40244,0.59756,RH,RH
+2018-07-05,Simona Halep,Saisai Zheng,0.587995,0.41200499999999995,RH,RH
+2018-07-05,Dominika Cibulkova,Johanna Konta,0.48385500000000004,0.516145,RH,RH
+2018-07-06,Kiki Bertens,Venus Williams,0.41292,0.58708,RH,RH
+2018-07-07,Daria Kasatkina,Ashleigh Barty,0.46604,0.53396,RH,RH
+2018-07-07,Dominika Cibulkova,Elise Mertens,0.47506499999999996,0.524935,RH,RH
+2018-07-09,Dominika Cibulkova,Su Wei Hsieh,0.47506499999999996,0.524935,RH,RH
+2018-07-09,Jelena Ostapenko,Aliaksandra Sasnovich,0.641535,0.35846500000000003,RH,RH
+2018-07-09,Kiki Bertens,Karolina Pliskova,0.54724,0.45276000000000005,RH,RH
+2018-07-10,Julia Goerges,Kiki Bertens,0.12253,0.87747,RH,RH
+2018-07-10,Serena Williams,Camila Giorgi,0.581875,0.41812499999999997,RH,RH
+2018-07-12,Serena Williams,Julia Goerges,0.5907,0.4093,RH,RH
+2018-07-20,Anastasija Sevastova,Sorana Cirstea,0.8359300000000001,0.16406999999999994,RH,RH
+2018-07-24,Karolina Pliskova,Katerina Siniakova,0.51229,0.48771,RH,RH
+2018-07-27,Aliaksandra Sasnovich,Anastasija Sevastova,0.4496,0.5504,RH,RH
+2018-08-03,Elise Mertens,Johanna Konta,0.518485,0.481515,RH,RH
+2018-08-06,Karolina Pliskova,Katerina Siniakova,0.51934,0.48066,RH,RH
+2018-08-07,Johanna Konta,Jelena Ostapenko,0.47039000000000003,0.5296099999999999,RH,RH
+2018-08-07,Elise Mertens,Eugenie Bouchard,0.518485,0.481515,RH,RH
+2018-08-07,Daria Kasatkina,Maria Sakkari,0.45621500000000004,0.543785,RH,RH
+2018-08-08,Carla Suarez Navarro,Lesia Tsurenko,0.42463,0.5753699999999999,RH,RH
+2018-08-08,Kiki Bertens,Karolina Pliskova,0.5252,0.4748,RH,RH
+2018-08-08,Maria Sharapova,Daria Kasatkina,0.454345,0.545655,RH,RH
+2018-08-08,Elina Svitolina,Mihaela Buzarnescu,0.421805,0.578195,RH,RH
+2018-08-08,Elise Mertens,Shuai Zhang,0.518485,0.481515,RH,RH
+2018-08-09,Aryna Sabalenka,Caroline Wozniacki,0.43586,0.56414,RH,RH
+2018-08-09,Sloane Stephens,Carla Suarez Navarro,0.496035,0.503965,RH,RH
+2018-08-09,Anastasija Sevastova,Julia Goerges,0.49849,0.50151,RH,RH
+2018-08-09,Elina Svitolina,Johanna Konta,0.5394950000000001,0.46050499999999994,RH,RH
+2018-08-10,Elise Mertens,Aryna Sabalenka,0.605205,0.394795,RH,RH
+2018-08-10,Simona Halep,Venus Williams,0.577565,0.422435,RH,RH
+2018-08-10,Ashleigh Barty,Kiki Bertens,0.526285,0.473715,RH,RH
+2018-08-10,Sloane Stephens,Anastasija Sevastova,0.496035,0.503965,RH,RH
+2018-08-10,Simona Halep,Caroline Garcia,0.646415,0.35358500000000004,RH,RH
+2018-08-11,Elina Svitolina,Elise Mertens,0.44894500000000004,0.551055,RH,RH
+2018-08-11,Simona Halep,Ashleigh Barty,0.57904,0.42096,RH,RH
+2018-08-11,Sloane Stephens,Elina Svitolina,0.496035,0.503965,RH,RH
+2018-08-13,Aryna Sabalenka,Johanna Konta,0.504015,0.495985,RH,RH
+2018-08-14,Alize Cornet,Jelena Ostapenko,0.42674,0.57326,RH,RH
+2018-08-14,Elise Mertens,Magdalena Rybarikova,0.5117400000000001,0.4882599999999999,RH,RH
+2018-08-14,Karolina Pliskova,Agnieszka Radwanska,0.37131000000000003,0.62869,RH,RH
+2018-08-14,Kiki Bertens,Coco Vandeweghe,0.5252,0.4748,RH,RH
+2018-08-14,Petra Martic,Daria Kasatkina,0.5099,0.4901,RH,RH
+2018-08-15,Elina Svitolina,Svetlana Kuznetsova,0.57989,0.42011,RH,RH
+2018-08-15,Aryna Sabalenka,Karolina Pliskova,0.478435,0.5215650000000001,RH,RH
+2018-08-15,Sloane Stephens,Tatjana Maria,0.496985,0.503015,RH,RH
+2018-08-15,Lesia Tsurenko,Garbine Muguruza,0.322175,0.677825,RH,RH
+2018-08-16,Kiki Bertens,Caroline Wozniacki,0.7560899999999999,0.24391000000000007,RH,RH
+2018-08-16,Aryna Sabalenka,Caroline Garcia,0.50625,0.49375,RH,RH
+2018-08-16,Elise Mertens,Sloane Stephens,0.5117400000000001,0.4882599999999999,RH,RH
+2018-08-17,Simona Halep,Ashleigh Barty,0.72536,0.27464,RH,RH
+2018-08-17,Kiki Bertens,Anett Kontaveit,0.564445,0.435555,RH,RH
+2018-08-17,Simona Halep,Lesia Tsurenko,0.57988,0.42012000000000005,RH,RH
+2018-08-17,Kiki Bertens,Elina Svitolina,0.5252,0.4748,RH,RH
+2018-08-18,Aryna Sabalenka,Madison Keys,0.505655,0.49434500000000003,RH,RH
+2018-08-19,Magdalena Rybarikova,Coco Vandeweghe,0.662995,0.337005,RH,RH
+2018-08-19,Julia Goerges,Dominika Cibulkova,0.509475,0.490525,RH,RH
+2018-08-20,Aliaksandra Sasnovich,Kristina Mladenovic,0.454385,0.545615,RH,RH
+2018-08-24,Aryna Sabalenka,Julia Goerges,0.467495,0.532505,RH,RH
+2018-08-27,Kaia Kanepi,Simona Halep,0.376265,0.6237349999999999,RH,RH
+2018-08-27,Garbine Muguruza,Shuai Zhang,0.511405,0.488595,RH,RH
+2018-08-27,Venus Williams,Svetlana Kuznetsova,0.4936,0.5064,RH,RH
+2018-08-27,Anastasija Sevastova,Donna Vekic,0.691235,0.30876499999999996,RH,RH
+2018-08-28,Caroline Wozniacki,Samantha Stosur,0.500765,0.499235,RH,RH
+2018-08-28,Kirsten Flipkens,Coco Vandeweghe,0.403675,0.596325,RH,RH
+2018-08-28,Kiki Bertens,Karolina Pliskova,0.524205,0.47579499999999997,RH,RH
+2018-08-28,Aliaksandra Sasnovich,Belinda Bencic,0.43328,0.56672,RH,RH
+2018-08-28,Caroline Garcia,Johanna Konta,0.44560500000000003,0.554395,RH,RH
+2018-08-29,Kristina Mladenovic,Tamara Zidansek,0.48295999999999994,0.51704,RH,RH
+2018-08-29,Elina Svitolina,Tatjana Maria,0.5837300000000001,0.4162699999999999,RH,RH
+2018-08-29,Qiang Wang,Irina Camelia Begu,0.47782,0.52218,RH,RH
+2018-08-30,Sofia Kenin,Maria Sakkari,0.47421,0.52579,RH,RH
+2018-08-30,Aliaksandra Sasnovich,Daria Kasatkina,0.43328,0.56672,RH,RH
+2018-08-30,Dominika Cibulkova,Su Wei Hsieh,0.770595,0.22940499999999997,RH,RH
+2018-08-31,Lesia Tsurenko,Caroline Wozniacki,0.46432,0.5356799999999999,RH,RH
+2018-09-01,Carla Suarez Navarro,Caroline Garcia,0.416105,0.583895,RH,RH
+2018-09-02,Karolina Pliskova,Ashleigh Barty,0.41664999999999996,0.58335,RH,RH
+2018-09-02,Anastasija Sevastova,Elina Svitolina,0.501015,0.498985,RH,RH
+2018-09-03,Sloane Stephens,Elise Mertens,0.30925,0.69075,RH,RH
+2018-09-03,Naomi Osaka,Aryna Sabalenka,0.498185,0.501815,RH,RH
+2018-09-04,Carla Suarez Navarro,Maria Sharapova,0.416105,0.583895,RH,RH
+2018-09-04,Anastasija Sevastova,Sloane Stephens,0.50691,0.49309000000000003,RH,RH
+2018-09-05,Naomi Osaka,Lesia Tsurenko,0.500665,0.499335,RH,RH
+2018-09-06,Madison Keys,Carla Suarez Navarro,0.48809,0.51191,RH,RH
+2018-09-07,Serena Williams,Anastasija Sevastova,0.60335,0.39664999999999995,RH,RH
+2018-09-07,Naomi Osaka,Madison Keys,0.500665,0.499335,RH,RH
+2018-09-15,Su Wei Hsieh,Qiang Wang,0.318985,0.6810149999999999,RH,RH
+2018-09-10,Christina Mchale,Dayana Yastremska,0.393325,0.6066750000000001,RH,RH
+2018-09-19,Ajla Tomljanovic,Tamara Zidansek,0.32136,0.67864,RH,RH
+2018-09-21,Maria Sakkari,Irina Camelia Begu,0.46482999999999997,0.53517,RH,RH
+2018-09-22,Kiki Bertens,Maria Sakkari,0.529415,0.47058500000000003,RH,RH
+2018-09-18,Ashleigh Barty,Coco Vandeweghe,0.512785,0.48721499999999995,RH,RH
+2018-09-19,Naomi Osaka,Dominika Cibulkova,0.515555,0.484445,RH,RH
+2018-09-20,Donna Vekic,Johanna Konta,0.50414,0.49585999999999997,RH,RH
+2018-09-22,Karolina Pliskova,Donna Vekic,0.504895,0.495105,RH,RH
+2018-09-23,Karolina Pliskova,Naomi Osaka,0.241285,0.758715,RH,RH
+2018-09-23,Katerina Siniakova,Kristina Mladenovic,0.522405,0.477595,RH,RH
+2018-09-23,Anastasia Pavlyuchenkova,Anastasija Sevastova,0.40536,0.5946400000000001,RH,RH
+2018-09-23,Daria Kasatkina,Lesia Tsurenko,0.45621500000000004,0.543785,RH,RH
+2018-09-23,Aliaksandra Sasnovich,Elise Mertens,0.43328,0.56672,RH,RH
+2018-09-24,Aryna Sabalenka,Carla Suarez Navarro,0.603,0.397,RH,RH
+2018-09-24,Ashleigh Barty,Johanna Konta,0.48640500000000003,0.513595,RH,RH
+2018-09-25,Aryna Sabalenka,Elina Svitolina,0.51098,0.48902,RH,RH
+2018-09-25,Anastasia Pavlyuchenkova,Kiki Bertens,0.40536,0.5946400000000001,RH,RH
+2018-09-26,Dominika Cibulkova,Daria Kasatkina,0.45233999999999996,0.54766,RH,RH
+2018-09-26,Katerina Siniakova,Garbine Muguruza,0.522405,0.477595,RH,RH
+2018-09-27,Ashleigh Barty,Anastasia Pavlyuchenkova,0.512785,0.48721499999999995,RH,RH
+2018-09-28,Anett Kontaveit,Qiang Wang,0.49726499999999996,0.502735,RH,RH
+2018-09-28,Aryna Sabalenka,Ashleigh Barty,0.44794,0.55206,RH,RH
+2018-09-29,Aryna Sabalenka,Anett Kontaveit,0.5163,0.4837,RH,RH
+2018-09-29,Jelena Ostapenko,Magdalena Rybarikova,0.49606,0.50394,RH,RH
+2018-09-29,Julia Goerges,Johanna Konta,0.49632,0.50368,RH,RH
+2018-09-30,Ons Jabeur,Simona Halep,0.386565,0.613435,RH,RH
+2018-09-30,Sloane Stephens,Anastasia Pavlyuchenkova,0.50752,0.49248000000000003,RH,RH
+2018-09-30,Kiki Bertens,Sorana Cirstea,0.5317350000000001,0.46826499999999993,RH,RH
+2018-10-01,Karolina Pliskova,Samantha Stosur,0.50768,0.49232,RH,RH
+2018-10-01,Carla Suarez Navarro,Yulia Putintseva,0.42462,0.57538,RH,RH
+2018-10-01,Shuai Zhang,Elise Mertens,0.506155,0.493845,RH,RH
+2018-10-01,Julia Goerges,Lesia Tsurenko,0.61087,0.38913,RH,RH
+2018-10-01,Anastasija Sevastova,Madison Keys,0.495195,0.504805,RH,RH
+2018-10-02,Aryna Sabalenka,Garbine Muguruza,0.51917,0.48083,RH,RH
+2018-10-03,Caroline Wozniacki,Petra Martic,0.49799,0.5020100000000001,RH,RH
+2018-10-03,Anastasija Sevastova,Donna Vekic,0.691235,0.30876499999999996,RH,RH
+2018-10-03,Dominika Cibulkova,Sloane Stephens,0.429145,0.570855,RH,RH
+2018-10-04,Naomi Osaka,Julia Goerges,0.36413,0.6358699999999999,RH,RH
+2018-10-04,Caroline Wozniacki,Anett Kontaveit,0.444575,0.5554250000000001,RH,RH
+2018-10-04,Aryna Sabalenka,Caroline Garcia,0.512555,0.487445,RH,RH
+2018-10-05,Anastasija Sevastova,Dominika Cibulkova,0.495195,0.504805,RH,RH
+2018-10-05,Caroline Wozniacki,Katerina Siniakova,0.36302,0.63698,RH,RH
+2018-10-06,Anastasija Sevastova,Naomi Osaka,0.495195,0.504805,RH,RH
+2018-10-06,Caroline Wozniacki,Qiang Wang,0.67676,0.32323999999999997,RH,RH
+2018-10-07,Caroline Wozniacki,Anastasija Sevastova,0.559525,0.44047499999999995,RH,RH
+2018-10-13,Qiang Wang,Elina Svitolina,0.507155,0.492845,RH,RH
+2018-10-13,Qiang Wang,Garbine Muguruza,0.507155,0.492845,RH,RH
+2018-10-12,Su Wei Hsieh,Elise Mertens,0.08180000000000001,0.9182,RH,RH
+2018-10-13,Caroline Garcia,Su Wei Hsieh,0.43706500000000004,0.562935,RH,RH
+2018-10-14,Caroline Garcia,Karolina Pliskova,0.33621,0.66379,RH,RH
+2018-10-16,Carla Suarez Navarro,Karolina Pliskova,0.376065,0.623935,RH,RH
+2018-10-18,Julia Goerges,Donna Vekic,0.49632,0.50368,RH,RH
+2018-10-15,Daria Kasatkina,Lesia Tsurenko,0.45621500000000004,0.543785,RH,RH
+2018-10-16,Johanna Konta,Elise Mertens,0.476565,0.523435,RH,RH
+2018-10-17,Anastasija Sevastova,Yulia Putintseva,0.643355,0.356645,RH,RH
+2018-10-18,Daria Kasatkina,Anastasia Pavlyuchenkova,0.45621500000000004,0.543785,RH,RH
+2018-10-19,Daria Kasatkina,Johanna Konta,0.52133,0.47867000000000004,RH,RH
+2018-10-21,Karolina Pliskova,Caroline Wozniacki,0.507745,0.492255,RH,RH
+2018-10-22,Sloane Stephens,Naomi Osaka,0.50752,0.49248000000000003,RH,RH
+2018-10-23,Elina Svitolina,Karolina Pliskova,0.60444,0.39556,RH,RH
+2018-10-24,Sloane Stephens,Kiki Bertens,0.51096,0.48904000000000003,RH,RH
+2018-10-25,Elina Svitolina,Caroline Wozniacki,0.674985,0.32501500000000005,RH,RH
+2018-10-26,Kiki Bertens,Naomi Osaka,0.527555,0.472445,RH,RH
+2018-10-27,Elina Svitolina,Kiki Bertens,0.38651,0.61349,RH,RH
+2018-10-27,Sloane Stephens,Karolina Pliskova,0.50631,0.49368999999999996,RH,RH
+2018-10-28,Elina Svitolina,Sloane Stephens,0.40954999999999997,0.59045,RH,RH
+2018-10-30,Aryna Sabalenka,Ashleigh Barty,0.5069,0.4931,RH,RH
+2018-10-30,Elise Mertens,Anett Kontaveit,0.44711,0.55289,RH,RH
+2018-10-30,Daria Kasatkina,Qiang Wang,0.48029,0.51971,RH,RH
+2018-10-31,Anett Kontaveit,Julia Goerges,0.476955,0.523045,RH,RH
+2018-10-31,Madison Keys,Daria Kasatkina,0.5049600000000001,0.4950399999999999,RH,RH
+2018-10-31,Garbine Muguruza,Shuai Zhang,0.51271,0.48729,RH,RH
+2018-11-01,Ashleigh Barty,Caroline Garcia,0.425255,0.5747450000000001,RH,RH
+2018-11-01,Julia Goerges,Elise Mertens,0.502795,0.497205,RH,RH
+2018-11-02,Caroline Garcia,Aryna Sabalenka,0.411325,0.5886750000000001,RH,RH
+2018-11-02,Garbine Muguruza,Anastasija Sevastova,0.51432,0.48568,RH,RH
+2018-11-02,Qiang Wang,Madison Keys,0.50529,0.49471,RH,RH
+2018-11-03,Ashleigh Barty,Julia Goerges,0.50451,0.49549,RH,RH
+2018-11-03,Qiang Wang,Garbine Muguruza,0.533435,0.466565,RH,RH
+2018-11-04,Ashleigh Barty,Qiang Wang,0.50451,0.49549,RH,RH
