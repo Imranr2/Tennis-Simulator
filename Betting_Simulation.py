@@ -10,7 +10,7 @@ import os
 warnings.simplefilter("ignore")
 
 print('------------------------------------------')
-for model in ["APPROACH", "DEPTH", "EXTRA_SHOTS", "PREV_SHOTS", "BASELINE"]:
+for model in ["APPROACH_LSSV", "APPROACH_NORMAL", "APPROACH", "DEPTH", "EXTRA_SHOTS", "PREV_SHOTS", "BASELINE"]:
     print(f"Model: {model}")
     print('------------------------------------------')
 

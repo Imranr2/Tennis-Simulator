@@ -6,8 +6,8 @@ import csv
 def callPAT(patPath, count):
   patOutputFile =  "./result.txt"
   
-  for model in ["BASELINE", "DEPTH", "EXTRA_SHOTS", "PREV_SHOTS", "BASELINE"]:
-    mdpPredFile = f"./MDP_pred_{model}.csv"
+  for model in ["APPROACH_LSSV", "APPROACH_NORMAL", "APPROACH", "DEPTH", "EXTRA_SHOTS", "PREV_SHOTS", "BASELINE"]:
+    mdpPredFile = f"./MDP_pred.csv"
 
     f = open(patOutputFile, "w")
     f.close()
@@ -34,8 +34,8 @@ def callPAT(patPath, count):
       
       curLine = mdpPredLines[i]
       curLine[3], curLine[4] = p1Win, p2Win
-      if p1Win == 0 or p2Win == 0:
-        continue
+      # if p1Win == 0 or p2Win == 0:
+      #   continue
       newMdpPred.writerow(curLine)
 
 args = sys.argv
