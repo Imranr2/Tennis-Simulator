@@ -23,5 +23,5 @@ df.columns = ['ply1_name', 'ply2_name', 'ply1_hand', 'ply2_hand', 'ply1_points',
                 'prev_prev_shot_fault_type', 'url', 'description']
 
 # Replace 'column_name' with the actual name of the column you want to analyze.
-value_distribution = df.query("prev_prev_shot_approach_shot == 1")['shot'].value_counts()
+value_distribution = df.query('approach_shot == 1')['shot'].value_counts()
 print(value_distribution)

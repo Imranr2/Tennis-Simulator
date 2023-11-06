@@ -283,7 +283,7 @@ var points = 7;
 #define p273 0;
 #define p274 4;
 #define p275 28;
-#define p276 0;
+#define p276 1;
 #define p277 0;
 #define p278 0;
 #define p279 0;

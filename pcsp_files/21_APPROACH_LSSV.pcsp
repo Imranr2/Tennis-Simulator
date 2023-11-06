@@ -301,7 +301,7 @@ var points = 7;
 #define p291 0;
 #define p292 0;
 #define p293 0;
-#define p294 0;
+#define p294 1;
 #define p295 0;
 #define p296 0;
 #define p297 0;
