@@ -30,9 +30,9 @@ def get_params_helper(df, hand):
     De_Stroke_A = df.query('shot_type==4 and from_which_court==1 and prev_shot_approach_shot==1')
     Mid_Stroke_A = df.query('shot_type==4 and from_which_court==2 and prev_shot_approach_shot==1')
     Ad_Stroke_A = df.query('shot_type==4 and from_which_court==3 and prev_shot_approach_shot==1')
-    De_Stroke_NLV = df.query('shot_type==4 and from_which_court==1 and prev_prev_shot_approach_shot==1 and prev_shot not in [1, 3, 11, 22, 24, 32]')
-    Mid_Stroke_NLV = df.query('shot_type==4 and from_which_court==2 and prev_prev_shot_approach_shot==1 and prev_shot not in [1, 3, 11, 22, 24, 32]')
-    Ad_Stroke_NLV = df.query('shot_type==4 and from_which_court==3 and prev_prev_shot_approach_shot==1 and prev_shot not in [1, 3, 11, 22, 24, 32]')
+    De_Stroke_NLV = df.query('shot_type==4 and from_which_court==1 and prev_prev_shot_approach_shot==1 and prev_shot not in [3, 11, 24, 32]')
+    Mid_Stroke_NLV = df.query('shot_type==4 and from_which_court==2 and prev_prev_shot_approach_shot==1 and prev_shot not in [3, 11, 24, 32]')
+    Ad_Stroke_NLV = df.query('shot_type==4 and from_which_court==3 and prev_prev_shot_approach_shot==1 and prev_shot not in [3, 11, 24, 32]')
 
     results = []
     # Serve
@@ -113,11 +113,11 @@ def get_params_helper(df, hand):
         results.append(result)
     
     for i, Stroke in enumerate([De_Stroke_A, Mid_Stroke_A, Ad_Stroke_A]):
-        FH_Stroke_LV = Stroke.query('shot<=20 and shot in [1, 3, 11]')
-        BH_Stroke_LV = Stroke.query('shot<=40 and shot in [22, 24, 32]')
+        FH_Stroke_LV = Stroke.query('shot<=20 and shot in [3, 11]')
+        BH_Stroke_LV = Stroke.query('shot<=40 and shot in [24, 32]')
 
-        FH_Stroke_NLV = Stroke.query('shot<=20 and shot not in [1, 3, 11]')
-        BH_Stroke_NLV = Stroke.query('shot<=40 and shot>20 and shot not in [22, 24, 32]')
+        FH_Stroke_NLV = Stroke.query('shot<=20 and shot not in [3, 11]')
+        BH_Stroke_NLV = Stroke.query('shot<=40 and shot>20 and shot not in [24, 32]')
 
         FH_shots_LV  = [FH_Stroke_LV.query('to_which_court==@to_dir')
                             for to_dir in directions[i % 3][0]]
@@ -145,8 +145,8 @@ def get_params_helper(df, hand):
         results.append(result)
 
     for i, Stroke in enumerate([De_Stroke_NLV, Mid_Stroke_NLV, Ad_Stroke_NLV]):
-        FH_Stroke_V = Stroke.query('shot<=20 and shot not in [1, 5, 7, 13, 15]')
-        BH_Stroke_V = Stroke.query('shot<=40 and shot>20 and shot not in [22, 28, 34, 36]')
+        FH_Stroke_V = Stroke.query('shot<=20 and shot not in [5, 7, 15]')
+        BH_Stroke_V = Stroke.query('shot<=40 and shot>20 and shot not in [26, 28, 36]')
 
         FH_shots_V = [FH_Stroke_V.query('to_which_court==@to_dir')
                             for to_dir in directions[i % 3][0]]
@@ -158,7 +158,7 @@ def get_params_helper(df, hand):
         BH_stroke_in_V = [len(x.query('shot_outcome==7'))
                                 for x in BH_shots_V]
 
-        stroke_win = [len(Stroke.query('(shot_outcome == 7 and shot in [1, 5, 7, 13, 15, 22, 28, 34, 36]) or shot_outcome in [1, 5, 6]'))]
+        stroke_win = [len(Stroke.query('(shot_outcome == 7 and shot in [5, 7, 15, 26, 28, 36]) or shot_outcome in [1, 5, 6]'))]
         stroke_err = [len(Stroke.query('shot_outcome in [2, 3, 4]'))]
         result = FH_stroke_in_V + BH_stroke_in_V + stroke_win + stroke_err
 

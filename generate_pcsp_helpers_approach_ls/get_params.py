@@ -30,9 +30,9 @@ def get_params_helper(df, hand):
     De_Stroke_A = df.query('shot_type==4 and from_which_court==1 and prev_shot_approach_shot==1')
     Mid_Stroke_A = df.query('shot_type==4 and from_which_court==2 and prev_shot_approach_shot==1')
     Ad_Stroke_A = df.query('shot_type==4 and from_which_court==3 and prev_shot_approach_shot==1')
-    De_Stroke_NLV = df.query('shot_type==4 and from_which_court==1 and prev_prev_shot_approach_shot==1 and prev_shot not in [1, 3, 11, 22, 24, 32]')
-    Mid_Stroke_NLV = df.query('shot_type==4 and from_which_court==2 and prev_prev_shot_approach_shot==1 and prev_shot not in [1, 3, 11, 22, 24, 32]')
-    Ad_Stroke_NLV = df.query('shot_type==4 and from_which_court==3 and prev_prev_shot_approach_shot==1 and prev_shot not in [1, 3, 11, 22, 24, 32]')
+    De_Stroke_NLV = df.query('shot_type==4 and from_which_court==1 and prev_prev_shot_approach_shot==1 and prev_shot not in [3, 11, 24, 32]')
+    Mid_Stroke_NLV = df.query('shot_type==4 and from_which_court==2 and prev_prev_shot_approach_shot==1 and prev_shot not in [3, 11, 24, 32]')
+    Ad_Stroke_NLV = df.query('shot_type==4 and from_which_court==3 and prev_prev_shot_approach_shot==1 and prev_shot not in [3, 11, 24, 32]')
 
     results = []
     # Serve
@@ -113,11 +113,11 @@ def get_params_helper(df, hand):
         results.append(result)
     
     for i, Stroke in enumerate([De_Stroke_A, Mid_Stroke_A, Ad_Stroke_A]):
-        FH_Stroke_LV = Stroke.query('shot<=20 and shot in [1, 3, 11]')
-        BH_Stroke_LV = Stroke.query('shot<=40 and shot in [22, 24, 32]')
+        FH_Stroke_LV = Stroke.query('shot<=20 and shot in [3, 11]')
+        BH_Stroke_LV = Stroke.query('shot<=40 and shot in [24, 32]')
 
-        FH_Stroke_NLV = Stroke.query('shot<=20 and shot not in [1, 3, 11]')
-        BH_Stroke_NLV = Stroke.query('shot<=40 and shot>20 and shot not in [22, 24, 32]')
+        FH_Stroke_NLV = Stroke.query('shot<=20 and shot not in [3, 11]')
+        BH_Stroke_NLV = Stroke.query('shot<=40 and shot>20 and shot not in [24, 32]')
 
         FH_shots_LV  = [FH_Stroke_LV.query('to_which_court==@to_dir')
                             for to_dir in directions[i % 3][0]]
@@ -175,6 +175,7 @@ def get_params(data, date, ply1_name, ply2_name, ply1_hand, ply2_hand):
         'date>=@prev_date and date<@date and ply1_name==@ply1_name and ply2_name==@ply2_name')
     data_ply2 = data.query(
         'date>=@prev_date and date<@date and ply1_name==@ply2_name and ply2_name==@ply1_name')
+
 
     # number of matches played
     num_ply1_prev_n = len(data_ply1.date.unique())
