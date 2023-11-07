@@ -6,7 +6,7 @@ import csv
 def callPAT(patPath, count):
   patOutputFile =  "./result.txt"
   
-  for model in ["APPROACH_LSSV", "APPROACH_NORMAL", "APPROACH", "DEPTH", "EXTRA_SHOTS", "PREV_SHOTS", "BASELINE"]:
+  for model in ["APPROACH_NORMAL", "APPROACH"]:
     mdpPredFile = f"./MDP_pred.csv"
 
     f = open(patOutputFile, "w")

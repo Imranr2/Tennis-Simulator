@@ -22,20 +22,20 @@ with open('MDP_pred.csv', newline='') as pred_file:
             date_obj = datetime.datetime.strptime(row['date'], '%Y-%m-%d')
             end_date = date_obj - datetime.timedelta(days=1)
 
-            # generate_pcsp_approach(
-            #     data, end_date.strftime('%Y-%m-%d'), row['P1Name'], row['P2Name'],
-            #     row['P1Hand'], row['P2Hand'], "./pcsp_files/" + f"{i + 1}_APPROACH.pcsp"
-            # )
-
-            # generate_pcsp_approach_ls(
-            #     data, end_date.strftime('%Y-%m-%d'), row['P1Name'], row['P2Name'],
-            #     row['P1Hand'], row['P2Hand'], "./pcsp_files/" + f"{i + 1}_APPROACH_NORMAL.pcsp"
-            # )
-
-            generate_pcsp_approach_lssv(
+            generate_pcsp_approach(
                 data, end_date.strftime('%Y-%m-%d'), row['P1Name'], row['P2Name'],
-                row['P1Hand'], row['P2Hand'], "./pcsp_files/" + f"{i + 1}_APPROACH_LSSV.pcsp"
+                row['P1Hand'], row['P2Hand'], "./pcsp_files/" + f"{i + 1}_APPROACH.pcsp"
             )
+
+            generate_pcsp_approach_ls(
+                data, end_date.strftime('%Y-%m-%d'), row['P1Name'], row['P2Name'],
+                row['P1Hand'], row['P2Hand'], "./pcsp_files/" + f"{i + 1}_APPROACH_NORMAL.pcsp"
+            )
+
+            # generate_pcsp_approach_lssv(
+            #     data, end_date.strftime('%Y-%m-%d'), row['P1Name'], row['P2Name'],
+            #     row['P1Hand'], row['P2Hand'], "./pcsp_files/" + f"{i + 1}_APPROACH_LSSV.pcsp"
+            # )
 
             # generate_pcsp_depth(
             #     data, end_date.strftime('%Y-%m-%d'), row['P1Name'], row['P2Name'],
