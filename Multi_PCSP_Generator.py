@@ -32,10 +32,10 @@ with open('MDP_pred.csv', newline='') as pred_file:
                 row['P1Hand'], row['P2Hand'], "./pcsp_files/" + f"{i + 1}_APPROACH_NORMAL.pcsp"
             )
 
-            # generate_pcsp_approach_lssv(
-            #     data, end_date.strftime('%Y-%m-%d'), row['P1Name'], row['P2Name'],
-            #     row['P1Hand'], row['P2Hand'], "./pcsp_files/" + f"{i + 1}_APPROACH_LSSV.pcsp"
-            # )
+            generate_pcsp_approach_lssv(
+                data, end_date.strftime('%Y-%m-%d'), row['P1Name'], row['P2Name'],
+                row['P1Hand'], row['P2Hand'], "./pcsp_files/" + f"{i + 1}_APPROACH_LSSV.pcsp"
+            )
 
             # generate_pcsp_depth(
             #     data, end_date.strftime('%Y-%m-%d'), row['P1Name'], row['P2Name'],

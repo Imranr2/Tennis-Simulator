@@ -30,9 +30,9 @@ def get_params_helper(df, hand):
     De_Stroke_A = df.query('shot_type==4 and from_which_court==1 and prev_shot_approach_shot==1')
     Mid_Stroke_A = df.query('shot_type==4 and from_which_court==2 and prev_shot_approach_shot==1')
     Ad_Stroke_A = df.query('shot_type==4 and from_which_court==3 and prev_shot_approach_shot==1')
-    De_Stroke_NLV = df.query('shot_type==4 and from_which_court==1 and prev_shot not in [5, 26, 11, 32, 15, 36]')
-    Mid_Stroke_NLV = df.query('shot_type==4 and from_which_court==2 and prev_shot not in [5, 26, 11, 32, 15, 36]')
-    Ad_Stroke_NLV = df.query('shot_type==4 and from_which_court==3 and prev_shot not in [5, 26, 11, 32, 15, 36]')
+    De_Stroke_NLV = df.query('shot_type==4 and from_which_court==1 and prev_prev_shot_approach_shot==1 and prev_shot not in [5, 26, 11, 32, 15, 36]')
+    Mid_Stroke_NLV = df.query('shot_type==4 and from_which_court==2 and prev_prev_shot_approach_shot==1 and prev_shot not in [5, 26, 11, 32, 15, 36]')
+    Ad_Stroke_NLV = df.query('shot_type==4 and from_which_court==3 and prev_prev_shot_approach_shot==1 and prev_shot not in [5, 26, 11, 32, 15, 36]')
 
     results = []
     # Serve
