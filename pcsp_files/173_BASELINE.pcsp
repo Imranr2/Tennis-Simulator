@@ -7,138 +7,138 @@ var nscore = 0;
 var won = na;
 var ball = 9;
 var points = 7;
-#define p0 23;
-#define p1 12;
-#define p2 56;
-#define p3 19;
-#define p4 69;
-#define p5 18;
-#define p6 40;
-#define p7 5;
-#define p8 1;
+#define p0 68;
+#define p1 29;
+#define p2 31;
+#define p3 13;
+#define p4 48;
+#define p5 25;
+#define p6 11;
+#define p7 7;
+#define p8 0;
 #define p9 5;
-#define p10 34;
-#define p11 4;
-#define p12 46;
-#define p13 17;
-#define p14 62;
+#define p10 20;
+#define p11 20;
+#define p12 63;
+#define p13 12;
+#define p14 60;
 #define p15 3;
-#define p16 33;
-#define p17 21;
+#define p16 19;
+#define p17 35;
 #define p18 0;
-#define p19 5;
-#define p20 10;
-#define p21 5;
-#define p22 28;
-#define p23 0;
-#define p24 24;
-#define p25 9;
-#define p26 5;
+#define p19 3;
+#define p20 4;
+#define p21 0;
+#define p22 1;
+#define p23 36;
+#define p24 1;
+#define p25 16;
+#define p26 29;
 #define p27 2;
-#define p28 32;
+#define p28 37;
 #define p29 2;
-#define p30 27;
-#define p31 5;
-#define p32 8;
-#define p33 9;
-#define p34 42;
-#define p35 1;
-#define p36 16;
-#define p37 15;
-#define p38 4;
-#define p39 34;
-#define p40 0;
-#define p41 19;
-#define p42 70;
-#define p43 44;
-#define p44 55;
-#define p45 0;
-#define p46 0;
-#define p47 0;
-#define p48 14;
-#define p49 52;
-#define p50 73;
-#define p51 84;
-#define p52 56;
-#define p53 13;
-#define p54 35;
-#define p55 54;
-#define p56 26;
-#define p57 38;
-#define p58 16;
-#define p59 3;
-#define p60 1;
-#define p61 107;
-#define p62 37;
-#define p63 64;
-#define p64 15;
-#define p65 49;
-#define p66 34;
-#define p67 14;
-#define p68 47;
-#define p69 25;
-#define p70 65;
-#define p71 17;
-#define p72 33;
-#define p73 3;
-#define p74 0;
-#define p75 12;
-#define p76 41;
-#define p77 8;
-#define p78 30;
-#define p79 17;
-#define p80 77;
-#define p81 8;
-#define p82 35;
-#define p83 27;
-#define p84 1;
-#define p85 6;
-#define p86 15;
-#define p87 9;
-#define p88 36;
-#define p89 0;
-#define p90 33;
-#define p91 14;
-#define p92 2;
-#define p93 4;
-#define p94 26;
-#define p95 1;
-#define p96 14;
-#define p97 1;
-#define p98 2;
-#define p99 4;
-#define p100 37;
-#define p101 0;
-#define p102 9;
-#define p103 16;
-#define p104 4;
-#define p105 34;
+#define p30 20;
+#define p31 16;
+#define p32 7;
+#define p33 56;
+#define p34 1;
+#define p35 23;
+#define p36 0;
+#define p37 1;
+#define p38 14;
+#define p39 31;
+#define p40 1;
+#define p41 21;
+#define p42 13;
+#define p43 13;
+#define p44 9;
+#define p45 66;
+#define p46 47;
+#define p47 128;
+#define p48 26;
+#define p49 61;
+#define p50 62;
+#define p51 142;
+#define p52 68;
+#define p53 20;
+#define p54 27;
+#define p55 52;
+#define p56 38;
+#define p57 55;
+#define p58 147;
+#define p59 36;
+#define p60 62;
+#define p61 0;
+#define p62 0;
+#define p63 0;
+#define p64 21;
+#define p65 48;
+#define p66 27;
+#define p67 15;
+#define p68 63;
+#define p69 30;
+#define p70 66;
+#define p71 13;
+#define p72 13;
+#define p73 30;
+#define p74 3;
+#define p75 7;
+#define p76 33;
+#define p77 30;
+#define p78 39;
+#define p79 16;
+#define p80 65;
+#define p81 15;
+#define p82 23;
+#define p83 21;
+#define p84 3;
+#define p85 3;
+#define p86 24;
+#define p87 3;
+#define p88 21;
+#define p89 2;
+#define p90 13;
+#define p91 6;
+#define p92 3;
+#define p93 1;
+#define p94 25;
+#define p95 0;
+#define p96 8;
+#define p97 9;
+#define p98 1;
+#define p99 19;
+#define p100 58;
+#define p101 1;
+#define p102 12;
+#define p103 33;
+#define p104 5;
+#define p105 51;
 #define p106 0;
-#define p107 25;
-#define p108 81;
-#define p109 39;
-#define p110 43;
+#define p107 26;
+#define p108 91;
+#define p109 22;
+#define p110 59;
 #define p111 0;
-#define p112 1;
-#define p113 1;
-#define p114 18;
-#define p115 54;
-#define p116 59;
-#define p117 56;
-#define p118 50;
-#define p119 18;
-#define p120 33;
-#define p121 57;
-#define p122 37;
-#define p123 56;
+#define p112 0;
+#define p113 0;
+#define p114 17;
+#define p115 38;
+#define p116 72;
+#define p117 112;
+#define p118 65;
+#define p119 36;
+#define p120 32;
+#define p121 50;
+#define p122 41;
+#define p123 74;
 #define p124 27;
-#define p125 18;
-#define p126 4;
-#define p127 90;
-#define p128 32;
-#define p129 84;
-#define p130 13;
-#define p131 49;
+#define p125 15;
+#define p126 16;
+#define p127 108;
+#define p128 53;
+#define p129 114;
+#define p130 19;
+#define p131 67;
 TieBreakGame = WhoServe1st; (Player1Serve [] Player2Serve);
 WhoServe1st = []i:{f_de_ct,n_de_ct}@ TossCoin{turn = i} -> Skip;
 Player1Serve = [won == na && turn == f_de_ct ]FedReady_DeCt -> De_Ply1Serve [] [won == na && turn == f_ad_ct] FedReady_AdCt -> Ad_Ply1Serve;
@@ -183,19 +183,19 @@ Ad_Ply1Serve_2nd = pcase {                 //1st serve is out
      		 
 Ply1_ForeHandR = ifa (turn == n_de_ct) {    // Player2 forehand return to Player1 serve from the deuce court side
 		 pcase {
-			p20: FH_CrossCourt{ball=6} -> Ply2_de_stroke
-			p21: FH_DownLine{ball=4} -> Ply2_ad_stroke
-			p22: FH_DownMid{ball=5} -> Ply2_mid_stroke
-			p23: FH_Winner{ball=9} -> {fscore++; if (fscore == points) {won = player1} 
+			p20: FH_InsideOut{ball=6} -> Ply2_de_stroke
+			p21: FH_InsideIn{ball=4} -> Ply2_ad_stroke
+			p22: FH_CrossCourt{ball=4} -> Ply2_ad_stroke
+			p23: FH_DownMid{ball=5} -> Ply2_mid_stroke
+			p24: FH_Winner{ball=9} -> {fscore++; if (fscore == points) {won = player1} 
       		                                                     else { turn = (turn+1)%4} }-> NextPt
-			p24: FH_Error{ball=9} -> {nscore++; if (nscore == points) {won = player2}
+			p25: FH_Error{ball=9} -> {nscore++; if (nscore == points) {won = player2}
       		                                                     else { turn = (turn+1)%4} }-> NextPt
       		 }}
       		 else {
       		pcase {
-			p25: FH_InsideOut{ball =4} -> Ply2_ad_stroke
-			p26: FH_InsideIn{ball=6} -> Ply2_de_stroke
-			p27: FH_CrossCourt{ball=6} -> Ply2_de_stroke
+			p26: FH_CrossCourt{ball=4} -> Ply2_ad_stroke
+			p27: FH_DownLine{ball=6} -> Ply2_de_stroke
 			p28: FH_DownMid{ball=5} -> Ply2_mid_stroke
 			p29: FH_Winner{ball=9} -> {fscore++; if (fscore == points) {won = player1} 
       		                                                     else { turn = (turn+1)%4} }-> NextPt
@@ -205,19 +205,19 @@ Ply1_ForeHandR = ifa (turn == n_de_ct) {    // Player2 forehand return to Player
 
 Ply1_BackHandR = ifa (turn == n_de_ct) {    // Player2 backhand return to Player1 serve from the deuce court side
 		 pcase {
-			p31: BH_CrossCourt{ball=4} -> Ply2_ad_stroke
-			p32: BH_InsideIn{ball=4} -> Ply2_ad_stroke
-			p33: BH_InsideOut{ball=6} -> Ply2_de_stroke
-			p34: BH_DownMid{ball=5} -> Ply2_mid_stroke
-			p35: BH_Winner{ball=9} -> {fscore++; if (fscore == points) {won = player1} 
+			p31: BH_CrossCourt{ball=6} -> Ply2_de_stroke
+			p32: BH_DownLine{ball=4} -> Ply2_ad_stroke
+			p33: BH_DownMid{ball=5} -> Ply2_mid_stroke
+			p34: BH_Winner{ball=9} -> {fscore++; if (fscore == points) {won = player1} 
       		                                                     else { turn = (turn+1)%4} }-> NextPt
-			p36: BH_Error{ball=9} -> {nscore++; if (nscore == points) {won = player2}
+			p35: BH_Error{ball=9} -> {nscore++; if (nscore == points) {won = player2}
       		                                                     else { turn = (turn+1)%4} }-> NextPt
       		 }}
       		 else {
       		pcase {
-			p37: BH_CrossCourt{ball=4} -> Ply2_ad_stroke
-			p38: BH_DownLine{ball=6} -> Ply2_de_stroke
+			p36: BH_CrossCourt{ball=6} -> Ply2_de_stroke
+			p37: BH_InsideIn{ball=6} -> Ply2_de_stroke
+			p38: BH_InsideOut{ball=4} -> Ply2_ad_stroke
 			p39: BH_DownMid{ball=5} -> Ply2_mid_stroke
 			p40: BH_Winner{ball=9} -> {fscore++; if (fscore == points) {won = player1} 
       		                                                     else { turn = (turn+1)%4} }-> NextPt
@@ -227,12 +227,12 @@ Ply1_BackHandR = ifa (turn == n_de_ct) {    // Player2 backhand return to Player
 
 // deuce stroke is when player1 hit position is 1
 Ply1_de_stroke = pcase{
-			p42: FH_Crosscourt{ball=6} -> Ply2_de_stroke
-			p43: FH_Downline{ball=4} -> Ply2_ad_stroke
+			p42: FH_InsideOut{ball=6} -> Ply2_de_stroke
+			p43: FH_InsideIn{ball=4} -> Ply2_ad_stroke
 			p44: FH_DownMid{ball=5} -> Ply2_mid_stroke
-			p45: BH_InsideIn{ball=4} -> Ply2_ad_stroke
-			p46: BH_InsideOut{ball=6} -> Ply2_de_stroke
-			p47: BH_DownMid{ball=5} -> Ply2_mid_stroke
+			p45: BH_Crosscourt{ball=6} -> Ply2_de_stroke
+			p46: BH_Downline{ball=4} -> Ply2_ad_stroke
+			p47: BH_DownMid{ball=5} -> Ply2_mid_stroke			
 			p48: Winner{ball=9} -> {fscore++; if (fscore == points) {won = player1} 
       		                                                     else { turn = (turn+1)%4} }-> NextPt
 			p49: Error{ball=9} -> {nscore++; if (nscore == points) {won = player2}
@@ -241,11 +241,11 @@ Ply1_de_stroke = pcase{
 	
 // mid stroke is when player1 hit position is 2
 Ply1_mid_stroke = pcase{
-			p50: FH_InsideOut{ball=4} -> Ply2_ad_stroke
-			p51: FH_Crosscourt{ball=6} -> Ply2_de_stroke
+			p50: FH_InsideOut{ball=6} -> Ply2_de_stroke
+			p51: FH_Crosscourt{ball=4} -> Ply2_ad_stroke
 			p52: FH_DownMid{ball=5} -> Ply2_mid_stroke
-			p53: BH_InsideOut{ball=6} -> Ply2_de_stroke
-			p54: BH_Crosscourt{ball=4} -> Ply2_ad_stroke
+			p53: BH_InsideOut{ball=4} -> Ply2_ad_stroke
+			p54: BH_Crosscourt{ball=6} -> Ply2_de_stroke
 			p55: BH_DownMid{ball=5} -> Ply2_mid_stroke
 			p56: Winner{ball=9} -> {fscore++; if (fscore == points) {won = player1} 
       		                                                     else { turn = (turn+1)%4} }-> NextPt
@@ -256,11 +256,11 @@ Ply1_mid_stroke = pcase{
 
 // ad stroke is when player1 hit position is 3
 Ply1_ad_stroke = pcase{
-			p58: FH_InsideOut{ball=4} -> Ply2_ad_stroke
-			p59: FH_InsideIn{ball=6} -> Ply2_de_stroke
+			p58: FH_Crosscourt{ball=4} -> Ply2_ad_stroke
+			p59: FH_Downline{ball=6} -> Ply2_de_stroke
 			p60: FH_DownMid{ball=5} -> Ply2_mid_stroke
-			p61: BH_Crosscourt{ball=4} -> Ply2_ad_stroke
-			p62: BH_Downline{ball=6} -> Ply2_de_stroke
+			p61: BH_InsideIn{ball=6} -> Ply2_de_stroke
+			p62: BH_InsideOut{ball=4} -> Ply2_ad_stroke
 			p63: BH_DownMid{ball=5} -> Ply2_mid_stroke
 			p64: Winner{ball=9} -> {fscore++; if (fscore == points) {won = player1} 
       		                                                     else { turn = (turn+1)%4} }-> NextPt
@@ -270,17 +270,17 @@ Ply1_ad_stroke = pcase{
 
 
 De_Ply2Serve = pcase {
-			p66 : ServeT_in{ball=2} -> Ply1_BackHandR
+			p66 : ServeT_in{ball=2} -> Ply1_ForeHandR
 			p67: ServeBody_in{ball=1} -> (Ply1_ForeHandR [] Ply1_BackHandR)
-			p68: ServeWide_in{ball=1} -> Ply1_ForeHandR
+			p68: ServeWide_in{ball=1} -> Ply1_BackHandR
 			p69: Serve_Winner{ball=9} -> NWinner{nscore++; if (nscore == points) {won = player2} 
       		                                                     else { turn = (turn+1)%4} }-> NextPt
 			p70: Serve_err{ball=9} -> De_Ply2Serve_2nd}; 
 
 De_Ply2Serve_2nd = pcase {                 //1st serve is out
-			p71: ServeT_in{ball=2} -> Ply1_BackHandR
+			p71: ServeT_in{ball=2} -> Ply1_ForeHandR
 			p72: ServeBody_in{ball=1} -> (Ply1_ForeHandR [] Ply1_BackHandR)
-			p73: ServeWide_in{ball=1} -> Ply1_ForeHandR
+			p73: ServeWide_in{ball=1} -> Ply1_BackHandR
 			p74: Serve_Winner{ball=9} -> NWinner{nscore++; if (nscore == points) {won = player2} 
       		                                                     else { turn = (turn+1)%4} }-> NextPt
 			p75: Serve_err{ball=9} -> Ndoublefault{fscore++; if (fscore == points) {won = player1} 
@@ -288,17 +288,17 @@ De_Ply2Serve_2nd = pcase {                 //1st serve is out
      		 };
      		 
 Ad_Ply2Serve = pcase {
-			p76: ServeT_in{ball=2} -> Ply1_ForeHandR
+			p76: ServeT_in{ball=2} -> Ply1_BackHandR
 			p77: ServeBody_in{ball=3} -> (Ply1_ForeHandR [] Ply1_BackHandR)
-			p78: ServeWide_in{ball=3} -> Ply1_BackHandR
+			p78: ServeWide_in{ball=3} -> Ply1_ForeHandR
 			p79: Serve_Winner{ball=9} -> NWinner{nscore++; if (nscore == points) {won = player2} 
       		                                                     else { turn = (turn+1)%4} }-> NextPt
 			p80: Serve_err{ball=9} -> Ad_Ply2Serve_2nd}; 
 
 Ad_Ply2Serve_2nd = pcase {                 //1st serve is out
-			p81: ServeT_in{ball=2} -> Ply1_ForeHandR
+			p81: ServeT_in{ball=2} -> Ply1_BackHandR
 			p82: ServeBody_in{ball=3} -> (Ply1_ForeHandR [] Ply1_BackHandR)
-			p83: ServeWide_in{ball=3} -> Ply1_BackHandR
+			p83: ServeWide_in{ball=3} -> Ply1_ForeHandR
 			p84: Serve_Winner{ball=9} -> NWinner{nscore++; if (nscore == points) {won = player2} 
       		                                                     else { turn = (turn+1)%4} }-> NextPt
 			p85: Serve_err{ball=9} -> Ndoublefault{fscore++; if (fscore == points) {won = player1} 
