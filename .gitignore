@@ -1,4 +1,4 @@
 common_helpers/tennisabstract-v2-combined.csv
 *.pyc
 fix_numbering.py
-result.txt
+result_*.txt

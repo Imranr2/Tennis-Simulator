@@ -1,0 +1,607 @@
+date,P1Name,P2Name,P1WinProb,P2WinProb,P1Hand,P2Hand,Gender
+2020-01-06,Fernando Verdasco,Pablo Andujar,0.41825500000000004,0.581745,LH,RH,M
+2020-01-06,Filip Krajinovic,Kyle Edmund,0.40276999999999996,0.59723,RH,RH,M
+2020-01-07,Marton Fucsovics,Francis Tiafoe,0.49438,0.50562,RH,RH,M
+2020-01-07,Mikhail Kukushkin,Malek Jaziri,0.49695,0.50305,RH,RH,M
+2020-01-07,Stan Wawrinka,Jeremy Chardy,0.51803,0.48197,RH,RH,M
+2020-01-08,Andrey Rublev,Mikhail Kukushkin,0.49836500000000006,0.5016349999999999,RH,RH,M
+2020-01-08,Fernando Verdasco,Filip Krajinovic,0.41825500000000004,0.581745,LH,RH,M
+2020-01-10,Stan Wawrinka,Aljaz Bedene,0.51803,0.48197,RH,RH,M
+2020-01-13,Jeremy Chardy,Gilles Simon,0.33038999999999996,0.66961,RH,RH,M
+2020-01-15,Andrey Rublev,Sam Querrey,0.5167700000000001,0.48322999999999994,RH,RH,M
+2020-01-15,Pablo Carreno Busta,Jeremy Chardy,0.5031950000000001,0.49680499999999994,RH,RH,M
+2020-01-14,Vasek Pospisil,Joao Sousa,0.448875,0.551125,RH,RH,M
+2020-01-15,Andreas Seppi,Adrian Mannarino,0.397455,0.602545,RH,LH,M
+2020-01-15,Feliciano Lopez,Pablo Andujar,0.45113,0.54887,LH,RH,M
+2020-01-15,Marco Cecchinato,Leonardo Mayer,0.50171,0.49829,RH,RH,M
+2020-01-15,John Isner,Tennys Sandgren,0.44693,0.55307,RH,RH,M
+2020-01-15,Feliciano Lopez,Fabio Fognini,0.45113,0.54887,LH,RH,M
+2020-01-15,Kyle Edmund,Andreas Seppi,0.41071,0.58929,RH,RH,M
+2020-01-16,John Isner,Kyle Edmund,0.44693,0.55307,RH,RH,M
+2020-01-16,Benoit Paire,John Millman,0.472485,0.527515,RH,RH,M
+2020-01-20,Ricardas Berankis,Roberto Carballes Baena,0.391195,0.608805,RH,RH,M
+2020-01-20,Sam Querrey,Borna Coric,0.524375,0.47562499999999996,RH,RH,M
+2020-01-20,Roger Federer,Steve Johnson,0.61294,0.38705999999999996,RH,RH,M
+2020-01-20,Philipp Kohlschreiber,Marcos Giron,0.46294,0.53706,RH,RH,M
+2020-01-21,Roberto Bautista Agut,Feliciano Lopez,0.52895,0.47104999999999997,RH,LH,M
+2020-01-21,Dusan Lajovic,Kyle Edmund,0.465935,0.534065,RH,RH,M
+2020-01-21,Dominic Thiem,Adrian Mannarino,0.50589,0.49411000000000005,RH,LH,M
+2020-01-21,Stan Wawrinka,Damir Dzumhur,0.51803,0.48197,RH,RH,M
+2020-01-21,Fernando Verdasco,Evgeny Donskoy,0.41825500000000004,0.581745,LH,RH,M
+2020-01-21,David Goffin,Jeremy Chardy,0.45369,0.5463100000000001,RH,RH,M
+2020-01-21,Federico Delbonis,Joao Sousa,0.382195,0.6178049999999999,LH,RH,M
+2020-01-21,Alexander Zverev,Marco Cecchinato,0.55924,0.44076000000000004,RH,RH,M
+2020-01-21,Ivo Karlovic,Vasek Pospisil,0.42408500000000005,0.575915,RH,RH,M
+2020-01-21,Gilles Simon,Pablo Cuevas,0.517775,0.482225,RH,RH,M
+2020-01-22,Sam Querrey,Ricardas Berankis,0.524375,0.47562499999999996,RH,RH,M
+2020-01-22,Marin Cilic,Benoit Paire,0.49793,0.50207,RH,RH,M
+2020-01-22,Novak Djokovic,Tatsuma Ito,0.5945050000000001,0.40549499999999994,RH,RH,M
+2020-01-22,Milos Raonic,Cristian Garin,0.529075,0.47092500000000004,RH,RH,M
+2020-01-22,Roger Federer,Filip Krajinovic,0.85417,0.14583000000000002,RH,RH,M
+2020-01-23,Ernests Gulbis,Aljaz Bedene,0.552475,0.44752499999999995,RH,RH,M
+2020-01-23,Dominic Thiem,Alex Bolt,0.50589,0.49411000000000005,RH,LH,M
+2020-01-23,Gael Monfils,Ivo Karlovic,0.560575,0.43942499999999995,RH,RH,M
+2020-01-23,Andrey Rublev,Yuichi Sugita,0.528625,0.471375,RH,RH,M
+2020-01-23,Fernando Verdasco,Nikoloz Basilashvili,0.41825500000000004,0.581745,LH,RH,M
+2020-01-23,Pablo Carreno Busta,Peter Gojowczyk,0.59992,0.40008,RH,RH,M
+2020-01-23,Nick Kyrgios,Gilles Simon,0.436605,0.563395,RH,RH,M
+2020-01-23,Stan Wawrinka,Andreas Seppi,0.51803,0.48197,RH,RH,M
+2020-01-23,Rafael Nadal,Federico Delbonis,0.7121,0.28790000000000004,LH,LH,M
+2020-01-24,Diego Schwartzman,Dusan Lajovic,0.532025,0.46797500000000003,RH,RH,M
+2020-01-24,Marin Cilic,Roberto Bautista Agut,0.49793,0.50207,RH,RH,M
+2020-01-24,Novak Djokovic,Yoshihito Nishioka,0.634555,0.365445,RH,LH,M
+2020-01-24,Tennys Sandgren,Sam Querrey,0.46421999999999997,0.53578,RH,RH,M
+2020-01-24,Fabio Fognini,Guido Pella,0.47404,0.52596,RH,LH,M
+2020-01-24,Roger Federer,John Millman,0.45426,0.54574,RH,RH,M
+2020-01-25,Gael Monfils,Ernests Gulbis,0.6455150000000001,0.35448499999999994,RH,RH,M
+2020-01-25,Andrey Rublev,David Goffin,0.528625,0.471375,RH,RH,M
+2020-01-25,Rafael Nadal,Pablo Carreno Busta,0.59999,0.40001,LH,RH,M
+2020-01-25,Stan Wawrinka,John Isner,0.51803,0.48197,RH,RH,M
+2020-01-25,Alexander Zverev,Fernando Verdasco,0.465375,0.534625,RH,LH,M
+2020-01-26,Milos Raonic,Marin Cilic,0.5373749999999999,0.46262500000000006,RH,RH,M
+2020-01-26,Novak Djokovic,Diego Schwartzman,0.5467850000000001,0.4532149999999999,RH,RH,M
+2020-01-26,Tennys Sandgren,Fabio Fognini,0.611685,0.38831499999999997,RH,RH,M
+2020-01-26,Roger Federer,Marton Fucsovics,0.492045,0.5079549999999999,RH,RH,M
+2020-01-27,Dominic Thiem,Gael Monfils,0.5155,0.48450000000000004,RH,RH,M
+2020-01-27,Rafael Nadal,Nick Kyrgios,0.5702849999999999,0.42971500000000007,LH,RH,M
+2020-01-27,Alexander Zverev,Andrey Rublev,0.7335499999999999,0.2664500000000001,RH,RH,M
+2020-01-28,Roger Federer,Tennys Sandgren,0.611735,0.38826499999999997,RH,RH,M
+2020-01-28,Novak Djokovic,Milos Raonic,0.597235,0.40276500000000004,RH,RH,M
+2020-01-29,Alexander Zverev,Stan Wawrinka,0.56227,0.43772999999999995,RH,RH,M
+2020-01-29,Dominic Thiem,Rafael Nadal,0.42551,0.57449,RH,LH,M
+2020-01-30,Novak Djokovic,Roger Federer,0.47665,0.52335,RH,RH,M
+2020-01-31,Dominic Thiem,Alexander Zverev,0.591475,0.408525,RH,RH,M
+2020-02-02,Novak Djokovic,Dominic Thiem,0.501475,0.498525,RH,RH,M
+2020-02-07,Cristian Garin,Pablo Cuevas,0.45125,0.5487500000000001,RH,RH,M
+2020-02-08,Cristian Garin,Andrej Martin,0.45125,0.5487500000000001,RH,RH,M
+2020-02-09,Cristian Garin,Diego Schwartzman,0.6361749999999999,0.36382500000000007,RH,RH,M
+2020-02-03,Vasek Pospisil,Aljaz Bedene,0.398115,0.601885,RH,RH,M
+2020-02-03,Norbert Gombos,Pablo Carreno Busta,0.46209,0.53791,RH,RH,M
+2020-02-05,Richard Gasquet,Gilles Simon,0.45486499999999996,0.545135,RH,RH,M
+2020-02-06,Gael Monfils,Adrian Mannarino,0.408745,0.591255,RH,LH,M
+2020-02-07,Vasek Pospisil,Richard Gasquet,0.398115,0.601885,RH,RH,M
+2020-02-07,Gael Monfils,Norbert Gombos,0.5491550000000001,0.45084499999999994,RH,RH,M
+2020-02-08,Gael Monfils,Filip Krajinovic,0.5491550000000001,0.45084499999999994,RH,RH,M
+2020-02-08,Vasek Pospisil,David Goffin,0.398115,0.601885,RH,RH,M
+2020-02-09,Gael Monfils,Vasek Pospisil,0.5491550000000001,0.45084499999999994,RH,RH,M
+2020-02-03,Yuichi Sugita,Thomas Fabbiano,0.55183,0.44816999999999996,RH,RH,M
+2020-02-05,Yuichi Sugita,Viktor Troicki,0.55183,0.44816999999999996,RH,RH,M
+2020-02-07,Ricardas Berankis,Yuichi Sugita,0.391195,0.608805,RH,RH,M
+2020-02-08,Jiri Vesely,Ricardas Berankis,0.587855,0.412145,LH,RH,M
+2020-02-11,Roberto Carballes Baena,Marco Cecchinato,0.525185,0.474815,RH,RH,M
+2020-02-13,Guido Pella,Facundo Bagnis,0.4818,0.5182,LH,LH,M
+2020-02-14,Diego Schwartzman,Federico Delbonis,0.52962,0.47038,RH,LH,M
+2020-02-14,Diego Schwartzman,Pablo Cuevas,0.517695,0.482305,RH,RH,M
+2020-02-10,Andreas Seppi,Damir Dzumhur,0.520925,0.47907500000000003,RH,RH,M
+2020-02-11,Steve Johnson,Tennys Sandgren,0.54223,0.45777,RH,RH,M
+2020-02-11,Marcos Giron,Jack Sock,0.460255,0.5397449999999999,RH,RH,M
+2020-02-12,Andreas Seppi,Steve Johnson,0.520925,0.47907500000000003,RH,RH,M
+2020-02-16,Kyle Edmund,Andreas Seppi,0.423725,0.576275,RH,RH,M
+2020-02-10,Pablo Carreno Busta,Adrian Mannarino,0.57811,0.42189,RH,LH,M
+2020-02-10,Roberto Bautista Agut,Marton Fucsovics,0.5103449999999999,0.48965500000000006,RH,RH,M
+2020-02-11,Andrey Rublev,Nikoloz Basilashvili,0.375915,0.624085,RH,RH,M
+2020-02-11,Aljaz Bedene,Benoit Paire,0.44881,0.5511900000000001,RH,RH,M
+2020-02-12,Gilles Simon,Mikhail Kukushkin,0.517775,0.482225,RH,RH,M
+2020-02-12,David Goffin,Robin Haase,0.45369,0.5463100000000001,RH,RH,M
+2020-02-12,Gael Monfils,Joao Sousa,0.549535,0.450465,RH,RH,M
+2020-02-12,Pablo Carreno Busta,Roberto Bautista Agut,0.5031950000000001,0.49680499999999994,RH,RH,M
+2020-02-13,Gael Monfils,Gilles Simon,0.549535,0.450465,RH,RH,M
+2020-02-13,Filip Krajinovic,Vasek Pospisil,0.42783,0.5721700000000001,RH,RH,M
+2020-02-14,Filip Krajinovic,Andrey Rublev,0.42783,0.5721700000000001,RH,RH,M
+2020-02-15,Gael Monfils,Filip Krajinovic,0.552335,0.447665,RH,RH,M
+2020-02-17,Ryan Harrison,Damir Dzumhur,0.46609,0.53391,RH,RH,M
+2020-02-17,Yoshihito Nishioka,John Millman,0.41051499999999996,0.589485,LH,RH,M
+2020-02-18,Milos Raonic,Denis Istomin,0.51628,0.48372000000000004,RH,RH,M
+2020-02-18,Jack Sock,Radu Albot,0.56737,0.43262999999999996,RH,RH,M
+2020-02-20,Steve Johnson,Jack Sock,0.394405,0.605595,RH,RH,M
+2020-02-22,Milos Raonic,Steve Johnson,0.51628,0.48372000000000004,RH,RH,M
+2020-02-20,Gilles Simon,Aljaz Bedene,0.507265,0.49273500000000003,RH,RH,M
+2020-02-17,Federico Delbonis,Roberto Carballes Baena,0.382195,0.6178049999999999,LH,RH,M
+2020-02-17,Cristian Garin,Andrej Martin,0.523495,0.47650499999999996,RH,RH,M
+2020-02-18,Dusan Lajovic,Marco Cecchinato,0.39603,0.60397,RH,RH,M
+2020-02-19,Cristian Garin,Federico Delbonis,0.47936,0.52064,RH,LH,M
+2020-02-23,Cristian Garin,Borna Coric,0.459445,0.540555,RH,RH,M
+2020-02-25,Stan Wawrinka,Francis Tiafoe,0.52667,0.47333000000000003,RH,RH,M
+2020-02-25,Kyle Edmund,Feliciano Lopez,0.3931,0.6069,RH,LH,M
+2020-02-25,Grigor Dimitrov,Damir Dzumhur,0.490425,0.509575,RH,RH,M
+2020-02-26,Dusan Lajovic,Steve Johnson,0.465935,0.534065,RH,RH,M
+2020-02-26,Rafael Nadal,Pablo Andujar,0.60251,0.39749,LH,RH,M
+2020-02-26,John Isner,Mischa Zverev,0.509175,0.49082499999999996,RH,LH,M
+2020-02-26,John Isner,Marcos Giron,0.44693,0.55307,RH,RH,M
+2020-02-27,Grigor Dimitrov,Adrian Mannarino,0.38051,0.61949,RH,LH,M
+2020-02-28,Grigor Dimitrov,Stan Wawrinka,0.44806500000000005,0.551935,RH,RH,M
+2020-02-29,Rafael Nadal,Grigor Dimitrov,0.80846,0.19154000000000004,LH,RH,M
+2020-02-24,Philipp Kohlschreiber,Mohamed Safwat,0.471255,0.528745,RH,RH,M
+2020-02-24,Novak Djokovic,Malek Jaziri,0.5998300000000001,0.4001699999999999,RH,RH,M
+2020-02-24,Gael Monfils,Marton Fucsovics,0.5575600000000001,0.44243999999999994,RH,RH,M
+2020-02-25,Benoit Paire,Marin Cilic,0.47848,0.52152,RH,RH,M
+2020-02-25,Filip Krajinovic,Joao Sousa,0.43074500000000004,0.569255,RH,RH,M
+2020-02-25,Nikoloz Basilashvili,Ricardas Berankis,0.484985,0.515015,RH,RH,M
+2020-02-26,Andrey Rublev,Filip Krajinovic,0.41630500000000004,0.583695,RH,RH,M
+2020-02-26,Novak Djokovic,Philipp Kohlschreiber,0.645065,0.354935,RH,RH,M
+2020-02-26,Richard Gasquet,Benoit Paire,0.456405,0.543595,RH,RH,M
+2020-02-27,Gael Monfils,Richard Gasquet,0.5575600000000001,0.44243999999999994,RH,RH,M
+2020-02-28,Novak Djokovic,Gael Monfils,0.5998300000000001,0.4001699999999999,RH,RH,M
+2020-08-22,Pablo Carreno Busta,Dusan Lajovic,0.519195,0.48080500000000004,RH,RH,M
+2020-08-22,Kevin Anderson,Kyle Edmund,0.45723,0.54277,RH,RH,M
+2020-08-22,Borna Coric,Benoit Paire,0.49993,0.50007,RH,RH,M
+2020-08-22,Andy Murray,Francis Tiafoe,0.49758,0.50242,RH,RH,M
+2020-08-23,Milos Raonic,Sam Querrey,0.545975,0.454025,RH,RH,M
+2020-08-23,Aljaz Bedene,Cristian Garin,0.45923,0.54077,RH,RH,M
+2020-08-23,Marton Fucsovics,Norbert Gombos,0.5119,0.4881,RH,RH,M
+2020-08-24,David Goffin,Borna Coric,0.45443,0.54557,RH,RH,M
+2020-08-24,John Isner,John Millman,0.436885,0.563115,RH,RH,M
+2020-08-24,Roberto Bautista Agut,Richard Gasquet,0.515615,0.48438499999999995,RH,RH,M
+2020-08-24,Andy Murray,Alexander Zverev,0.49758,0.50242,RH,RH,M
+2020-08-25,Marton Fucsovics,Grigor Dimitrov,0.5119,0.4881,RH,RH,M
+2020-08-25,Filip Krajinovic,Dominic Thiem,0.47080500000000003,0.529195,RH,RH,M
+2020-08-25,Novak Djokovic,Ricardas Berankis,0.6052850000000001,0.3947149999999999,RH,RH,M
+2020-08-25,Novak Djokovic,Tennys Sandgren,0.6052850000000001,0.3947149999999999,RH,RH,M
+2020-08-26,Milos Raonic,Andy Murray,0.545975,0.454025,RH,RH,M
+2020-08-26,Filip Krajinovic,Marton Fucsovics,0.47080500000000003,0.529195,RH,RH,M
+2020-08-27,Milos Raonic,Filip Krajinovic,0.545975,0.454025,RH,RH,M
+2020-08-28,Novak Djokovic,Roberto Bautista Agut,0.5553049999999999,0.44469500000000006,RH,RH,M
+2020-08-29,Novak Djokovic,Milos Raonic,0.707705,0.29229499999999997,RH,RH,M
+2020-09-08,Guido Pella,Yoshihito Nishioka,0.4818,0.5182,LH,LH,M
+2020-09-10,Federico Delbonis,Nikoloz Basilashvili,0.35099,0.64901,LH,RH,M
+2020-09-10,Feliciano Lopez,Guido Pella,0.64566,0.35434,LH,LH,M
+2020-08-31,Borna Coric,Pablo Andujar,0.49993,0.50007,RH,RH,M
+2020-08-31,Alexander Zverev,Kevin Anderson,0.5262450000000001,0.4737549999999999,RH,RH,M
+2020-08-31,Jack Sock,Pablo Cuevas,0.56737,0.43262999999999996,RH,RH,M
+2020-08-31,Gilles Simon,Mohamed Safwat,0.53784,0.46216,RH,RH,M
+2020-09-01,Steve Johnson,John Isner,0.29253,0.70747,RH,RH,M
+2020-09-01,Novak Djokovic,Damir Dzumhur,0.601205,0.398795,RH,RH,M
+2020-09-01,Andy Murray,Yoshihito Nishioka,0.46574,0.53426,RH,LH,M
+2020-09-01,Marin Cilic,Denis Kudla,0.51066,0.48934,RH,RH,M
+2020-09-01,Andrey Rublev,Jeremy Chardy,0.517115,0.482885,RH,RH,M
+2020-09-01,Norbert Gombos,Radu Albot,0.53272,0.46728000000000003,RH,RH,M
+2020-09-01,Vasek Pospisil,Philipp Kohlschreiber,0.45625499999999997,0.543745,RH,RH,M
+2020-09-01,Roberto Bautista Agut,Tennys Sandgren,0.51037,0.48963,RH,RH,M
+2020-09-02,Milos Raonic,Leonardo Mayer,0.545995,0.454005,RH,RH,M
+2020-09-02,Richard Gasquet,Ivo Karlovic,0.47314500000000004,0.526855,RH,RH,M
+2020-09-02,Francis Tiafoe,Andreas Seppi,0.45236,0.54764,RH,RH,M
+2020-09-02,John Millman,Nikoloz Basilashvili,0.46799500000000005,0.532005,RH,RH,M
+2020-09-02,Filip Krajinovic,Marcos Giron,0.47080500000000003,0.529195,RH,RH,M
+2020-09-02,Mikhail Kukushkin,Cristian Garin,0.489,0.511,RH,RH,M
+2020-09-02,Novak Djokovic,Kyle Edmund,0.601205,0.398795,RH,RH,M
+2020-09-02,Adrian Mannarino,Jack Sock,0.476265,0.5237350000000001,LH,RH,M
+2020-09-03,Pablo Carreno Busta,Mitchell Krueger,0.50546,0.49454,RH,RH,M
+2020-09-03,Ricardas Berankis,Steve Johnson,0.47543499999999994,0.5245650000000001,RH,RH,M
+2020-09-03,Marin Cilic,Norbert Gombos,0.505795,0.494205,RH,RH,M
+2020-09-03,Vasek Pospisil,Milos Raonic,0.45625499999999997,0.543745,RH,RH,M
+2020-09-03,Marton Fucsovics,Grigor Dimitrov,0.5119,0.4881,RH,RH,M
+2020-09-03,Francis Tiafoe,John Millman,0.45236,0.54764,RH,RH,M
+2020-09-04,David Goffin,Filip Krajinovic,0.45443,0.54557,RH,RH,M
+2020-09-04,Pablo Carreno Busta,Ricardas Berankis,0.50546,0.49454,RH,RH,M
+2020-09-05,Alexander Zverev,Adrian Mannarino,0.488655,0.5113449999999999,RH,LH,M
+2020-09-05,Vasek Pospisil,Roberto Bautista Agut,0.45625499999999997,0.543745,RH,RH,M
+2020-09-05,Francis Tiafoe,Marton Fucsovics,0.45236,0.54764,RH,RH,M
+2020-09-06,Dominic Thiem,Marin Cilic,0.494825,0.5051749999999999,RH,RH,M
+2020-09-06,Pablo Carreno Busta,Novak Djokovic,0.50546,0.49454,RH,RH,M
+2020-09-08,Alexander Zverev,Borna Coric,0.52712,0.47287999999999997,RH,RH,M
+2020-09-11,Alexander Zverev,Pablo Carreno Busta,0.52704,0.47296000000000005,RH,RH,M
+2020-09-13,Dominic Thiem,Alexander Zverev,0.537365,0.462635,RH,RH,M
+2020-09-14,Borna Coric,Cristian Garin,0.507375,0.492625,RH,RH,M
+2020-09-15,Andrey Rublev,Facundo Bagnis,0.782385,0.217615,RH,LH,M
+2020-09-15,John Millman,Joao Sousa,0.46285,0.53715,RH,RH,M
+2020-09-15,Marco Cecchinato,Kyle Edmund,0.540735,0.45926500000000003,RH,RH,M
+2020-09-15,Milos Raonic,Adrian Mannarino,0.56846,0.43154000000000003,RH,LH,M
+2020-09-16,Marin Cilic,David Goffin,0.483665,0.516335,RH,RH,M
+2020-09-16,Filip Krajinovic,Marco Cecchinato,0.47080500000000003,0.529195,RH,RH,M
+2020-09-16,Grigor Dimitrov,Yoshihito Nishioka,0.5353600000000001,0.46463999999999994,RH,LH,M
+2020-09-16,Rafael Nadal,Pablo Carreno Busta,0.79871,0.20128999999999997,LH,RH,M
+2020-09-17,Diego Schwartzman,John Millman,0.5123,0.4877,RH,RH,M
+2020-09-17,Dusan Lajovic,Milos Raonic,0.49124999999999996,0.50875,RH,RH,M
+2020-09-18,Novak Djokovic,Filip Krajinovic,0.59572,0.40428,RH,RH,M
+2020-09-18,Rafael Nadal,Dusan Lajovic,0.6034200000000001,0.39657999999999993,LH,RH,M
+2020-09-19,Diego Schwartzman,Rafael Nadal,0.329055,0.670945,RH,LH,M
+2020-09-21,Novak Djokovic,Diego Schwartzman,0.63309,0.36690999999999996,RH,RH,M
+2020-09-21,Jiri Vesely,Gilles Simon,0.620375,0.379625,LH,RH,M
+2020-09-21,Andrey Rublev,Tennys Sandgren,0.52148,0.47851999999999995,RH,RH,M
+2020-09-22,Cristian Garin,Kei Nishikori,0.46315,0.53685,RH,RH,M
+2020-09-22,Roberto Bautista Agut,Nikoloz Basilashvili,0.51037,0.48963,RH,RH,M
+2020-09-22,Fabio Fognini,Philipp Kohlschreiber,0.4265,0.5735,RH,RH,M
+2020-09-25,Andrey Rublev,Roberto Bautista Agut,0.52148,0.47851999999999995,RH,RH,M
+2020-09-27,Norbert Gombos,Borna Coric,0.53272,0.46728000000000003,RH,RH,M
+2020-09-27,Stan Wawrinka,Andy Murray,0.49707500000000004,0.502925,RH,RH,M
+2020-09-28,Dominic Thiem,Marin Cilic,0.5576350000000001,0.4423649999999999,RH,RH,M
+2020-09-28,Mikhail Kukushkin,Fabio Fognini,0.489,0.511,RH,RH,M
+2020-09-28,Pablo Carreno Busta,John Millman,0.486345,0.513655,RH,RH,M
+2020-09-29,Cristian Garin,Philipp Kohlschreiber,0.46315,0.53685,RH,RH,M
+2020-09-29,Andrey Rublev,Sam Querrey,0.52391,0.47609,RH,RH,M
+2020-09-29,Roberto Carballes Baena,Steve Johnson,0.525185,0.474815,RH,RH,M
+2020-09-29,Roberto Bautista Agut,Richard Gasquet,0.51037,0.48963,RH,RH,M
+2020-09-29,Andrej Martin,Joao Sousa,0.45618499999999995,0.543815,RH,RH,M
+2020-09-30,Dominic Thiem,Jack Sock,0.515065,0.484935,RH,RH,M
+2020-10-01,Grigor Dimitrov,Andrej Martin,0.511935,0.48806499999999997,RH,RH,M
+2020-10-01,Pablo Carreno Busta,Guido Pella,0.40417000000000003,0.59583,RH,LH,M
+2020-10-01,Novak Djokovic,Ricardas Berankis,0.59745,0.40254999999999996,RH,RH,M
+2020-10-01,Kevin Anderson,Dusan Lajovic,0.46926,0.53074,RH,RH,M
+2020-10-02,Diego Schwartzman,Norbert Gombos,0.50891,0.49109,RH,RH,M
+2020-10-02,Alexander Zverev,Marco Cecchinato,0.528735,0.47126500000000004,RH,RH,M
+2020-10-03,Andrey Rublev,Kevin Anderson,0.53301,0.46699,RH,RH,M
+2020-10-03,Pablo Carreno Busta,Roberto Bautista Agut,0.486345,0.513655,RH,RH,M
+2020-10-03,Grigor Dimitrov,Roberto Carballes Baena,0.511935,0.48806499999999997,RH,RH,M
+2020-10-05,Andrey Rublev,Marton Fucsovics,0.53301,0.46699,RH,RH,M
+2020-10-06,Diego Schwartzman,Dominic Thiem,0.4355,0.5645,RH,RH,M
+2020-10-07,Novak Djokovic,Pablo Carreno Busta,0.59745,0.40254999999999996,RH,RH,M
+2020-10-09,Rafael Nadal,Diego Schwartzman,0.532045,0.467955,LH,RH,M
+2020-10-11,Rafael Nadal,Novak Djokovic,0.399795,0.600205,LH,RH,M
+2020-10-12,Steve Johnson,Filip Krajinovic,0.29253,0.70747,RH,RH,M
+2020-10-13,Gilles Simon,Marton Fucsovics,0.5426850000000001,0.4573149999999999,RH,RH,M
+2020-10-13,Marin Cilic,Marcos Giron,0.483665,0.516335,RH,RH,M
+2020-10-13,Fernando Verdasco,Andy Murray,0.375745,0.624255,LH,RH,M
+2020-10-15,Alexander Zverev,Fernando Verdasco,0.729395,0.270605,RH,LH,M
+2020-10-15,Roberto Bautista Agut,Gilles Simon,0.52142,0.47858,RH,RH,M
+2020-10-13,Federico Delbonis,Andreas Seppi,0.35099,0.64901,LH,RH,M
+2020-10-14,Federico Delbonis,Pablo Andujar,0.35099,0.64901,LH,RH,M
+2020-10-13,Borna Coric,Feliciano Lopez,0.283115,0.716885,RH,LH,M
+2020-10-13,Andrey Rublev,Vasek Pospisil,0.5238,0.47619999999999996,RH,RH,M
+2020-10-14,Stan Wawrinka,Evgeny Donskoy,0.5504100000000001,0.44958999999999993,RH,RH,M
+2020-10-17,Borna Coric,Milos Raonic,0.487325,0.512675,RH,RH,M
+2020-10-18,Andrey Rublev,Borna Coric,0.5238,0.47619999999999996,RH,RH,M
+2020-10-19,Francis Tiafoe,Dusan Lajovic,0.447045,0.552955,RH,RH,M
+2020-10-21,Milos Raonic,Aljaz Bedene,0.545995,0.454005,RH,RH,M
+2020-10-21,Grigor Dimitrov,Pablo Andujar,0.52104,0.47896000000000005,RH,RH,M
+2020-10-22,Marcos Giron,David Goffin,0.53055,0.46945000000000003,RH,RH,M
+2020-10-23,Grigor Dimitrov,Milos Raonic,0.52104,0.47896000000000005,RH,RH,M
+2020-10-19,Yoshihito Nishioka,Kyle Edmund,0.43147,0.56853,LH,RH,M
+2020-10-19,Steve Johnson,Marin Cilic,0.29253,0.70747,RH,RH,M
+2020-10-21,Alexander Zverev,John Millman,0.52218,0.47782,RH,RH,M
+2020-10-23,Alexander Zverev,Adrian Mannarino,0.488655,0.5113449999999999,RH,LH,M
+2020-10-25,Alexander Zverev,Diego Schwartzman,0.462105,0.537895,RH,RH,M
+2020-10-27,Jiri Vesely,Tennys Sandgren,0.620375,0.379625,LH,RH,M
+2020-10-27,Yuichi Sugita,Damir Dzumhur,0.55183,0.44816999999999996,RH,RH,M
+2020-10-28,Mikhail Kukushkin,Federico Delbonis,0.70896,0.29103999999999997,RH,LH,M
+2020-10-29,Adrian Mannarino,Yuichi Sugita,0.44162,0.55838,LH,RH,M
+2020-10-29,Mikhail Kukushkin,Benoit Paire,0.489,0.511,RH,RH,M
+2020-10-31,John Millman,Francis Tiafoe,0.46285,0.53715,RH,RH,M
+2020-10-26,Pablo Carreno Busta,Gael Monfils,0.47902500000000003,0.520975,RH,RH,M
+2020-10-26,Andrey Rublev,Norbert Gombos,0.52731,0.47269000000000005,RH,RH,M
+2020-10-27,Novak Djokovic,Filip Krajinovic,0.5947899999999999,0.40521000000000007,RH,RH,M
+2020-10-27,Cristian Garin,Stan Wawrinka,0.23796,0.76204,RH,RH,M
+2020-10-28,Novak Djokovic,Borna Coric,0.5947899999999999,0.40521000000000007,RH,RH,M
+2020-10-28,Kevin Anderson,Pablo Carreno Busta,0.46926,0.53074,RH,RH,M
+2020-10-29,Dominic Thiem,Cristian Garin,0.51153,0.48846999999999996,RH,RH,M
+2020-10-30,Andrey Rublev,Dominic Thiem,0.534885,0.46511499999999995,RH,RH,M
+2020-10-31,Andrey Rublev,Kevin Anderson,0.52731,0.47269000000000005,RH,RH,M
+2020-11-02,Borna Coric,Marton Fucsovics,0.47146,0.52854,RH,RH,M
+2020-11-02,Feliciano Lopez,Filip Krajinovic,0.49273500000000003,0.507265,LH,RH,M
+2020-11-02,Norbert Gombos,Marco Cecchinato,0.53272,0.46728000000000003,RH,RH,M
+2020-11-03,Yoshihito Nishioka,Pablo Andujar,0.43147,0.56853,LH,RH,M
+2020-11-03,Milos Raonic,Aljaz Bedene,0.545995,0.454005,RH,RH,M
+2020-11-03,Adrian Mannarino,Dusan Lajovic,0.458595,0.541405,LH,RH,M
+2020-11-03,Norbert Gombos,David Goffin,0.53272,0.46728000000000003,RH,RH,M
+2020-11-04,Diego Schwartzman,Richard Gasquet,0.522195,0.47780500000000004,RH,RH,M
+2020-11-04,Rafael Nadal,Feliciano Lopez,0.65492,0.34508000000000005,LH,LH,M
+2020-11-04,Andrey Rublev,Radu Albot,0.532025,0.46797500000000003,RH,RH,M
+2020-11-05,Milos Raonic,Marcos Giron,0.545995,0.454005,RH,RH,M
+2020-11-05,Pablo Carreno Busta,Norbert Gombos,0.47902500000000003,0.520975,RH,RH,M
+2020-11-05,Alexander Zverev,Adrian Mannarino,0.488655,0.5113449999999999,RH,LH,M
+2020-11-05,Stan Wawrinka,Andrey Rublev,0.5504100000000001,0.44958999999999993,RH,RH,M
+2020-11-06,Rafael Nadal,Pablo Carreno Busta,0.79871,0.20128999999999997,LH,RH,M
+2020-11-06,Alexander Zverev,Stan Wawrinka,0.583545,0.416455,RH,RH,M
+2020-11-07,Alexander Zverev,Rafael Nadal,0.808335,0.19166499999999997,RH,LH,M
+2020-11-08,Radu Albot,Yuichi Sugita,0.47577,0.52423,RH,RH,M
+2020-11-09,Vasek Pospisil,Illya Marchenko,0.414225,0.5857749999999999,RH,RH,M
+2020-11-10,Richard Gasquet,Roberto Carballes Baena,0.452625,0.547375,RH,RH,M
+2020-11-10,Gilles Simon,Andrej Martin,0.53043,0.46957000000000004,RH,RH,M
+2020-11-11,John Millman,Gilles Simon,0.45447000000000004,0.54553,RH,RH,M
+2020-11-12,Adrian Mannarino,Radu Albot,0.458595,0.541405,LH,RH,M
+2020-11-12,Vasek Pospisil,John Millman,0.414225,0.5857749999999999,RH,RH,M
+2020-11-13,Vasek Pospisil,Richard Gasquet,0.414225,0.5857749999999999,RH,RH,M
+2020-11-15,Rafael Nadal,Andrey Rublev,0.59541,0.40459,LH,RH,M
+2020-11-16,Novak Djokovic,Diego Schwartzman,0.64203,0.35797,RH,RH,M
+2020-11-17,Dominic Thiem,Rafael Nadal,0.45601,0.54399,RH,LH,M
+2020-11-18,Alexander Zverev,Diego Schwartzman,0.480755,0.519245,RH,RH,M
+2020-11-19,Andrey Rublev,Dominic Thiem,0.534885,0.46511499999999995,RH,RH,M
+2020-11-20,Novak Djokovic,Alexander Zverev,0.5839799999999999,0.41602000000000006,RH,RH,M
+2020-11-21,Dominic Thiem,Novak Djokovic,0.487865,0.512135,RH,RH,M
+2020-01-06,Daria Kasatkina,Carla Suarez Navarro,0.49311499999999997,0.506885,RH,RH,F
+2020-01-06,Eugenie Bouchard,Kirsten Flipkens,0.520265,0.479735,RH,RH,F
+2020-01-07,Serena Williams,Camila Giorgi,0.68599,0.31401,RH,RH,F
+2020-01-07,Lauren Davis,Varvara Lepchenko,0.6612199999999999,0.3387800000000001,RH,LH,F
+2020-01-08,Alize Cornet,Petra Martic,0.48557,0.5144299999999999,RH,RH,F
+2020-01-08,Eugenie Bouchard,Caroline Garcia,0.520265,0.479735,RH,RH,F
+2020-01-09,Serena Williams,Christina Mchale,0.615845,0.384155,RH,RH,F
+2020-01-09,Caroline Wozniacki,Lauren Davis,0.48817,0.51183,RH,RH,F
+2020-01-10,Jessica Pegula,Alize Cornet,0.548265,0.451735,RH,RH,F
+2020-01-10,Serena Williams,Laura Siegemund,0.615845,0.384155,RH,RH,F
+2020-01-10,Caroline Wozniacki,Julia Goerges,0.48817,0.51183,RH,RH,F
+2020-01-11,Jessica Pegula,Caroline Wozniacki,0.548265,0.451735,RH,RH,F
+2020-01-12,Serena Williams,Jessica Pegula,0.615845,0.384155,RH,RH,F
+2020-01-06,Barbora Strycova,Johanna Konta,0.69591,0.30408999999999997,RH,RH,F
+2020-01-07,Yulia Putintseva,Donna Vekic,0.26428,0.7357199999999999,RH,RH,F
+2020-01-07,Kiki Bertens,Dayana Yastremska,0.6474949999999999,0.35250500000000007,RH,RH,F
+2020-01-07,Petra Kvitova,Anastasia Pavlyuchenkova,0.55837,0.44162999999999997,LH,RH,F
+2020-01-08,Madison Keys,Samantha Stosur,0.540055,0.45994500000000005,RH,RH,F
+2020-01-09,Kiki Bertens,Anett Kontaveit,0.5506,0.4494,RH,RH,F
+2020-01-11,Madison Keys,Petra Kvitova,0.775785,0.22421500000000005,RH,LH,F
+2020-01-05,Shuai Zhang,Magda Linette,0.45248,0.54752,RH,RH,F
+2020-01-06,Shelby Rogers,Nicole Gibbs,0.49717,0.50283,RH,RH,F
+2020-01-06,Qiang Wang,Ons Jabeur,0.506505,0.493495,RH,RH,F
+2020-01-06,Shuai Peng,Lin Zhu,0.403925,0.596075,RH,RH,F
+2020-01-07,Kateryna Bondarenko,Shuai Zhang,0.37759,0.62241,RH,RH,F
+2020-01-08,Garbine Muguruza,Shelby Rogers,0.488505,0.511495,RH,RH,F
+2020-01-09,Garbine Muguruza,Zarina Diyas,0.488505,0.511495,RH,RH,F
+2020-01-13,Anastasia Pavlyuchenkova,Anett Kontaveit,0.48097,0.51903,RH,RH,F
+2020-01-13,Ajla Tomljanovic,Yulia Putintseva,0.46253,0.53747,RH,RH,F
+2020-01-13,Belinda Bencic,Daria Kasatkina,0.5221,0.4779,RH,RH,F
+2020-01-13,Dayana Yastremska,Timea Babos,0.53914,0.46086000000000005,RH,RH,F
+2020-01-13,Angelique Kerber,Qiang Wang,0.49480999999999997,0.50519,LH,RH,F
+2020-01-14,Maria Sakkari,Vitalia Diatchenko,0.5078499999999999,0.4921500000000001,RH,RH,F
+2020-01-14,Marketa Vondrousova,Tatjana Maria,0.520265,0.479735,LH,RH,F
+2020-01-14,Ashleigh Barty,Anastasia Pavlyuchenkova,0.58101,0.41899,RH,RH,F
+2020-01-14,Simona Halep,Ajla Tomljanovic,0.592815,0.407185,RH,RH,F
+2020-01-15,Donna Vekic,Maria Sakkari,0.476545,0.523455,RH,RH,F
+2020-01-15,Angelique Kerber,Dayana Yastremska,0.49171,0.50829,LH,RH,F
+2020-01-15,Belinda Bencic,Julia Goerges,0.313825,0.686175,RH,RH,F
+2020-01-16,Dayana Yastremska,Donna Vekic,0.53914,0.46086000000000005,RH,RH,F
+2020-01-16,Ashleigh Barty,Marketa Vondrousova,0.781725,0.218275,RH,LH,F
+2020-01-18,Ashleigh Barty,Dayana Yastremska,0.58241,0.41759,RH,RH,F
+2020-01-13,Magda Linette,Svetlana Kuznetsova,0.450615,0.549385,RH,RH,F
+2020-01-14,Alize Cornet,Alison Van Uytvanck,0.48557,0.5144299999999999,RH,RH,F
+2020-01-14,Shuai Zhang,Kirsten Flipkens,0.45565,0.54435,RH,RH,F
+2020-01-15,Lauren Davis,Magda Linette,0.4157,0.5843,RH,RH,F
+2020-01-15,Garbine Muguruza,Ons Jabeur,0.488505,0.511495,RH,RH,F
+2020-01-16,Shuai Zhang,Lauren Davis,0.45565,0.54435,RH,RH,F
+2020-01-20,Paula Badosa,Johanna Larsson,0.389595,0.610405,RH,RH,F
+2020-01-20,Petra Martic,Christina Mchale,0.505645,0.494355,RH,RH,F
+2020-01-20,Sorana Cirstea,Barbora Strycova,0.5214650000000001,0.47853499999999993,RH,RH,F
+2020-01-20,Petra Kvitova,Katerina Siniakova,0.55837,0.44162999999999997,LH,RH,F
+2020-01-20,Ashleigh Barty,Lesia Tsurenko,0.5848899999999999,0.4151100000000001,RH,RH,F
+2020-01-20,Shuai Zhang,Sloane Stephens,0.45546,0.54454,RH,RH,F
+2020-01-21,Caroline Garcia,Madison Brengle,0.45786000000000004,0.54214,RH,RH,F
+2020-01-21,Ons Jabeur,Johanna Konta,0.51853,0.48146999999999995,RH,RH,F
+2020-01-21,Madison Keys,Daria Kasatkina,0.668905,0.33109500000000003,RH,RH,F
+2020-01-21,Donna Vekic,Maria Sharapova,0.41403,0.58597,RH,RH,F
+2020-01-21,Qiang Wang,Pauline Parmentier,0.506505,0.493495,RH,RH,F
+2020-01-21,Garbine Muguruza,Shelby Rogers,0.488505,0.511495,RH,RH,F
+2020-01-21,Laura Siegemund,Coco Vandeweghe,0.36148,0.63852,RH,RH,F
+2020-01-21,Alize Cornet,Monica Niculescu,0.48557,0.5144299999999999,RH,RH,F
+2020-01-22,Taylor Townsend,Jessica Pegula,0.449455,0.5505450000000001,LH,RH,F
+2020-01-22,Julia Goerges,Petra Martic,0.462755,0.537245,RH,RH,F
+2020-01-22,Petra Kvitova,Paula Badosa,0.55837,0.44162999999999997,LH,RH,F
+2020-01-22,Caroline Wozniacki,Dayana Yastremska,0.495975,0.504025,RH,RH,F
+2020-01-22,Ashleigh Barty,Polona Hercog,0.5883700000000001,0.41162999999999994,RH,RH,F
+2020-01-22,Ons Jabeur,Caroline Garcia,0.51853,0.48146999999999995,RH,RH,F
+2020-01-23,Belinda Bencic,Jelena Ostapenko,0.5221,0.4779,RH,RH,F
+2020-01-23,Donna Vekic,Alize Cornet,0.477435,0.522565,RH,RH,F
+2020-01-23,Garbine Muguruza,Ajla Tomljanovic,0.488505,0.511495,RH,RH,F
+2020-01-23,Anett Kontaveit,Sara Sorribes Tormo,0.467115,0.532885,RH,RH,F
+2020-01-23,Anastasia Pavlyuchenkova,Taylor Townsend,0.742955,0.25704499999999997,RH,LH,F
+2020-01-23,Camila Giorgi,Svetlana Kuznetsova,0.5168349999999999,0.48316500000000007,RH,RH,F
+2020-01-23,Elina Svitolina,Lauren Davis,0.54269,0.45731,RH,RH,F
+2020-01-24,Ons Jabeur,Caroline Wozniacki,0.51853,0.48146999999999995,RH,RH,F
+2020-01-24,Qiang Wang,Serena Williams,0.01376,0.98624,RH,RH,F
+2020-01-24,Maria Sakkari,Madison Keys,0.5078499999999999,0.4921500000000001,RH,RH,F
+2020-01-25,Angelique Kerber,Camila Giorgi,0.48545,0.5145500000000001,LH,RH,F
+2020-01-25,Anett Kontaveit,Belinda Bencic,0.467115,0.532885,RH,RH,F
+2020-01-25,Simona Halep,Yulia Putintseva,0.587675,0.41232500000000005,RH,RH,F
+2020-01-25,Garbine Muguruza,Elina Svitolina,0.195975,0.804025,RH,RH,F
+2020-01-25,Kiki Bertens,Zarina Diyas,0.55223,0.44777,RH,RH,F
+2020-01-26,Petra Kvitova,Maria Sakkari,0.5603,0.4397,LH,RH,F
+2020-01-26,Ons Jabeur,Qiang Wang,0.51789,0.48211000000000004,RH,RH,F
+2020-01-27,Garbine Muguruza,Kiki Bertens,0.603465,0.39653499999999997,RH,RH,F
+2020-01-27,Anastasia Pavlyuchenkova,Angelique Kerber,0.742955,0.25704499999999997,RH,LH,F
+2020-01-28,Ashleigh Barty,Petra Kvitova,0.500715,0.499285,RH,LH,F
+2020-01-29,Simona Halep,Anett Kontaveit,0.59077,0.40923,RH,RH,F
+2020-01-29,Garbine Muguruza,Anastasia Pavlyuchenkova,0.5053449999999999,0.49465500000000007,RH,RH,F
+2020-01-30,Garbine Muguruza,Simona Halep,0.344495,0.655505,RH,RH,F
+2020-02-12,Magda Linette,Kateryna Bondarenko,0.450615,0.549385,RH,RH,F
+2020-02-13,Magda Linette,Shuai Peng,0.450615,0.549385,RH,RH,F
+2020-02-10,Maria Sakkari,Vitalia Diatchenko,0.51183,0.48817,RH,RH,F
+2020-02-11,Alison Van Uytvanck,Kristina Mladenovic,0.4726,0.5274,RH,RH,F
+2020-02-11,Ajla Tomljanovic,Marketa Vondrousova,0.285185,0.714815,RH,LH,F
+2020-02-12,Alize Cornet,Jelena Ostapenko,0.52305,0.47695,RH,RH,F
+2020-02-12,Oceane Dodin,Johanna Konta,0.30718999999999996,0.69281,RH,RH,F
+2020-02-12,Belinda Bencic,Svetlana Kuznetsova,0.5221,0.4779,RH,RH,F
+2020-02-13,Maria Sakkari,Alize Cornet,0.51183,0.48817,RH,RH,F
+2020-02-13,Petra Kvitova,Alison Van Uytvanck,0.54988,0.45011999999999996,LH,RH,F
+2020-02-14,Maria Sakkari,Belinda Bencic,0.51183,0.48817,RH,RH,F
+2020-02-18,Anastasia Pavlyuchenkova,Belinda Bencic,0.322575,0.6774249999999999,RH,RH,F
+2020-02-18,Anett Kontaveit,Sorana Cirstea,0.464865,0.535135,RH,RH,F
+2020-02-19,Petra Martic,Barbora Strycova,0.51042,0.48958,RH,RH,F
+2020-02-19,Simona Halep,Ons Jabeur,0.5884499999999999,0.4115500000000001,RH,RH,F
+2020-02-19,Anett Kontaveit,Anastasia Pavlyuchenkova,0.464865,0.535135,RH,RH,F
+2020-02-20,Petra Martic,Anett Kontaveit,0.513955,0.48604499999999995,RH,RH,F
+2020-02-24,Heather Watson,Coco Vandeweghe,0.621745,0.378255,RH,RH,F
+2020-02-25,Kateryna Bondarenko,Danka Kovinic,0.42188000000000003,0.57812,RH,RH,F
+2020-02-26,Sara Errani,Sara Sorribes Tormo,0.52507,0.47492999999999996,RH,RH,F
+2020-02-26,Christina Mchale,Lauren Davis,0.405045,0.594955,RH,RH,F
+2020-02-26,Heather Watson,Kateryna Bondarenko,0.621745,0.378255,RH,RH,F
+2020-02-28,Heather Watson,Christina Mchale,0.621745,0.378255,RH,RH,F
+2020-02-23,Laura Siegemund,Yaroslava Shvedova,0.36148,0.63852,RH,RH,F
+2020-02-23,Garbine Muguruza,Daria Kasatkina,0.477005,0.522995,RH,RH,F
+2020-02-23,Alison Van Uytvanck,Polona Hercog,0.4726,0.5274,RH,RH,F
+2020-02-23,Ons Jabeur,Katerina Siniakova,0.513525,0.486475,RH,RH,F
+2020-02-24,Carla Suarez Navarro,Shuai Zhang,0.422985,0.5770150000000001,RH,RH,F
+2020-02-24,Maria Sakkari,Julia Goerges,0.5011450000000001,0.49885499999999994,RH,RH,F
+2020-02-24,Barbora Strycova,Petra Martic,0.49251,0.50749,RH,RH,F
+2020-02-24,Saisai Zheng,Marketa Vondrousova,0.55337,0.44662999999999997,RH,LH,F
+2020-02-24,Yulia Putintseva,Timea Babos,0.44323,0.55677,RH,RH,F
+2020-02-24,Dayana Yastremska,Kirsten Flipkens,0.523075,0.47692500000000004,RH,RH,F
+2020-02-25,Jelena Ostapenko,Barbora Strycova,0.45925,0.5407500000000001,RH,RH,F
+2020-02-25,Saisai Zheng,Vera Zvonareva,0.45919,0.54081,RH,RH,F
+2020-02-25,Petra Kvitova,Carla Suarez Navarro,0.550675,0.449325,LH,RH,F
+2020-02-25,Ashleigh Barty,Laura Siegemund,0.587595,0.412405,RH,RH,F
+2020-02-25,Garbine Muguruza,Ajla Tomljanovic,0.5160750000000001,0.48392499999999994,RH,RH,F
+2020-02-26,Petra Kvitova,Jelena Ostapenko,0.550675,0.449325,LH,RH,F
+2020-02-26,Saisai Zheng,Kiki Bertens,0.499575,0.500425,RH,RH,F
+2020-02-26,Belinda Bencic,Yulia Putintseva,0.5827800000000001,0.4172199999999999,RH,RH,F
+2020-02-26,Garbine Muguruza,Dayana Yastremska,0.31554499999999996,0.684455,RH,RH,F
+2020-02-27,Svetlana Kuznetsova,Belinda Bencic,0.46952499999999997,0.530475,RH,RH,F
+2020-02-27,Petra Kvitova,Ons Jabeur,0.51156,0.48844,LH,RH,F
+2020-02-27,Ashleigh Barty,Garbine Muguruza,0.587595,0.412405,RH,RH,F
+2020-02-28,Petra Kvitova,Ashleigh Barty,0.493765,0.506235,LH,RH,F
+2020-03-03,Daria Kasatkina,Pauline Parmentier,0.488795,0.511205,RH,RH,F
+2020-03-04,Oceane Dodin,Mandy Minella,0.30718999999999996,0.69281,RH,RH,F
+2020-03-04,Camila Giorgi,Alize Cornet,0.5168349999999999,0.48316500000000007,RH,RH,F
+2020-03-06,Daria Kasatkina,Camila Giorgi,0.488795,0.511205,RH,RH,F
+2020-03-06,Alison Van Uytvanck,Caroline Garcia,0.46525,0.5347500000000001,RH,RH,F
+2020-03-03,Tatjana Maria,Heather Watson,0.504135,0.495865,RH,RH,F
+2020-03-03,Kateryna Bondarenko,Sara Sorribes Tormo,0.42188000000000003,0.57812,RH,RH,F
+2020-03-03,Elina Svitolina,Danka Kovinic,0.541485,0.458515,RH,RH,F
+2020-03-05,Johanna Konta,Tatjana Maria,0.488765,0.511235,RH,RH,F
+2020-03-06,Elina Svitolina,Olga Govortsova,0.541485,0.458515,RH,RH,F
+2020-08-03,Sara Errani,Sorana Cirstea,0.579005,0.420995,RH,RH,F
+2020-08-04,Dayana Yastremska,Sara Sorribes Tormo,0.519415,0.48058500000000004,RH,RH,F
+2020-08-04,Petra Martic,Alison Van Uytvanck,0.50922,0.49078,RH,RH,F
+2020-08-06,Anett Kontaveit,Laura Siegemund,0.45899,0.54101,RH,RH,F
+2020-08-07,Dayana Yastremska,Oceane Dodin,0.519415,0.48058500000000004,RH,RH,F
+2020-08-07,Camila Giorgi,Dayana Yastremska,0.56168,0.43832000000000004,RH,RH,F
+2020-08-08,Anett Kontaveit,Petra Martic,0.45899,0.54101,RH,RH,F
+2020-08-10,Magda Linette,Lauren Davis,0.475055,0.524945,RH,RH,F
+2020-08-11,Jessica Pegula,Vera Zvonareva,0.52798,0.47202,RH,RH,F
+2020-08-11,Yulia Putintseva,Ajla Tomljanovic,0.449225,0.550775,RH,RH,F
+2020-08-11,Venus Williams,Victoria Azarenka,0.505115,0.494885,RH,RH,F
+2020-08-12,Ons Jabeur,Olga Govortsova,0.51647,0.48353,RH,RH,F
+2020-08-13,Serena Williams,Venus Williams,0.632725,0.367275,RH,RH,F
+2020-08-14,Shelby Rogers,Serena Williams,0.49717,0.50283,RH,RH,F
+2020-08-11,Simona Halep,Polona Hercog,0.592775,0.40722499999999995,RH,RH,F
+2020-08-11,Sara Sorribes Tormo,Barbora Strycova,0.459285,0.5407150000000001,RH,RH,F
+2020-08-13,Sara Sorribes Tormo,Laura Siegemund,0.459285,0.5407150000000001,RH,RH,F
+2020-08-14,Simona Halep,Magdalena Frech,0.584855,0.415145,RH,RH,F
+2020-08-22,Victoria Azarenka,Donna Vekic,0.45687,0.54313,RH,RH,F
+2020-08-23,Dayana Yastremska,Venus Williams,0.5203450000000001,0.47965499999999994,RH,RH,F
+2020-08-23,Anett Kontaveit,Daria Kasatkina,0.453235,0.546765,RH,RH,F
+2020-08-23,Vera Zvonareva,Magda Linette,0.50239,0.49761,RH,RH,F
+2020-08-23,Laura Siegemund,Marketa Vondrousova,0.645595,0.35440499999999997,RH,LH,F
+2020-08-23,Kirsten Flipkens,Katerina Siniakova,0.41934499999999997,0.580655,RH,RH,F
+2020-08-23,Yulia Putintseva,Shuai Zhang,0.449225,0.550775,RH,RH,F
+2020-08-23,Caroline Garcia,Sloane Stephens,0.463155,0.536845,RH,RH,F
+2020-08-24,Johanna Konta,Kirsten Flipkens,0.5092300000000001,0.49076999999999993,RH,RH,F
+2020-08-24,Vera Zvonareva,Laura Siegemund,0.50239,0.49761,RH,RH,F
+2020-08-24,Maria Sakkari,Yulia Putintseva,0.500205,0.499795,RH,RH,F
+2020-08-25,Victoria Azarenka,Caroline Garcia,0.47028499999999995,0.529715,RH,RH,F
+2020-08-25,Ons Jabeur,Madison Keys,0.5148699999999999,0.48513000000000006,RH,RH,F
+2020-08-25,Johanna Konta,Vera Zvonareva,0.5092300000000001,0.49076999999999993,RH,RH,F
+2020-08-25,Victoria Azarenka,Alize Cornet,0.6445449999999999,0.3554550000000001,RH,RH,F
+2020-08-25,Ons Jabeur,Christina Mchale,0.5148699999999999,0.48513000000000006,RH,RH,F
+2020-08-26,Maria Sakkari,Serena Williams,0.500205,0.499795,RH,RH,F
+2020-08-26,Victoria Azarenka,Ons Jabeur,0.47028499999999995,0.529715,RH,RH,F
+2020-08-27,Johanna Konta,Maria Sakkari,0.31554,0.6844600000000001,RH,RH,F
+2020-08-28,Victoria Azarenka,Johanna Konta,0.476,0.524,RH,RH,F
+2020-09-08,Sara Sorribes Tormo,Heather Watson,0.459285,0.5407150000000001,RH,RH,F
+2020-09-09,Danka Kovinic,Kateryna Bondarenko,0.5751999999999999,0.42480000000000007,RH,RH,F
+2020-09-10,Danka Kovinic,Alison Van Uytvanck,0.5751999999999999,0.42480000000000007,RH,RH,F
+2020-09-10,Eugenie Bouchard,Svetlana Kuznetsova,0.5721499999999999,0.42785000000000006,RH,RH,F
+2020-09-10,Paula Badosa,Sara Sorribes Tormo,0.3827,0.6173,RH,RH,F
+2020-09-11,Eugenie Bouchard,Danka Kovinic,0.5721499999999999,0.42785000000000006,RH,RH,F
+2020-09-11,Paula Badosa,Polona Hercog,0.3827,0.6173,RH,RH,F
+2020-09-12,Eugenie Bouchard,Paula Badosa,0.5721499999999999,0.42785000000000006,RH,RH,F
+2020-08-31,Angelique Kerber,Ajla Tomljanovic,0.481315,0.5186850000000001,LH,RH,F
+2020-09-01,Camila Giorgi,Alison Van Uytvanck,0.56168,0.43832000000000004,RH,RH,F
+2020-09-01,Sorana Cirstea,Christina Mchale,0.499275,0.500725,RH,RH,F
+2020-09-01,Johanna Konta,Heather Watson,0.511475,0.488525,RH,RH,F
+2020-09-01,Alize Cornet,Lauren Davis,0.5472600000000001,0.4527399999999999,RH,RH,F
+2020-09-02,Madison Keys,Timea Babos,0.55014,0.44986000000000004,RH,RH,F
+2020-09-02,Kaia Kanepi,Katerina Siniakova,0.509825,0.490175,RH,RH,F
+2020-09-02,Maria Sakkari,Stefanie Voegele,0.49153,0.50847,RH,RH,F
+2020-09-02,Petra Martic,Kateryna Bondarenko,0.50922,0.49078,RH,RH,F
+2020-09-02,Magda Linette,Danka Kovinic,0.475055,0.524945,RH,RH,F
+2020-09-02,Jessica Pegula,Kirsten Flipkens,0.51028,0.48972000000000004,RH,RH,F
+2020-09-03,Madison Brengle,Dayana Yastremska,0.43005000000000004,0.56995,RH,RH,F
+2020-09-03,Ons Jabeur,Kaia Kanepi,0.50871,0.49129,RH,RH,F
+2020-09-03,Sorana Cirstea,Johanna Konta,0.499275,0.500725,RH,RH,F
+2020-09-04,Sloane Stephens,Olga Govortsova,0.458375,0.541625,RH,RH,F
+2020-09-04,Anett Kontaveit,Magda Linette,0.46194,0.53806,RH,RH,F
+2020-09-05,Shelby Rogers,Madison Brengle,0.58371,0.41629000000000005,RH,RH,F
+2020-09-05,Petra Kvitova,Jessica Pegula,0.566155,0.43384500000000004,LH,RH,F
+2020-09-05,Serena Williams,Sloane Stephens,0.632725,0.367275,RH,RH,F
+2020-09-05,Tsvetana Pironkova,Donna Vekic,0.66825,0.33175,RH,RH,F
+2020-09-06,Alize Cornet,Madison Keys,0.5472600000000001,0.4527399999999999,RH,RH,F
+2020-09-06,Yulia Putintseva,Petra Martic,0.449225,0.550775,RH,RH,F
+2020-09-07,Serena Williams,Maria Sakkari,0.6324700000000001,0.3675299999999999,RH,RH,F
+2020-09-07,Tsvetana Pironkova,Alize Cornet,0.66825,0.33175,RH,RH,F
+2020-09-09,Serena Williams,Tsvetana Pironkova,0.622485,0.37751500000000004,RH,RH,F
+2020-09-11,Victoria Azarenka,Serena Williams,0.432085,0.567915,RH,RH,F
+2020-09-14,Anastasia Pavlyuchenkova,Shuai Zhang,0.48459,0.5154099999999999,RH,RH,F
+2020-09-14,Magda Linette,Jelena Ostapenko,0.475055,0.524945,RH,RH,F
+2020-09-14,Danka Kovinic,Julia Goerges,0.5751999999999999,0.42480000000000007,RH,RH,F
+2020-09-14,Dayana Yastremska,Camila Giorgi,0.5203450000000001,0.47965499999999994,RH,RH,F
+2020-09-15,Anett Kontaveit,Caroline Garcia,0.45459499999999997,0.545405,RH,RH,F
+2020-09-15,Daria Kasatkina,Vera Zvonareva,0.42069,0.57931,RH,RH,F
+2020-09-15,Garbine Muguruza,Sloane Stephens,0.49960499999999997,0.500395,RH,RH,F
+2020-09-16,Victoria Azarenka,Venus Williams,0.494965,0.505035,RH,RH,F
+2020-09-16,Danka Kovinic,Belinda Bencic,0.5751999999999999,0.42480000000000007,RH,RH,F
+2020-09-16,Elina Svitolina,Anastasia Pavlyuchenkova,0.532225,0.46777500000000005,RH,RH,F
+2020-09-17,Daria Kasatkina,Katerina Siniakova,0.50004,0.49995999999999996,RH,RH,F
+2020-09-17,Svetlana Kuznetsova,Anett Kontaveit,0.48661,0.51339,RH,RH,F
+2020-09-17,Yulia Putintseva,Petra Martic,0.445445,0.554555,RH,RH,F
+2020-09-17,Polona Hercog,Kiki Bertens,0.5140750000000001,0.48592499999999994,RH,RH,F
+2020-09-18,Simona Halep,Dayana Yastremska,0.5921350000000001,0.4078649999999999,RH,RH,F
+2020-09-18,Garbine Muguruza,Johanna Konta,0.49960499999999997,0.500395,RH,RH,F
+2020-09-18,Victoria Azarenka,Daria Kasatkina,0.53414,0.46586000000000005,RH,RH,F
+2020-09-18,Elina Svitolina,Svetlana Kuznetsova,0.728945,0.27105500000000005,RH,RH,F
+2020-09-18,Marketa Vondrousova,Polona Hercog,0.5126,0.48740000000000006,LH,RH,F
+2020-09-19,Simona Halep,Yulia Putintseva,0.73387,0.26613,RH,RH,F
+2020-09-19,Garbine Muguruza,Victoria Azarenka,0.8230299999999999,0.17697000000000007,RH,RH,F
+2020-09-19,Marketa Vondrousova,Elina Svitolina,0.41059999999999997,0.5894,LH,RH,F
+2020-09-20,Simona Halep,Garbine Muguruza,0.47409500000000004,0.525905,RH,RH,F
+2020-09-20,Anastasia Pavlyuchenkova,Alison Van Uytvanck,0.48459,0.5154099999999999,RH,RH,F
+2020-09-21,Zarina Diyas,Christina Mchale,0.392265,0.607735,RH,RH,F
+2020-09-21,Magda Linette,Pauline Parmentier,0.475055,0.524945,RH,RH,F
+2020-09-21,Alize Cornet,Polona Hercog,0.52356,0.47644,RH,RH,F
+2020-09-21,Shuai Zhang,Ajla Tomljanovic,0.45467,0.54533,RH,RH,F
+2020-09-21,Jelena Ostapenko,Lauren Davis,0.45333999999999997,0.54666,RH,RH,F
+2020-09-22,Elina Svitolina,Magda Linette,0.532225,0.46777500000000005,RH,RH,F
+2020-09-23,Jelena Ostapenko,Kiki Bertens,0.29771499999999995,0.702285,RH,RH,F
+2020-09-27,Victoria Azarenka,Danka Kovinic,0.543515,0.45648500000000003,RH,RH,F
+2020-09-27,Maria Sakkari,Ajla Tomljanovic,0.48705,0.51295,RH,RH,F
+2020-09-27,Simona Halep,Sara Sorribes Tormo,0.597185,0.40281500000000003,RH,RH,F
+2020-09-27,Caroline Garcia,Anett Kontaveit,0.4686,0.5314,RH,RH,F
+2020-09-27,Barbora Strycova,Varvara Lepchenko,0.421205,0.578795,RH,LH,F
+2020-09-27,Yulia Putintseva,Kirsten Flipkens,0.466215,0.533785,RH,RH,F
+2020-09-28,Petra Kvitova,Oceane Dodin,0.5686,0.4314,LH,RH,F
+2020-09-28,Sara Errani,Monica Puig,0.5171600000000001,0.48283999999999994,RH,RH,F
+2020-09-28,Katerina Siniakova,Lauren Davis,0.434925,0.565075,RH,RH,F
+2020-09-28,Tsvetana Pironkova,Andrea Petkovic,0.5620350000000001,0.43796499999999994,RH,RH,F
+2020-09-28,Anastasia Pavlyuchenkova,Svetlana Kuznetsova,0.48459,0.5154099999999999,RH,RH,F
+2020-09-28,Shuai Zhang,Madison Keys,0.45467,0.54533,RH,RH,F
+2020-09-29,Jelena Ostapenko,Madison Brengle,0.45333999999999997,0.54666,RH,RH,F
+2020-09-29,Laura Siegemund,Kristina Mladenovic,0.382795,0.617205,RH,RH,F
+2020-09-29,Ons Jabeur,Zarina Diyas,0.50871,0.49129,RH,RH,F
+2020-09-29,Sloane Stephens,Vitalia Diatchenko,0.458375,0.541625,RH,RH,F
+2020-09-29,Petra Martic,Misaki Doi,0.537475,0.46252499999999996,RH,LH,F
+2020-09-30,Kiki Bertens,Sara Errani,0.556135,0.44386499999999995,RH,RH,F
+2020-09-30,Tsvetana Pironkova,Serena Williams,0.459175,0.540825,RH,RH,F
+2020-09-30,Katerina Siniakova,Anastasia Pavlyuchenkova,0.434925,0.565075,RH,RH,F
+2020-10-01,Paula Badosa,Sloane Stephens,0.37612,0.62388,RH,RH,F
+2020-10-01,Laura Siegemund,Julia Goerges,0.382795,0.617205,RH,RH,F
+2020-10-01,Shuai Zhang,Alize Cornet,0.45467,0.54533,RH,RH,F
+2020-10-02,Kiki Bertens,Katerina Siniakova,0.7549399999999999,0.24506000000000006,RH,RH,F
+2020-10-03,Laura Siegemund,Petra Martic,0.392885,0.6071150000000001,RH,RH,F
+2020-10-03,Paula Badosa,Jelena Ostapenko,0.37612,0.62388,RH,RH,F
+2020-10-04,Elina Svitolina,Caroline Garcia,0.5361549999999999,0.46384500000000006,RH,RH,F
+2020-10-05,Petra Kvitova,Shuai Zhang,0.5686,0.4314,LH,RH,F
+2020-10-05,Laura Siegemund,Paula Badosa,0.392885,0.6071150000000001,RH,RH,F
+2020-10-07,Petra Kvitova,Laura Siegemund,0.5686,0.4314,LH,RH,F
+2020-10-19,Sara Sorribes Tormo,Magda Linette,0.43477,0.56523,RH,RH,F
+2020-10-20,Ons Jabeur,Barbora Strycova,0.49722,0.50278,RH,RH,F
+2020-10-21,Jelena Ostapenko,Petra Martic,0.448905,0.551095,RH,RH,F
+2020-10-21,Maria Sakkari,Elina Svitolina,0.399305,0.600695,RH,RH,F
+2020-10-21,Sara Sorribes Tormo,Anett Kontaveit,0.43477,0.56523,RH,RH,F
+2020-10-22,Ons Jabeur,Jelena Ostapenko,0.48897999999999997,0.51102,RH,RH,F
+2020-10-23,Maria Sakkari,Ons Jabeur,0.494415,0.505585,RH,RH,F
+2020-10-24,Victoria Azarenka,Maria Sakkari,0.544735,0.45526500000000003,RH,RH,F
