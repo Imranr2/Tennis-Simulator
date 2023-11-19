@@ -2,7 +2,7 @@
 
 ## Testing Locally
 
-Note that the steps creating the PCSP files and updating the probabilities are not necessary if you are only testing locally. **The files are already generated and included in the repository, so the steps bellow are just for verification purposes only.**
+Note that the steps to create the PCSP files and update the probabilities are not necessary if you are only testing locally. **The files are already generated and included in the repository, so the steps bellow are just for verification purposes only.**
 
 ### Creating the PCSP files
 
