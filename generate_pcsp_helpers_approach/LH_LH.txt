@@ -208,12 +208,12 @@ Ply1_ad_stroke_ap = pcase{
  
 // deuce stroke is when player1 hit position is 1
 Ply1_de_stroke_NLV = pcase{
-   p126: FH_V_InsideOut{ball=6} -> Ply2_de_stroke
-   p127: FH_V_InsideIn{ball=4} -> Ply2_ad_stroke
-   p128: FH_V_DownMid{ball=5} -> Ply2_mid_stroke
-   p129: BH_V_Crosscourt{ball=6} -> Ply2_de_stroke
-   p130: BH_V_Downline{ball=4} -> Ply2_ad_stroke
-   p131: BH_V_DownMid{ball=5} -> Ply2_mid_stroke
+   p126: FH_NV_InsideOut{ball=6} -> Ply2_de_stroke
+   p127: FH_NV_InsideIn{ball=4} -> Ply2_ad_stroke
+   p128: FH_NV_DownMid{ball=5} -> Ply2_mid_stroke
+   p129: BH_NV_Crosscourt{ball=6} -> Ply2_de_stroke
+   p130: BH_NV_Downline{ball=4} -> Ply2_ad_stroke
+   p131: BH_NV_DownMid{ball=5} -> Ply2_mid_stroke
    p132: Winner{ball=9} -> {fscore++; if (fscore == points) {won = player1}
                                                              else { turn = (turn+1)%4} }-> NextPt
    p133: Error{ball=9} -> {nscore++; if (nscore == points) {won = player2}
@@ -222,12 +222,12 @@ Ply1_de_stroke_NLV = pcase{
   
 // mid stroke is when player1 hit position is 2
 Ply1_mid_stroke_NLV = pcase{
-   p134: FH_V_InsideOut{ball=6} -> Ply2_de_stroke
-   p135: FH_V_Crosscourt{ball=4} -> Ply2_ad_stroke
-   p136: FH_V_DownMid{ball=5} -> Ply2_mid_stroke
-   p137: BH_V_InsideOut{ball=4} -> Ply2_ad_stroke
-   p138: BH_V_Crosscourt{ball=6} -> Ply2_de_stroke
-   p139: BH_V_DownMid{ball=5} -> Ply2_mid_stroke
+   p134: FH_NV_InsideOut{ball=6} -> Ply2_de_stroke
+   p135: FH_NV_Crosscourt{ball=4} -> Ply2_ad_stroke
+   p136: FH_NV_DownMid{ball=5} -> Ply2_mid_stroke
+   p137: BH_NV_InsideOut{ball=4} -> Ply2_ad_stroke
+   p138: BH_NV_Crosscourt{ball=6} -> Ply2_de_stroke
+   p139: BH_NV_DownMid{ball=5} -> Ply2_mid_stroke
    p140: Winner{ball=9} -> {fscore++; if (fscore == points) {won = player1}
                                                              else { turn = (turn+1)%4} }-> NextPt
    p141: Error{ball=9} -> {nscore++; if (nscore == points) {won = player2}
@@ -237,12 +237,12 @@ Ply1_mid_stroke_NLV = pcase{
  
 // ad stroke is when player1 hit position is 3
 Ply1_ad_stroke_NLV = pcase{
-   p142: FH_V_Crosscourt{ball=4} -> Ply2_ad_stroke
-   p143: FH_V_Downline{ball=6} -> Ply2_de_stroke
-   p144: FH_V_DownMid{ball=5} -> Ply2_mid_stroke
-   p145: BH_V_InsideIn{ball=6} -> Ply2_de_stroke
-   p146: BH_V_InsideOut{ball=4} -> Ply2_ad_stroke
-   p147: BH_V_DownMid{ball=5} -> Ply2_mid_stroke
+   p142: FH_NV_Crosscourt{ball=4} -> Ply2_ad_stroke
+   p143: FH_NV_Downline{ball=6} -> Ply2_de_stroke
+   p144: FH_NV_DownMid{ball=5} -> Ply2_mid_stroke
+   p145: BH_NV_InsideIn{ball=6} -> Ply2_de_stroke
+   p146: BH_NV_InsideOut{ball=4} -> Ply2_ad_stroke
+   p147: BH_NV_DownMid{ball=5} -> Ply2_mid_stroke
    p148: Winner{ball=9} -> {fscore++; if (fscore == points) {won = player1}
                                                              else { turn = (turn+1)%4} }-> NextPt
    p149: Error{ball=9} -> {nscore++; if (nscore == points) {won = player2}
@@ -452,12 +452,12 @@ Ply2_ad_stroke_ap = pcase{
  
 // deuce stroke is when player2 hit position is 6
 Ply2_de_stroke_NLV = pcase { // if already
-   p276: FH_V_InsideOut {ball = 1} -> Ply1_de_stroke
-   p277: FH_V_insideIn {ball = 3} -> Ply1_ad_stroke
-   p278: FH_V_DownMid {ball = 2} -> Ply1_mid_stroke
-   p279: BH_V_Crosscourt {ball = 1} -> Ply1_de_stroke
-   p280: BH_V_Downline {ball = 3} -> Ply1_ad_stroke
-   p281: BH_V_DownMid {ball = 2} -> Ply1_mid_stroke
+   p276: FH_NV_InsideOut {ball = 1} -> Ply1_de_stroke
+   p277: FH_NV_insideIn {ball = 3} -> Ply1_ad_stroke
+   p278: FH_NV_DownMid {ball = 2} -> Ply1_mid_stroke
+   p279: BH_NV_Crosscourt {ball = 1} -> Ply1_de_stroke
+   p280: BH_NV_Downline {ball = 3} -> Ply1_ad_stroke
+   p281: BH_NV_DownMid {ball = 2} -> Ply1_mid_stroke
    p282: Winner{ball = 9} -> {nscore++; if (nscore == points) {won = player2}
                                                              else { turn = (turn+1)%4} }-> NextPt
    p283: Error {ball = 9} -> {fscore++; if (fscore == points) {won = player1}
@@ -466,12 +466,12 @@ Ply2_de_stroke_NLV = pcase { // if already
  
 // mid stroke is when player2 hit position is 5
 Ply2_mid_stroke_NLV = noMove -> pcase{
-   p284: FH_V_InsideOut {ball = 1} -> Ply1_de_stroke
-   p285: FH_V_Crosscourt{ball = 3} -> Ply1_ad_stroke
-   p286: FH_V_DownMid {ball = 2} -> Ply1_mid_stroke
-   p287: BH_V_InsideOut {ball = 3} -> Ply1_ad_stroke
-   p288: BH_V_Crosscourt {ball = 1} -> Ply1_de_stroke
-   p289: BH_V_DownMid {ball = 2} -> Ply1_mid_stroke
+   p284: FH_NV_InsideOut {ball = 1} -> Ply1_de_stroke
+   p285: FH_NV_Crosscourt{ball = 3} -> Ply1_ad_stroke
+   p286: FH_NV_DownMid {ball = 2} -> Ply1_mid_stroke
+   p287: BH_NV_InsideOut {ball = 3} -> Ply1_ad_stroke
+   p288: BH_NV_Crosscourt {ball = 1} -> Ply1_de_stroke
+   p289: BH_NV_DownMid {ball = 2} -> Ply1_mid_stroke
    p290: Winner{ball = 9} -> {nscore++; if (nscore == points) {won = player2}
                                                              else { turn = (turn+1)%4} }-> NextPt
    p291: Error {ball = 9} -> {fscore++; if (fscore == points) {won = player1}
@@ -480,12 +480,12 @@ Ply2_mid_stroke_NLV = noMove -> pcase{
  
 // ad stroke is when player 2 hit position is 4
 Ply2_ad_stroke_NLV = pcase{
-   p292: FH_V_Crosscourt {ball = 3} -> Ply1_ad_stroke
-   p293: FH_V_Downline {ball = 1} -> Ply1_de_stroke
-   p294: FH_V_DownMid {ball = 2} -> Ply1_mid_stroke
-   p295: BH_V_InsideIn {ball = 1} -> Ply1_de_stroke
-   p296: BH_V_InsideOut {ball = 3} -> Ply1_ad_stroke
-   p297: BH_V_DownMid {ball = 2} -> Ply1_mid_stroke
+   p292: FH_NV_Crosscourt {ball = 3} -> Ply1_ad_stroke
+   p293: FH_NV_Downline {ball = 1} -> Ply1_de_stroke
+   p294: FH_NV_DownMid {ball = 2} -> Ply1_mid_stroke
+   p295: BH_NV_InsideIn {ball = 1} -> Ply1_de_stroke
+   p296: BH_NV_InsideOut {ball = 3} -> Ply1_ad_stroke
+   p297: BH_NV_DownMid {ball = 2} -> Ply1_mid_stroke
    p298: Winner{ball = 9} -> {nscore++; if (nscore == points) {won = player2}
                                                              else { turn = (turn+1)%4} }-> NextPt
    p299: Error {ball = 9} -> {fscore++; if (fscore == points) {won = player1}
