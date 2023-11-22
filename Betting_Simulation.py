@@ -10,7 +10,7 @@ import os
 warnings.simplefilter("ignore")
 
 
-for year in [2018, 2020, 2022]:
+for year in [2018, 2019, 2020, 2021, 2022]:
     print(f'-------------------{year}-------------------')
     
     models = ["APPROACH", "BASELINE"]

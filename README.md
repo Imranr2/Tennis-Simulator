@@ -10,11 +10,13 @@ To create the PCSP files, run the following commands:
 
 ```bash
 python3 Multi_PCSP_Generator_2018.py
+python3 Multi_PCSP_Generator_2019.py
 python3 Multi_PCSP_Generator_2020.py
+python3 Multi_PCSP_Generator_2021.py
 python3 Multi_PCSP_Generator_2022.py
 ```
 
-These commands will create the PCSP files for the 2018, 2020, and 2022 years. They will be located in the directories `pcsp_files_2018`, `pcsp_files_2020`, and `pcsp_files_2022` respectively. Note that the generation takes a long time, so it is recommended to run these commands in parallel in different terminal sessions.
+These commands will create the PCSP files for the 2018, 2019, 2020, 2021, and 2022 years. They will be located in the directories `pcsp_files_2018`, `pcsp_files_2019`, `pcsp_files_2020`, `pcsp_files_2021`, and `pcsp_files_2022` respectively. Note that the generation takes a long time, so it is recommended to run these commands in parallel in different terminal sessions.
 
 Note that for the year 2018, we have 5 models:
 
@@ -24,7 +26,7 @@ Note that for the year 2018, we have 5 models:
 1. Previous Shots
 1. Baseline
 
-For the years 2020 and 2022, we have 2 models:
+For the years 2019. 2020, 2021 and 2022, we have 2 models:
 
 1. Approach
 1. Baseline
@@ -35,7 +37,9 @@ To update the probabilities using the newly generated PCSP files, run the follow
 
 ```bash
 python3 Update_Probabilities_2018.py <PATH_TO_DIR_THAT_CONTAINS_PAT_EXE>
+python3 Update_Probabilities_2019.py <PATH_TO_DIR_THAT_CONTAINS_PAT_EXE>
 python3 Update_Probabilities_2020.py <PATH_TO_DIR_THAT_CONTAINS_PAT_EXE>
+python3 Update_Probabilities_2021.py <PATH_TO_DIR_THAT_CONTAINS_PAT_EXE>
 python3 Update_Probabilities_2022.py <PATH_TO_DIR_THAT_CONTAINS_PAT_EXE>
 ```
 
@@ -45,7 +49,7 @@ If you are using windows, it is best to run this in WSL and provide the path to 
 python3 Update_Probabilites_2022.py "/mnt/c/Program Files/Process Analysis Toolkit/Process Analysis Toolkit 3.5.1"
 ```
 
-These commands will update the probabilities for the 2018, 2020, and 2022 years. They will be located in the directories `MDP_pred_with_prob/2018`, `MDP_pred_with_prob/2020`, and `MDP_pred_with_prob/2022` respectively. Note that the generation takes a long time, so it is recommended to run these commands in parallel in different terminal sessions.
+These commands will update the probabilities for the 2018, 2019, 2020, 2021, and 2022 years. They will be located in the directories `MDP_pred_with_prob/2018`, `MDP_pred_with_prob/2019`, `MDP_pred_with_prob/2020`, `MDP_pred_with_prob/2021`, and `MDP_pred_with_prob/2022` respectively. Note that the generation takes a long time, so it is recommended to run these commands in parallel in different terminal sessions.
 
 ### Running the betting simulation
 
@@ -55,4 +59,4 @@ To run the betting simulation, run the following command:
 python3 Betting_Simulation.py
 ```
 
-This command will run the betting simulation for the 2018, 2020, and 2022 years. The results will be printed out in the terminal.
+This command will run the betting simulation for the 2018, 2019, 2020, 2021, and 2022 years. The results will be printed out in the terminal.
